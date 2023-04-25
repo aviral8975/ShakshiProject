@@ -1,0 +1,1001 @@
+﻿Employee ID,FullName,Gender,Age,HireDate,EducationBackground,MaritalStatus,EmpDepartment,EmpJobRole,BusinessTravelFrequency,AnnualSalary,DistanceFromHome,EmpEducationLevel,EmpEnvironmentSatisfaction,EmpHourlyRate,EmpJobInvolvement,EmpJobLevel,EmpJobSatisfaction,NumCompaniesWorked,OverTime,EmpLastSalaryHikePercent,EmpRelationshipSatisfaction,TotalWorkExperienceInYears,TrainingTimesLastYear,EmpWorkLifeBalance,ExperienceYearsAtThisCompany,ExperienceYearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Attrition,PerformanceRating
+E02002,Kai Le,Male,47,2/5/2022,Marketing,Single,Sales,Sales Executive,Travel_Rarely,92368,10,3,4,55,3,2,4,1,No,12,4,10,2,2,10,7,0,8,No,3
+E02003,Robert Patel,Male,58,10/23/2013,Marketing,Single,Sales,Sales Executive,Travel_Rarely,45703,14,4,4,42,3,2,1,2,No,12,4,20,2,3,7,7,1,7,No,3
+E02004,Cameron Lo,Male,34,3/24/2019,Life Sciences,Married,Sales,Sales Executive,Travel_Frequently,83576,5,4,4,48,2,3,1,5,Yes,21,3,20,2,3,18,13,1,12,No,4
+E02005,Harper Castillo,Female,39,4/7/2018,Human Resources,Divorced,Human Resources,Manager,Travel_Rarely,98062,10,4,2,73,2,5,4,3,No,15,2,23,2,2,21,6,12,6,No,3
+E02006,Harper Dominguez,Female,42,6/18/2005,Marketing,Single,Sales,Sales Executive,Travel_Rarely,175391,16,4,1,84,3,2,1,8,No,14,4,10,1,3,2,2,2,2,No,3
+E02007,Ezra Vu,Male,62,4/22/2004,Life Sciences,Divorced,Development,Developer,Travel_Frequently,66227,10,2,4,32,3,3,1,1,No,21,3,9,4,2,9,7,1,7,No,4
+E02008,Jade Hu,Female,58,6/27/2009,Marketing,Married,Sales,Sales Representative,Travel_Rarely,89744,8,4,4,54,3,1,2,7,No,15,4,4,2,3,2,2,2,2,No,3
+E02009,Miles Chang,Male,62,2/19/1999,Life Sciences,Single,Development,Developer,Travel_Rarely,69674,1,2,1,67,1,1,2,7,Yes,13,4,10,4,3,7,7,3,7,Yes,3
+E02010,Gianna Holmes,Female,38,9/9/2011,Life Sciences,Married,Development,Developer,Non-Travel,97630,8,3,1,63,4,3,1,9,No,14,1,10,2,3,8,7,0,5,No,3
+E02011,Jameson Thomas,Male,52,2/5/2015,Life Sciences,Single,Development,Developer,Travel_Rarely,105879,1,3,3,81,3,3,3,4,Yes,14,4,10,4,4,1,0,0,0,No,3
+E02012,Jameson Pena,Male,49,10/12/2003,Medical,Single,Development,Developer,Non-Travel,40499,24,3,1,49,1,1,3,2,No,14,3,9,5,3,5,2,1,4,No,3
+E02013,Bella Wu,Female,63,8/3/2014,Medical,Divorced,Sales,Sales Executive,Travel_Frequently,71418,3,3,4,49,3,4,3,9,Yes,12,4,28,2,2,22,2,11,13,No,3
+E02014,Jose Wong,Male,45,11/15/2017,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,150558,27,5,3,99,3,2,4,7,No,23,4,10,2,2,8,7,7,7,No,4
+E02015,Lucas Richardson,Male,36,7/22/2018,Life Sciences,Single,Sales,Sales Representative,Travel_Rarely,118912,10,3,3,99,3,1,3,1,No,11,3,1,6,3,1,0,0,0,No,3
+E02016,Jacob Moore,Male,42,3/24/2021,Medical,Divorced,Development,Developer,Travel_Frequently,131422,19,3,3,57,4,1,3,6,Yes,12,4,7,2,3,2,2,2,2,Yes,3
+E02017,Luna Lu,Female,62,7/26/1997,Medical,Single,Development,Developer,Travel_Rarely,64208,8,2,2,96,3,2,3,3,No,11,4,10,2,3,5,1,4,3,No,3
+E02018,Bella Tran,Female,45,8/5/2010,Human Resources,Married,Human Resources,Human Resources,Travel_Rarely,254486,3,3,3,44,4,2,2,9,No,15,3,12,3,1,8,3,3,6,No,3
+E02019,Ivy Chau,Female,61,3/3/2019,Medical,Married,Development,Developer,Travel_Rarely,54811,9,3,3,81,3,4,4,7,No,11,3,30,1,2,10,7,1,1,No,3
+E02020,Jordan Kumar,Male,29,11/11/2017,Medical,Single,Development,Developer,Travel_Rarely,95729,2,1,4,86,2,1,4,0,Yes,20,4,5,2,2,4,2,2,3,No,4
+E02021,Sophia Gutierrez,Female,63,2/8/2009,Medical,Single,Development,Developer,Travel_Rarely,102649,7,3,4,55,2,2,1,8,No,19,1,9,2,1,7,6,0,7,No,3
+E02022,Eli Dang,Male,45,11/16/2015,Marketing,Divorced,Sales,Sales Representative,Travel_Rarely,122875,10,3,4,83,3,1,2,1,No,14,4,2,2,3,2,2,2,2,No,3
+E02023,Lillian Lewis,Female,43,8/14/2013,Life Sciences,Single,Development,Developer,Travel_Rarely,83323,6,3,4,86,3,2,4,2,No,17,4,19,4,3,2,2,2,2,No,3
+E02024,Serenity Cao,Female,31,10/21/2018,Life Sciences,Divorced,Development,Senior Developer,Non-Travel,66721,2,4,4,61,3,2,1,2,No,11,1,16,2,4,1,0,0,0,No,3
+E02025,Parker Lai,Male,48,11/29/2006,Life Sciences,Married,Development,Developer,Travel_Frequently,246400,24,4,1,80,3,2,4,1,No,15,4,10,2,3,10,8,4,7,No,3
+E02026,Charles Simmons,Male,55,10/27/1997,Life Sciences,Divorced,Development,Developer,Travel_Rarely,113525,8,5,2,32,3,2,1,3,No,14,3,7,3,3,0,0,0,0,No,3
+E02027,Jayden Luu,Male,64,5/13/2004,Marketing,Married,Sales,Manager,Travel_Rarely,184342,3,4,3,31,2,4,1,1,No,11,1,34,3,4,34,6,1,16,No,4
+E02028,Brooks Richardson,Male,58,11/24/2020,Other,Single,Development,Developer,Travel_Rarely,151341,1,4,4,63,3,1,4,1,Yes,13,3,10,2,2,10,9,7,8,Yes,3
+E02029,Ivy Thompson,Female,50,8/11/2004,Medical,Single,Sales,Sales Executive,Travel_Rarely,118900,26,1,3,32,3,2,4,1,No,23,2,6,5,2,6,5,1,4,No,4
+E02030,Peyton Wright,Female,41,5/13/2017,Technical Degree,Single,Sales,Sales Representative,Travel_Rarely,153370,2,2,2,46,1,2,3,0,No,13,1,9,3,3,8,7,3,1,No,3
+E02031,Wyatt Dinh,Male,50,3/15/2002,Medical,Single,Development,Developer,Travel_Rarely,72860,10,1,1,79,4,1,3,1,No,18,4,2,3,3,2,2,0,2,No,3
+E02032,Ruby Alexander,Female,59,8/13/2001,Life Sciences,Single,Sales,Sales Executive,Travel_Frequently,255610,27,2,2,77,4,2,3,4,Yes,12,4,8,2,3,5,4,1,3,Yes,3
+E02033,Axel Oh,Male,26,10/24/2020,Other,Single,Sales,Sales Executive,Travel_Rarely,84962,2,3,4,60,3,2,4,1,No,22,3,6,5,3,6,5,1,4,No,4
+E02034,Axel Ramirez,Male,55,12/4/2017,Life Sciences,Single,Sales,Sales Executive,Non-Travel,103795,8,4,1,76,2,3,1,1,No,15,2,10,1,3,10,7,0,9,No,3
+E02035,Liliana Chang,Female,32,1/11/2018,Medical,Married,Development,Developer,Non-Travel,97509,19,4,4,41,3,1,4,0,No,18,1,5,3,3,4,3,1,2,No,3
+E02036,Leonardo Carter,Male,50,9/7/2022,Life Sciences,Divorced,Development,Developer,Travel_Frequently,54931,1,2,1,71,1,1,4,3,No,14,1,5,2,3,2,2,2,0,No,3
+E02037,Landon Gonzales,Male,54,8/30/2009,Medical,Married,Development,Developer,Travel_Rarely,88689,27,3,2,66,3,2,3,4,No,12,1,11,3,2,8,7,1,1,No,3
+E02038,Amelia Dominguez,Female,31,9/23/2015,Technical Degree,Single,Sales,Sales Executive,Travel_Rarely,158184,8,3,4,38,2,2,1,6,No,17,3,6,2,2,4,3,1,2,Yes,3
+E02039,Silas Ross,Male,47,2/10/2016,Life Sciences,Single,Development,Developer,Travel_Rarely,48523,1,4,2,72,4,1,4,2,No,16,3,10,2,3,4,2,1,3,No,3
+E02040,Jeremiah Cheng,Male,26,2/5/2022,Medical,Divorced,Development,Developer,Travel_Rarely,70946,19,4,4,95,3,2,1,9,Yes,11,2,9,4,3,5,3,1,4,No,3
+E02041,Chloe Chin,Female,62,11/13/2021,Marketing,Married,Sales,Sales Executive,Travel_Frequently,134487,8,1,3,84,3,2,4,0,No,19,2,5,3,3,4,2,1,1,No,3
+E02042,Ella Martinez,Female,35,4/6/2012,Life Sciences,Divorced,Development,Developer,Travel_Rarely,76111,10,1,4,82,3,1,1,0,Yes,13,2,6,3,2,5,3,4,3,No,3
+E02043,Gianna Jones,Female,48,9/26/1998,Life Sciences,Single,Development,Developer,Travel_Frequently,119220,2,4,1,75,4,2,1,6,Yes,12,4,17,2,3,15,7,4,12,No,3
+E02044,Austin Chow,Male,35,4/11/2021,Medical,Single,Development,Developer,Travel_Rarely,180858,2,4,3,86,2,1,1,1,No,11,3,6,3,3,6,5,1,3,No,3
+E02045,Ella Chen,Female,45,11/10/2005,Life Sciences,Married,Sales,Sales Representative,Travel_Rarely,114072,8,4,1,72,3,1,4,1,No,16,2,3,1,2,3,2,0,2,No,3
+E02046,Ruby Kaur,Female,26,6/26/2021,Medical,Married,Development,Developer,Travel_Frequently,91672,2,2,3,38,4,2,2,1,No,24,4,8,2,3,8,7,3,7,No,4
+E02047,Savannah Morales,Female,48,1/26/2005,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,71542,8,2,3,93,3,2,1,5,No,17,2,6,1,3,3,2,1,2,No,3
+E02048,Luca Powell,Male,33,12/18/2016,Life Sciences,Divorced,Development,Senior Developer,Non-Travel,54700,9,3,3,60,2,1,2,1,No,11,3,1,4,3,1,0,0,0,No,3
+E02049,Parker Thao,Male,55,5/8/2011,Life Sciences,Married,Development,Senior Developer,Travel_Rarely,65022,11,4,4,82,3,2,3,8,No,20,2,9,3,3,5,2,1,4,No,4
+E02050,Ryan Vo,Male,38,4/12/2011,Medical,Married,Development,Developer,Travel_Rarely,65109,2,3,3,64,3,4,3,5,No,16,4,30,3,3,4,3,0,3,No,3
+E02051,Isabella Ngo,Female,49,1/1/2022,Life Sciences,Married,Development,Developer,Travel_Rarely,126598,1,2,2,36,2,1,1,1,Yes,11,4,1,1,3,1,0,0,0,Yes,3
+E02052,Leah Vega,Female,52,6/7/2018,Medical,Married,Development,Developer,Travel_Rarely,72388,7,3,3,49,3,3,3,0,No,11,4,14,3,4,13,9,3,7,No,3
+E02053,Jaxson Liu,Male,27,5/18/2021,Marketing,Single,Sales,Sales Executive,Travel_Rarely,205216,16,3,1,69,3,2,1,5,No,15,3,6,3,3,3,2,0,2,Yes,3
+E02054,Santiago f Ross,Male,34,12/13/2012,Other,Married,Development,Developer,Travel_Rarely,74004,2,2,3,33,3,4,4,1,Yes,11,3,26,3,2,26,14,3,0,No,3
+E02055,Layla Bell,Female,65,7/26/2001,Other,Married,Development,Developer,Travel_Rarely,203030,1,3,3,35,3,2,2,0,No,15,1,10,2,3,9,7,0,5,No,3
+E02056,Bella Morales,Female,38,5/10/2016,Life Sciences,Married,Development,Senior Developer,Travel_Rarely,194864,23,2,3,81,4,1,3,1,No,24,3,10,3,3,10,7,0,7,No,4
+E02057,Eliza Kang,Female,63,1/27/2002,Life Sciences,Single,Development,Senior Developer,Travel_Rarely,76659,1,4,4,40,4,1,3,3,No,13,3,7,0,3,2,2,2,2,No,3
+E02058,Gabriel Reyes,Male,42,6/10/2005,Life Sciences,Married,Development,Developer,Travel_Rarely,101630,1,2,4,43,2,2,4,9,Yes,13,4,8,4,3,4,3,0,2,No,3
+E02059,Piper Garcia,Female,60,11/24/1993,Medical,Single,Development,Developer,Travel_Rarely,126929,2,4,3,46,3,1,3,6,No,17,4,5,3,2,2,2,2,1,Yes,3
+E02060,Jacob Cheng,Male,47,11/26/1999,Human Resources,Married,Human Resources,Human Resources,Travel_Rarely,155890,13,3,3,36,3,1,2,4,No,13,2,8,2,3,5,2,0,4,No,3
+E02061,Nathan Hong,Male,50,10/2/2019,Medical,Single,Development,Developer,Travel_Frequently,150631,16,4,1,51,2,2,3,6,No,14,4,10,6,3,1,0,0,0,No,3
+E02062,Chloe Kim,Female,39,7/6/2012,Medical,Single,Development,Developer,Travel_Rarely,72850,2,3,3,52,2,2,4,5,Yes,24,2,12,4,2,0,0,0,0,No,4
+E02063,Isaac Guzman,Male,46,8/18/2010,Life Sciences,Single,Development,Developer,Travel_Rarely,57951,2,3,2,95,2,1,3,1,No,14,4,1,3,3,1,0,0,0,No,3
+E02064,Julian Ford,Male,50,7/29/2010,Life Sciences,Married,Development,Developer,Travel_Rarely,70340,29,3,2,98,3,2,2,1,No,13,4,10,3,2,9,8,7,8,No,3
+E02065,Kinsley Liang,Female,55,8/25/2008,Life Sciences,Divorced,Development,Developer,Travel_Frequently,98221,12,3,1,45,2,2,1,2,No,15,3,13,3,2,4,3,1,2,No,3
+E02066,Wesley Yu,Male,43,9/24/2003,Marketing,Married,Sales,Sales Executive,Travel_Rarely,127175,11,3,3,43,3,3,4,1,No,18,1,9,3,4,9,8,7,7,Yes,3
+E02067,Serenity Martin,Female,26,5/16/2021,Medical,Single,Sales,Sales Executive,Travel_Rarely,97542,2,1,3,37,3,2,4,4,No,16,3,12,3,2,9,7,7,3,Yes,3
+E02068,Ethan Sanchez,Male,34,5/15/2019,Life Sciences,Married,Development,Developer,Travel_Rarely,81646,14,2,2,94,3,4,1,6,No,24,3,22,3,3,4,1,1,0,No,3
+E02069,David Sanchez,Male,38,7/5/2009,Technical Degree,Divorced,Development,Developer,Travel_Rarely,182055,5,1,3,42,2,3,4,1,Yes,16,2,9,3,3,9,8,0,8,No,3
+E02070,Elias Hsu,Male,35,1/23/2022,Other,Single,Development,Developer,Travel_Rarely,86777,7,3,3,59,3,3,3,3,No,21,2,17,3,4,8,5,1,6,No,4
+E02071,Luca Phan,Male,39,6/17/2015,Marketing,Married,Sales,Sales Executive,Travel_Rarely,129949,2,4,2,81,3,2,2,1,Yes,20,1,8,2,3,8,7,7,5,No,3
+E02072,Olivia Xi,Female,26,8/19/2020,Medical,Married,Development,Developer,Travel_Frequently,124535,5,2,3,88,2,1,3,1,Yes,14,1,8,2,3,8,7,1,7,Yes,3
+E02073,Alice Luu,Female,60,7/17/1993,Medical,Married,Development,Developer,Non-Travel,81083,3,3,4,50,3,1,4,1,No,11,3,0,6,2,0,0,0,0,No,3
+E02074,Leonardo Ng,Male,32,6/10/2019,Marketing,Married,Sales,Manager,Travel_Rarely,57727,26,4,1,66,3,4,3,2,No,14,3,29,2,2,20,6,4,17,No,3
+E02075,Peyton Edwards,Female,65,7/11/2020,Medical,Single,Development,Developer,Travel_Rarely,59344,4,3,4,50,3,2,2,9,No,12,4,10,2,2,5,2,2,3,No,3
+E02076,Axel Patel,Male,27,9/13/2022,Medical,Single,Development,Developer,Travel_Rarely,73203,2,1,1,65,4,1,1,7,No,13,3,6,3,2,4,3,0,1,No,3
+E02077,Eva Chavez,Female,63,1/17/2004,Medical,Single,Development,Senior Developer,Travel_Rarely,83070,27,1,3,53,2,1,1,1,No,11,4,6,3,2,6,5,1,1,No,3
+E02078,Savannah Lee,Female,51,7/22/2020,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,104008,1,2,2,56,3,2,4,1,Yes,14,4,18,1,2,18,14,4,11,No,3
+E02079,Mia Grant,Female,43,2/16/2007,Marketing,Married,Sales,Sales Executive,Travel_Rarely,70923,7,2,1,78,2,3,4,7,Yes,18,4,35,3,3,5,2,0,4,No,3
+E02080,Eli Richardson,Male,31,4/8/2018,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,159121,9,3,4,74,3,3,1,4,Yes,12,3,18,2,3,5,4,0,2,No,3
+E02081,Eloise Perry,Female,26,12/2/2020,Medical,Married,Development,Developer,Travel_Rarely,88921,8,2,3,91,4,2,3,5,No,12,3,9,3,2,5,3,1,3,No,3
+E02082,Ian Cheng,Male,46,8/30/2015,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,126704,16,4,4,66,2,2,3,4,No,19,4,9,2,3,1,0,0,0,No,3
+E02083,Penelope Chan,Female,59,5/20/2012,Medical,Divorced,Human Resources,Human Resources,Travel_Rarely,57704,8,2,2,63,2,1,4,1,No,13,4,6,6,3,5,1,0,4,No,3
+E02084,Sofia Vasquez,Female,52,7/29/1996,Life Sciences,Married,Development,Senior Developer,Travel_Rarely,191455,1,2,4,33,2,2,4,6,No,22,1,4,2,1,2,2,2,2,No,3
+E02085,Anthony Baker,Male,31,6/3/2021,Life Sciences,Married,Development,Developer,Travel_Rarely,99937,8,4,1,62,4,1,4,2,Yes,24,3,10,2,2,3,2,0,2,No,3
+E02086,Lucas Luong,Male,42,3/12/2008,Medical,Single,Development,Senior Developer,Travel_Frequently,40778,2,1,2,35,3,1,4,5,Yes,14,4,8,2,3,2,1,2,2,No,3
+E02087,Xavier Patel,Male,53,11/16/2021,Life Sciences,Married,Human Resources,Human Resources,Travel_Rarely,187740,8,3,1,77,2,1,1,0,No,21,3,6,3,3,5,4,0,3,No,3
+E02088,Robert Soto,Male,47,9/10/2008,Other,Married,Sales,Sales Executive,Travel_Rarely,72384,3,1,3,98,3,2,1,1,Yes,18,4,5,3,3,5,3,0,3,No,3
+E02089,Nevaeh Jiang,Female,45,8/5/2016,Life Sciences,Divorced,Development,Developer,Travel_Frequently,143318,25,4,4,96,3,1,2,1,Yes,19,1,10,3,2,10,2,7,8,Yes,3
+E02090,Chloe Reyes,Female,45,6/18/2008,Life Sciences,Divorced,Development,Developer,Non-Travel,191304,1,3,4,61,3,1,4,0,No,12,2,4,2,3,3,0,0,2,No,3
+E02091,Lucy Edwards,Female,33,3/16/2015,Technical Degree,Married,Data Science,Data Scientist,Travel_Rarely,175875,1,3,3,36,3,1,1,2,No,16,2,7,2,3,4,2,0,2,No,3
+E02092,Luna Edwards,Female,42,4/13/2014,Life Sciences,Married,Development,Senior Developer,Non-Travel,106726,4,1,1,46,2,1,4,0,No,17,4,6,2,2,5,2,3,4,No,3
+E02093,Stella Daniels,Female,37,10/30/2011,Life Sciences,Married,Sales,Sales Executive,Travel_Frequently,72637,5,2,2,48,3,2,2,1,No,14,4,10,3,3,10,8,5,3,No,3
+E02094,Ayla Ma,Female,27,12/5/2022,Marketing,Married,Sales,Sales Representative,Travel_Rarely,118304,9,3,2,98,2,1,2,0,No,19,4,3,3,3,2,2,1,2,No,3
+E02095,Matthew Avila,Male,55,6/17/2003,Life Sciences,Married,Development,Senior Developer,Travel_Rarely,68592,11,4,4,48,3,1,4,3,Yes,19,2,8,2,3,6,4,0,2,No,3
+E02096,Gianna Lim,Female,46,4/1/2006,Marketing,Married,Sales,Sales Executive,Travel_Rarely,42532,8,3,1,73,3,4,4,5,No,14,3,28,3,3,2,0,2,2,No,3
+E02097,Joseph Tan,Male,37,8/20/2015,Medical,Married,Sales,Sales Representative,Travel_Frequently,65073,21,2,3,54,3,1,4,5,No,15,2,10,3,3,5,4,0,0,No,3
+E02098,Connor Lai,Male,32,9/22/2019,Life Sciences,Single,Development,Developer,Travel_Rarely,111035,23,4,4,72,3,4,4,6,No,18,3,33,0,3,12,9,3,8,No,3
+E02099,Ava Owens,Female,28,2/7/2020,Life Sciences,Married,Development,Developer,Travel_Frequently,63066,1,3,4,33,3,2,4,4,No,13,2,12,2,2,5,2,2,2,No,3
+E02100,Dylan Aguilar,Male,49,3/27/2007,Marketing,Married,Sales,Sales Executive,Travel_Rarely,186192,2,2,3,35,3,2,4,0,Yes,22,1,8,2,3,7,6,7,7,No,4
+E02101,Leah Zheng,Female,52,6/18/2016,Medical,Single,Sales,Sales Executive,Non-Travel,182938,19,2,1,32,3,3,2,1,Yes,13,4,10,2,3,10,0,0,9,No,3
+E02102,Jade Pham,Female,61,12/12/2017,Life Sciences,Divorced,Development,Developer,Non-Travel,53931,2,4,1,98,3,4,1,1,No,11,4,31,3,3,31,6,14,7,No,3
+E02103,Theodore Bui,Male,53,5/13/2012,Life Sciences,Married,Human Resources,Human Resources,Travel_Rarely,252140,2,3,4,42,2,2,4,8,No,11,3,13,2,3,5,4,0,4,No,3
+E02104,Asher Chan,Male,40,8/18/2018,Human Resources,Divorced,Human Resources,Human Resources,Travel_Rarely,73041,3,2,4,57,3,1,2,3,Yes,11,3,7,4,4,4,3,0,3,No,3
+E02105,Ezekiel Brown,Male,27,3/14/2022,Life Sciences,Single,Development,Developer,Travel_Rarely,120315,25,4,1,87,3,1,4,1,Yes,24,3,1,2,1,1,0,0,1,Yes,3
+E02106,Peyton Allen,Female,26,11/23/2020,Life Sciences,Married,Development,Developer,Travel_Rarely,112264,9,2,2,61,3,1,1,1,Yes,13,4,8,0,3,8,7,7,1,No,3
+E02107,Parker Joseph,Male,53,1/21/2000,Life Sciences,Divorced,Development,Developer,Travel_Frequently,55039,2,1,4,57,2,1,4,9,Yes,14,4,3,3,2,1,0,0,0,Yes,3
+E02108,Kayden Ortiz,Male,33,7/29/2013,Medical,Single,Sales,Sales Representative,Travel_Rarely,134782,2,3,3,49,2,1,3,1,No,13,4,2,3,2,2,2,0,2,Yes,3
+E02109,Lillian Desai,Female,27,12/12/2022,Other,Single,Data Science,Data Scientist,Travel_Rarely,92806,18,1,4,65,3,1,4,1,No,19,1,1,3,2,1,0,0,0,Yes,3
+E02110,Avery Gutierrez,Female,56,7/2/2016,Life Sciences,Married,Data Science,Data Scientist,Travel_Rarely,181028,14,1,3,68,3,2,4,0,Yes,17,1,17,2,2,16,8,4,11,No,3
+E02111,Caroline Sandoval,Female,36,10/3/2013,Life Sciences,Single,Sales,Sales Representative,Travel_Rarely,48117,2,4,4,65,2,1,4,1,Yes,18,1,3,3,2,3,2,1,2,No,3
+E02112,Hailey Lim,Female,47,1/6/2005,Life Sciences,Married,Development,Developer,Travel_Rarely,192753,3,1,2,34,3,2,3,0,Yes,19,1,4,3,4,3,2,0,2,Yes,3
+E02113,Roman Liang,Male,28,3/4/2021,Medical,Divorced,Development,Developer,Travel_Rarely,85206,9,3,3,77,3,1,3,5,No,18,2,6,2,3,2,2,2,2,No,3
+E02114,Elias Rojas,Male,30,1/7/2018,Medical,Married,Development,Senior Developer,Travel_Rarely,58290,6,3,4,70,3,1,1,7,Yes,21,4,8,2,1,2,2,2,2,Yes,3
+E02115,Quinn Lai,Female,58,8/28/2003,Life Sciences,Single,Development,Developer,Travel_Rarely,41946,4,3,2,76,3,1,3,1,No,19,3,1,2,3,1,1,0,0,No,3
+E02116,Clara Le,Female,56,3/15/2021,Life Sciences,Divorced,Development,Developer,Travel_Rarely,79388,10,3,2,83,3,1,2,1,No,14,2,1,3,3,1,0,1,0,No,3
+E02117,Chloe Yoon,Female,65,2/25/2002,Medical,Single,Sales,Sales Executive,Travel_Rarely,83854,14,2,3,68,2,2,3,7,No,17,1,10,6,3,5,4,0,3,No,3
+E02118,Abigail Simmons,Female,29,4/24/2018,Other,Single,Development,Senior Developer,Travel_Rarely,126550,1,4,3,100,2,1,1,3,Yes,11,2,6,1,3,3,2,0,2,No,3
+E02119,Ayla Espinoza,Female,60,10/1/1993,Technical Degree,Divorced,Development,Senior Developer,Travel_Rarely,199705,5,3,3,37,2,3,2,2,Yes,13,4,24,3,3,6,0,0,4,No,3
+E02120,Nova Lin,Female,31,4/9/2019,Life Sciences,Married,Sales,Sales Representative,Travel_Rarely,201235,7,4,2,41,2,1,3,3,No,15,2,13,2,4,7,7,5,2,No,3
+E02121,Sadie Singh,Female,45,3/16/2022,Life Sciences,Married,Development,Senior Developer,Travel_Rarely,182717,21,1,4,51,3,2,4,1,Yes,25,4,10,2,1,10,6,0,7,No,3
+E02122,Aaron Powell,Male,30,9/11/2017,Medical,Married,Data Science,Data Scientist,Travel_Rarely,79975,20,4,4,51,3,1,3,4,No,17,1,13,2,2,0,0,0,0,No,3
+E02123,Jameson Vargas,Male,36,7/24/2011,Marketing,Married,Sales,Sales Executive,Non-Travel,196554,20,2,4,45,3,2,3,1,No,13,4,9,2,2,9,8,0,0,No,3
+E02124,Logan Young,Male,39,8/16/2010,Other,Single,Development,Developer,Travel_Rarely,239395,7,4,2,65,3,1,4,2,No,18,3,8,6,3,6,2,0,1,No,3
+E02125,Wyatt Cheung,Male,44,7/25/2013,Technical Degree,Married,Development,Senior Developer,Travel_Rarely,53703,1,3,4,80,3,3,1,1,No,13,2,15,3,3,15,12,5,11,No,3
+E02126,Lucas Zhu,Male,53,3/14/2011,Life Sciences,Married,Development,Senior Developer,Non-Travel,123480,1,3,3,70,2,1,2,6,No,20,3,5,3,3,3,0,0,2,No,4
+E02127,Emily Hong,Female,46,1/9/2021,Marketing,Married,Sales,Sales Representative,Travel_Rarely,41197,19,2,3,36,2,1,2,1,Yes,18,3,1,2,3,1,0,0,0,Yes,3
+E02128,Luke Ramos,Male,30,7/28/2018,Medical,Single,Development,Developer,Travel_Rarely,72463,6,3,4,59,3,1,1,2,Yes,13,3,20,3,3,18,13,2,17,No,3
+E02129,Maya Gupta,Female,28,8/4/2019,Medical,Single,Development,Developer,Travel_Rarely,87675,2,4,3,79,3,1,3,4,No,21,3,16,6,3,11,8,3,9,No,4
+E02130,Eliana Ha,Female,35,12/15/2020,Other,Single,Sales,Sales Representative,Travel_Rarely,55833,21,3,4,37,2,1,2,1,Yes,13,2,1,3,4,1,0,0,0,Yes,3
+E02131,Lillian Cheng,Female,58,8/20/1996,Technical Degree,Single,Development,Developer,Travel_Rarely,58208,4,3,1,84,3,1,1,1,No,19,2,1,2,3,1,0,0,0,Yes,3
+E02132,Alexander Pena,Male,47,5/24/2002,Medical,Married,Development,Developer,Travel_Rarely,75633,12,3,4,41,3,2,4,0,Yes,11,3,10,2,1,9,7,8,5,No,3
+E02133,Leonardo Mai,Male,43,1/28/2007,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,79090,3,1,3,51,2,3,4,1,Yes,11,1,16,6,3,16,7,3,7,Yes,3
+E02134,Jack Phillips,Male,47,7/27/2015,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,66138,1,4,1,46,2,3,3,5,No,11,3,17,2,1,14,1,11,7,Yes,2
+E02135,Scarlett Delgado,Female,57,8/28/2013,Life Sciences,Married,Development,Developer,Non-Travel,80728,4,2,3,57,3,2,2,1,No,12,2,9,5,2,9,7,0,8,No,3
+E02136,Jack Rogers,Male,47,2/1/2005,Technical Degree,Married,Sales,Sales Representative,Travel_Frequently,46202,20,3,3,84,3,1,4,1,No,15,2,3,5,3,3,1,0,2,No,3
+E02137,Violet Huynh,Female,50,2/29/2008,Medical,Married,Sales,Sales Executive,Travel_Rarely,123096,18,3,3,86,3,2,3,1,No,16,2,5,3,3,5,2,1,0,No,3
+E02138,Victoria Park,Female,27,3/18/2020,Life Sciences,Married,Development,Senior Developer,Travel_Rarely,45989,1,2,4,70,3,4,4,2,No,15,2,26,2,2,9,8,7,8,No,3
+E02139,Elizabeth Rodriguez,Female,26,8/13/2021,Medical,Divorced,Sales,Manager,Travel_Rarely,140756,2,2,3,45,3,4,3,6,No,13,3,22,3,4,17,13,15,2,No,3
+E02140,Samuel Kumar,Male,43,3/9/2009,Other,Divorced,Sales,Sales Executive,Travel_Rarely,85261,8,2,3,62,3,3,3,5,No,11,1,10,2,4,8,4,7,7,No,3
+E02141,Zoe Maldonado,Female,49,9/25/1998,Life Sciences,Divorced,Sales,Sales Executive,Travel_Rarely,198222,3,4,4,92,3,3,4,6,No,13,2,12,2,3,10,9,0,8,No,3
+E02142,Natalia Richardson,Female,36,6/2/2017,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,150825,2,5,1,41,4,3,3,0,No,18,4,9,3,3,8,7,0,7,No,3
+E02143,Madeline Contreras,Female,51,10/31/1995,Life Sciences,Single,Sales,Sales Executive,Non-Travel,59311,24,3,2,100,4,4,2,4,Yes,16,4,22,2,2,1,0,0,0,Yes,3
+E02144,Raelynn Espinoza,Female,46,9/12/2002,Medical,Divorced,Development,Senior Developer,Travel_Frequently,44411,16,4,3,64,4,2,3,1,Yes,19,3,20,3,4,19,10,2,7,No,3
+E02145,Noah Rojas,Male,37,11/14/2019,Technical Degree,Divorced,Sales,Sales Executive,Non-Travel,69408,8,4,1,84,3,2,4,4,No,13,4,12,3,3,7,7,0,7,No,3
+E02146,Jack Ramos,Male,43,6/17/2018,Medical,Single,Development,Developer,Non-Travel,96759,9,2,3,46,2,1,1,0,Yes,22,1,4,0,3,3,2,1,2,Yes,4
+E02147,Riley King,Female,53,8/10/2013,Life Sciences,Single,Sales,Manager,Non-Travel,163480,17,3,4,38,3,4,3,1,No,11,4,10,2,3,10,8,6,0,No,3
+E02148,Naomi Lee,Female,58,4/15/2014,Life Sciences,Single,Development,Developer,Travel_Rarely,91132,10,3,4,92,2,1,1,6,Yes,20,3,3,5,3,0,0,0,0,Yes,4
+E02149,Caleb Jones,Male,57,7/10/1996,Life Sciences,Single,Development,Developer,Travel_Rarely,122825,13,1,2,53,3,1,4,3,No,18,1,5,4,3,3,2,0,2,No,3
+E02150,Peyton Alvarado,Female,31,10/24/2015,Medical,Divorced,Development,Developer,Travel_Rarely,73612,1,4,4,91,3,1,4,3,No,14,4,8,2,3,5,3,0,2,No,3
+E02151,Luca Liu,Male,40,6/22/2007,Medical,Divorced,Development,Senior Developer,Travel_Rarely,70561,1,2,4,66,3,4,4,9,No,22,3,32,1,2,5,4,1,3,No,4
+E02152,Christian Johnson,Male,47,5/25/2008,Other,Married,Development,Developer,Travel_Frequently,60331,1,4,3,84,4,2,2,1,Yes,13,1,6,2,3,6,5,1,2,No,3
+E02153,Kinsley Gonzales,Female,51,5/5/2007,Medical,Divorced,Development,Developer,Travel_Frequently,48772,9,3,1,64,3,5,3,2,No,17,2,21,2,4,18,16,0,11,No,3
+E02154,Hunter Yoon,Male,57,10/2/2020,Life Sciences,Married,Development,Developer,Non-Travel,90599,23,2,4,42,3,2,1,1,Yes,15,3,9,2,3,9,8,0,8,No,3
+E02155,Elias Dixon,Male,46,11/22/2021,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,55643,4,2,4,83,3,2,4,1,Yes,17,3,9,0,3,9,0,0,7,No,3
+E02156,Owen Guerrero,Male,40,9/3/2022,Life Sciences,Married,Development,Developer,Travel_Rarely,97938,22,3,1,48,3,1,3,4,Yes,11,2,7,2,3,5,2,0,1,Yes,3
+E02157,Lucas Lo,Male,43,1/18/2004,Life Sciences,Married,Development,Developer,Travel_Rarely,49627,24,3,4,95,3,4,3,3,Yes,18,4,22,2,3,12,11,1,5,No,3
+E02158,Hunter Mitchell,Male,54,4/17/2021,Medical,Married,Research & Development,Senior Manager R&D,Travel_Frequently,58137,10,1,3,66,3,1,3,0,No,17,2,3,0,2,2,1,0,2,No,3
+E02159,Eliana Bailey,Female,27,1/2/2021,Other,Divorced,Research & Development,Laboratory Technician,Travel_Rarely,120586,14,4,3,39,2,1,2,1,Yes,24,4,5,2,1,4,2,0,2,Yes,3
+E02160,Gabriella Choi,Female,56,8/15/1999,Life Sciences,Married,Research & Development,Manufacturing Director,Travel_Frequently,72925,1,1,3,96,3,2,1,1,No,12,3,4,1,3,4,3,0,3,No,3
+E02161,Evelyn Alvarado,Female,36,8/12/2022,Life Sciences,Single,Research & Development,Research Scientist,Non-Travel,83548,5,2,2,73,3,1,4,1,No,15,4,0,2,3,0,0,0,0,No,3
+E02162,Wyatt Chan,Male,53,6/28/2005,Technical Degree,Married,Research & Development,Senior Manager R&D,Travel_Rarely,128226,17,3,3,56,3,3,3,8,No,11,3,22,2,3,10,7,0,8,No,3
+E02163,Sarah Johnson,Female,31,3/6/2018,Medical,Divorced,Research & Development,Healthcare Representative,Travel_Rarely,150653,25,4,3,57,3,3,3,1,Yes,11,3,16,3,2,16,10,10,1,No,3
+E02164,Brooks Evans,Male,45,5/4/2016,Life Sciences,Married,Research & Development,Research Director,Travel_Rarely,80989,8,2,2,73,4,3,1,0,Yes,12,3,9,4,2,8,7,1,7,No,2
+E02165,Isaiah Dixon,Male,29,2/27/2022,Medical,Married,Research & Development,Senior Manager R&D,Travel_Rarely,74901,2,2,4,32,4,2,4,1,No,12,2,8,2,3,8,7,1,3,No,3
+E02166,Addison Lo,Female,27,8/28/2020,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Rarely,68712,8,1,2,94,1,1,1,1,No,15,1,4,3,2,4,3,1,1,No,2
+E02167,Nolan Howard,Male,26,4/18/2022,Life Sciences,Single,Research & Development,Healthcare Representative,Travel_Rarely,82963,6,3,1,97,2,2,3,2,No,13,4,19,0,3,2,2,2,2,No,2
+E02168,Paisley Dominguez,Female,53,6/14/2009,Life Sciences,Single,Research & Development,Senior Manager R&D,Travel_Rarely,123203,4,4,3,78,2,3,3,7,No,14,2,27,3,3,15,11,4,8,No,3
+E02169,Eliana Ho,Female,64,9/5/2012,Medical,Single,Research & Development,Manufacturing Director,Travel_Rarely,195416,7,2,4,42,3,2,3,6,No,14,2,8,6,3,2,2,2,1,No,3
+E02170,Charles Miller,Male,32,6/7/2018,Life Sciences,Married,Research & Development,Manufacturing Director,Travel_Rarely,156418,1,1,4,65,2,4,4,1,No,16,3,21,3,3,21,6,11,8,No,3
+E02171,Mia Jiang,Female,42,6/19/2015,Life Sciences,Married,Research & Development,Senior Manager R&D,Travel_Rarely,255892,2,4,1,47,3,2,4,0,No,18,2,4,2,3,3,2,2,2,No,2
+E02172,Skylar Parker,Female,31,8/5/2018,Other,Divorced,Research & Development,Laboratory Technician,Travel_Rarely,96195,10,3,2,45,3,1,4,1,No,20,1,3,4,2,3,2,1,2,No,2
+E02173,Zoey Leung,Female,40,9/27/2007,Marketing,Married,Sales,Manager,Travel_Rarely,77637,5,2,4,90,3,5,3,6,No,13,2,21,3,4,1,0,0,0,No,4
+E02174,Austin Moua,Male,46,5/27/2003,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Rarely,79294,9,3,1,64,3,1,4,4,No,18,2,8,5,3,1,0,0,0,No,3
+E02175,Christopher Robinson,Male,35,7/11/2016,Life Sciences,Single,Research & Development,Manufacturing Director,Travel_Rarely,254287,2,3,3,69,2,4,4,3,Yes,13,1,30,4,3,5,3,4,3,No,3
+E02176,Jayden Zhang,Male,64,6/27/1994,Medical,Married,Research & Development,Healthcare Representative,Travel_Frequently,70516,18,4,3,62,3,2,2,3,Yes,14,4,17,3,3,8,7,6,7,No,3
+E02177,Cora Mejia,Female,58,6/7/2014,Life Sciences,Divorced,Research & Development,Research Director,Non-Travel,98296,7,1,2,55,1,5,3,1,No,22,2,21,3,3,21,16,5,10,No,2
+E02178,Julian Harris,Male,61,12/30/2015,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,98565,3,4,2,42,3,2,4,8,Yes,12,3,19,1,3,1,0,0,0,No,3
+E02179,Anthony Espinoza,Male,41,11/16/2020,Medical,Single,Sales,Sales Executive,Non-Travel,59149,29,2,2,79,1,2,1,8,No,18,4,7,6,3,2,2,2,2,Yes,2
+E02180,Aubrey Ruiz,Female,25,1/11/2021,Marketing,Married,Sales,Manager,Travel_Rarely,70126,2,1,1,57,1,5,4,1,No,15,4,33,3,3,32,14,6,9,Yes,2
+E02181,Piper Tang,Female,50,7/28/2011,Medical,Married,Sales,Sales Executive,Travel_Rarely,216787,28,3,4,53,4,4,4,3,Yes,18,3,23,2,3,12,11,11,11,No,3
+E02182,Colton Delgado,Male,61,10/22/2006,Life Sciences,Married,Sales,Sales Executive,Non-Travel,156512,1,3,4,95,3,2,3,0,No,12,1,19,3,3,18,7,0,13,No,3
+E02183,Madeline Chung,Female,63,5/26/2011,Medical,Single,Research & Development,Manufacturing Director,Travel_Frequently,44444,22,3,4,82,3,3,1,1,Yes,13,3,21,2,3,21,6,2,8,No,3
+E02184,Ariana Sharma,Female,45,1/24/2014,Life Sciences,Single,Sales,Sales Representative,Non-Travel,257725,8,1,2,88,2,1,4,0,No,19,4,3,2,2,2,2,2,2,No,2
+E02185,Julian Marquez,Male,33,9/14/2013,Life Sciences,Married,Sales,Manager,Travel_Rarely,122408,11,2,4,90,3,4,4,3,No,13,2,26,4,4,9,3,1,1,No,3
+E02186,Logan Reyes,Male,62,4/10/1995,Medical,Single,Research & Development,Senior Manager R&D,Non-Travel,78251,29,4,4,69,3,1,3,9,No,12,2,10,2,3,8,7,7,7,No,3
+E02187,Penelope Mai,Female,43,5/2/2004,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,252938,1,4,2,75,4,2,4,0,No,11,4,16,2,2,15,1,0,9,No,3
+E02188,Ryan Reed,Male,48,10/28/2019,Technical Degree,Married,Sales,Manager,Travel_Rarely,90296,1,2,2,66,3,3,4,3,Yes,14,3,14,1,1,6,4,0,4,No,3
+E02189,Grayson Hwang,Male,42,4/23/2013,Medical,Single,Human Resources,Human Resources,Travel_Rarely,91689,24,4,2,36,3,1,2,1,No,16,1,6,3,3,6,3,0,4,No,3
+E02190,Ezra Tan,Male,49,12/22/1999,Other,Divorced,Research & Development,Laboratory Technician,Travel_Rarely,158028,15,3,1,81,3,2,3,7,No,14,2,9,3,2,1,0,0,0,Yes,3
+E02191,David Ha,Male,33,7/27/2022,Life Sciences,Married,Research & Development,Research Scientist,Travel_Frequently,89759,2,3,1,57,3,1,1,6,Yes,14,2,6,2,3,3,2,1,2,Yes,2
+E02192,Lillian Vang,Female,39,9/13/2015,Medical,Married,Sales,Sales Representative,Travel_Rarely,78640,10,1,4,74,3,1,2,1,No,22,2,1,5,3,1,0,0,0,No,4
+E02193,Sofia Zhang,Female,51,1/11/2005,Other,Married,Research & Development,Senior Manager R&D,Travel_Frequently,55368,3,4,3,44,3,1,3,3,No,16,1,8,2,3,2,2,2,2,No,3
+E02194,Athena Daniels,Female,49,5/23/2021,Medical,Married,Research & Development,Senior Manager R&D,Travel_Rarely,78164,2,4,2,62,3,5,3,2,Yes,11,4,29,2,2,8,1,7,7,No,3
+E02195,Jameson Shin,Male,30,5/14/2020,Other,Single,Research & Development,Healthcare Representative,Travel_Rarely,76014,3,3,4,35,3,2,2,3,No,15,1,8,3,2,4,3,0,1,No,3
+E02196,Everly Avila,Female,41,11/13/2015,Marketing,Married,Sales,Sales Executive,Travel_Rarely,61403,26,3,3,74,3,2,1,1,No,14,2,8,3,2,7,7,7,5,No,3
+E02197,Liam Nelson,Male,58,12/17/2010,Medical,Divorced,Research & Development,Research Scientist,Travel_Frequently,80720,1,1,1,66,2,1,3,1,No,13,3,5,5,3,5,3,1,3,No,2
+E02198,Theodore Lai,Male,55,12/27/2008,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,94026,2,4,3,41,2,3,3,6,No,11,2,13,4,3,9,4,7,0,No,3
+E02199,Caroline Do,Female,40,3/6/2016,Medical,Married,Research & Development,Senior Manager R&D,Travel_Frequently,56963,9,3,1,63,3,1,3,2,No,19,2,18,4,3,5,4,0,3,No,3
+E02200,Josiah Ramos,Male,41,1/8/2014,Medical,Single,Research & Development,Manufacturing Director,Travel_Rarely,113246,12,5,4,51,2,3,4,0,No,11,2,15,2,2,14,8,7,8,No,3
+E02201,Colton Alexander,Male,45,8/9/2005,Medical,Single,Research & Development,Manager,Non-Travel,76416,2,1,3,40,2,4,1,7,No,15,2,31,3,4,9,7,6,2,No,4
+E02202,Charles Ramos,Male,57,4/4/2010,Medical,Divorced,Sales,Sales Executive,Travel_Rarely,74597,25,3,3,79,2,3,4,5,No,13,3,18,5,3,1,0,0,0,No,3
+E02203,Ellie Wilson,Female,65,8/31/1996,Marketing,Single,Sales,Sales Representative,Travel_Frequently,164102,9,3,4,54,3,1,4,1,Yes,14,2,2,3,3,2,2,0,2,Yes,3
+E02204,Peyton Powell,Female,44,2/16/2003,Life Sciences,Single,Research & Development,Senior Manager R&D,Travel_Rarely,74431,10,3,3,36,2,1,1,1,No,13,1,1,6,2,1,0,1,0,Yes,3
+E02205,Hailey Rojas,Female,52,7/15/2014,Life Sciences,Divorced,Research & Development,Senior Manager R&D,Travel_Rarely,43378,8,4,4,74,2,2,1,8,Yes,23,1,19,2,3,16,13,1,7,No,4
+E02206,Kai Singh,Male,52,4/19/2001,Technical Degree,Single,Research & Development,Senior Manager R&D,Non-Travel,47587,24,2,2,72,2,3,1,1,No,12,1,10,2,2,10,7,1,9,Yes,2
+E02207,Ryan Rivera,Male,53,11/29/2001,Medical,Married,Research & Development,Laboratory Technician,Travel_Rarely,179983,1,2,1,59,2,1,1,1,No,16,1,6,2,3,5,3,1,3,No,2
+E02208,Everett Lu,Male,31,11/28/2021,Other,Married,Research & Development,Senior Manager R&D,Travel_Rarely,115565,20,3,3,85,3,2,1,0,No,15,3,7,1,2,6,2,0,2,No,3
+E02209,Layla Nunez,Female,63,9/10/2017,Life Sciences,Married,Research & Development,Healthcare Representative,Travel_Rarely,126064,17,1,3,65,2,3,3,0,No,18,1,20,4,2,19,9,1,9,No,3
+E02210,Liliana Collins,Female,39,1/18/2013,Technical Degree,Married,Research & Development,Senior Manager R&D,Travel_Rarely,151666,20,4,1,61,3,3,4,4,No,20,4,14,6,3,11,10,11,1,No,2
+E02211,Ezekiel Jenkins,Male,63,4/11/2000,Life Sciences,Married,Research & Development,Senior Manager R&D,Non-Travel,99215,8,5,1,87,1,1,3,1,No,19,4,3,4,3,3,2,1,2,No,2
+E02212,Christopher Wang,Male,27,8/23/2020,Life Sciences,Married,Research & Development,Manager R&D,Travel_Frequently,71502,2,1,4,65,3,3,2,3,No,18,2,23,4,3,3,2,1,2,No,3
+E02213,Savannah Rodriguez,Female,30,11/18/2022,Medical,Married,Human Resources,Human Resources,Travel_Rarely,168050,1,2,2,91,2,3,1,9,No,14,4,24,1,3,20,6,3,6,Yes,2
+E02214,Lyla Turner,Female,51,11/7/2003,Medical,Single,Research & Development,Research Scientist,Travel_Frequently,130862,29,4,1,54,2,2,3,1,No,22,2,14,4,3,13,7,3,8,Yes,2
+E02215,Adrian Ngo,Male,58,9/19/2021,Life Sciences,Single,Research & Development,Healthcare Representative,Travel_Frequently,85716,3,1,1,45,3,2,4,0,No,17,3,7,1,2,6,2,0,4,No,3
+E02216,Aria Juarez,Female,62,7/30/2011,Technical Degree,Married,Research & Development,Manager R&D,Travel_Rarely,185026,4,1,4,32,3,1,4,1,Yes,15,2,7,3,4,7,7,5,6,Yes,3
+E02217,Audrey Ramos,Female,27,12/9/2021,Medical,Divorced,Research & Development,Manager R&D,Travel_Rarely,182403,21,3,1,37,3,1,3,1,No,20,3,1,0,2,1,1,0,0,Yes,4
+E02218,Hazel Cho,Female,63,8/12/2004,Medical,Married,Research & Development,Manager,Travel_Rarely,193531,2,2,4,35,3,4,1,0,No,17,4,23,3,3,22,6,13,7,No,3
+E02219,Iris Chung,Female,52,3/12/2013,Medical,Divorced,Research & Development,Manager R&D,Travel_Frequently,128301,1,3,1,45,2,1,2,1,No,15,1,1,2,3,1,0,0,0,Yes,3
+E02220,Thomas Rodriguez,Male,36,10/9/2019,Other,Single,Sales,Sales Executive,Travel_Frequently,51669,1,4,4,81,3,2,3,3,Yes,14,4,5,4,3,0,0,0,0,Yes,3
+E02221,Avery Lo,Female,47,1/26/2001,Life Sciences,Married,Sales,Sales Executive,Travel_Frequently,104289,7,3,4,30,3,2,2,0,No,17,3,4,3,3,3,2,0,2,No,3
+E02222,Gabriel Bell,Male,27,3/21/2021,Life Sciences,Married,Research & Development,Research Scientist,Non-Travel,70181,3,4,3,40,2,1,4,3,No,17,4,6,2,3,0,0,0,0,No,3
+E02223,Gianna Walker,Female,45,3/23/2021,Medical,Single,Research & Development,Manager R&D,Non-Travel,92317,1,4,1,35,4,4,4,2,No,22,3,27,3,2,5,4,2,1,No,2
+E02224,Axel Bailey,Male,47,12/7/2022,Life Sciences,Married,Sales,Sales Executive,Non-Travel,99382,9,4,2,65,2,2,3,1,No,13,4,15,2,3,15,10,4,12,No,2
+E02225,Scarlett Green,Female,26,4/21/2020,Life Sciences,Single,Research & Development,Healthcare Representative,Travel_Rarely,67702,7,4,2,87,3,3,2,7,No,19,4,18,4,3,8,6,4,0,No,2
+E02226,Jackson Wong,Male,58,12/26/2006,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,53133,10,4,3,73,2,3,3,0,Yes,14,2,9,2,3,8,7,2,7,No,3
+E02227,Eva Jimenez,Female,60,4/13/1998,Life Sciences,Divorced,Research & Development,Manager R&D,Travel_Rarely,110554,28,4,3,93,3,1,4,4,No,22,1,11,1,3,7,5,1,7,No,4
+E02228,Ian Ma,Male,45,7/9/2010,Medical,Divorced,Research & Development,Manufacturing Director,Travel_Rarely,109221,3,3,4,93,3,3,2,0,No,17,2,10,3,2,9,7,1,7,No,3
+E02229,Luna Castro,Female,45,2/1/2007,Marketing,Married,Sales,Manager,Travel_Rarely,88933,3,1,1,52,3,4,3,3,No,12,4,23,3,3,12,9,4,9,No,2
+E02230,Nolan Brooks,Male,40,11/8/2014,Marketing,Single,Sales,Sales Executive,Travel_Rarely,49342,2,2,4,32,3,3,2,7,No,16,3,10,2,3,1,0,0,0,No,3
+E02231,Jayden Jones,Male,27,7/9/2022,Life Sciences,Divorced,Research & Development,Healthcare Representative,Travel_Frequently,74587,2,3,1,84,3,4,4,7,No,11,4,21,4,3,18,7,11,5,Yes,2
+E02232,Asher Hsu,Male,36,3/13/2020,Medical,Single,Research & Development,Manager R&D,Travel_Rarely,80757,14,3,3,44,2,5,3,1,No,14,1,21,2,4,20,7,4,9,No,3
+E02233,Greyson Lim,Male,28,10/12/2022,Life Sciences,Single,Research & Development,Laboratory Technician,Non-Travel,198662,9,3,3,70,3,2,2,9,No,15,3,9,2,2,5,4,0,3,No,3
+E02234,Chloe Miller,Female,57,8/12/2021,Life Sciences,Single,Research & Development,Manufacturing Director,Non-Travel,142506,18,4,1,78,3,2,4,2,No,20,1,18,0,3,11,9,0,9,No,3
+E02235,Jaxson Brooks,Male,57,7/15/2022,Life Sciences,Married,Sales,Sales Representative,Travel_Frequently,77028,20,3,3,67,4,1,4,0,No,12,1,3,4,3,2,2,2,2,No,3
+E02236,Jack Perez,Male,30,1/9/2017,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,80389,2,1,1,67,2,1,2,0,No,17,1,6,2,1,5,3,0,4,No,3
+E02237,Ruby Reed,Female,26,1/23/2022,Marketing,Divorced,Sales,Sales Executive,Travel_Frequently,249062,11,2,4,54,3,2,4,1,No,11,4,5,3,3,5,2,0,2,No,3
+E02238,Ivy Rojas,Female,53,1/8/2013,Technical Degree,Married,Sales,Sales Executive,Travel_Rarely,52675,8,4,4,56,2,4,2,6,No,17,2,22,3,3,9,8,2,3,No,3
+E02239,Hudson Wong,Male,59,5/11/2014,Life Sciences,Single,Research & Development,Manager R&D,Travel_Frequently,83365,2,2,4,95,3,2,3,2,No,11,4,5,3,2,3,2,0,2,No,3
+E02240,Ryan Yi,Male,56,8/17/2003,Life Sciences,Divorced,Research & Development,Research Scientist,Travel_Frequently,82758,10,3,4,61,3,1,2,0,No,14,4,8,2,2,7,5,1,1,No,3
+E02241,Carter Simmons,Male,41,5/30/2012,Medical,Single,Research & Development,Laboratory Technician,Travel_Rarely,126406,29,3,2,56,1,2,4,4,No,19,1,16,3,3,1,0,0,0,No,3
+E02242,Emilia Xu,Female,46,1/24/2017,Medical,Married,Research & Development,Manufacturing Director,Travel_Rarely,103147,8,1,2,79,2,2,4,1,Yes,15,3,10,2,2,10,7,1,2,No,2
+E02243,Adam Medina,Male,49,10/4/2020,Life Sciences,Divorced,Research & Development,Research Scientist,Travel_Frequently,81622,6,3,3,39,2,1,3,1,Yes,14,4,3,2,3,3,1,0,2,No,3
+E02244,Connor Howard,Male,42,3/15/2021,Medical,Single,Research & Development,Laboratory Technician,Non-Travel,44265,8,1,3,80,3,1,3,1,No,12,4,0,0,3,0,0,0,0,Yes,3
+E02245,Audrey Duong,Female,55,3/3/1999,Marketing,Single,Sales,Sales Executive,Travel_Rarely,213998,9,4,1,77,3,2,1,0,Yes,17,1,6,3,3,5,2,0,3,Yes,3
+E02246,Landon Reyes,Male,44,8/23/2014,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Rarely,171823,12,4,2,46,3,1,4,3,Yes,11,1,6,4,3,1,0,0,0,No,3
+E02247,Noah Ma,Male,28,11/6/2018,Medical,Married,Research & Development,Laboratory Technician,Travel_Frequently,201013,15,3,3,72,3,1,3,1,No,12,3,2,5,2,2,2,2,2,Yes,3
+E02248,Lucas Alexander,Male,41,9/20/2013,Medical,Divorced,Research & Development,Healthcare Representative,Travel_Rarely,192944,25,2,3,52,2,2,4,7,No,13,3,9,2,3,6,2,1,3,No,3
+E02249,Henry Vo,Male,60,9/13/1996,Life Sciences,Married,Research & Development,Research Scientist,Travel_Rarely,81699,6,3,4,55,2,1,3,1,No,13,3,4,0,3,4,2,2,2,No,3
+E02250,Mila Han,Female,54,11/14/2009,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,128791,9,1,2,70,3,2,3,1,No,20,1,6,3,2,6,5,1,3,No,2
+E02251,Genesis Herrera,Female,34,10/3/2015,Technical Degree,Single,Human Resources,Human Resources,Travel_Rarely,126898,8,4,3,100,3,1,3,1,No,17,2,6,2,1,5,4,1,4,No,2
+E02252,Olivia Vazquez,Female,53,4/13/2020,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,93053,23,1,4,45,2,3,1,1,No,13,1,11,3,1,11,8,3,10,Yes,2
+E02253,Leilani Ng,Female,48,9/19/2011,Medical,Single,Research & Development,Research Director,Travel_Frequently,50513,9,4,2,88,3,3,3,9,No,17,3,20,3,2,18,7,2,13,No,2
+E02254,Olivia Mendoza,Female,43,5/7/2017,Life Sciences,Single,Sales,Sales Executive,Travel_Frequently,86533,12,3,3,44,3,4,1,0,Yes,12,2,22,2,2,21,9,13,14,Yes,3
+E02255,Skylar Xu,Female,60,10/16/1997,Marketing,Single,Sales,Sales Executive,Travel_Rarely,72806,4,4,2,45,3,2,1,7,No,13,4,9,3,4,6,4,1,5,No,4
+E02256,Eloise Williams,Female,42,2/12/2019,Medical,Single,Research & Development,Laboratory Technician,Travel_Rarely,258115,24,3,4,49,3,1,2,8,No,22,4,6,2,3,4,3,1,2,No,4
+E02257,Jackson Maldonado,Male,52,5/1/2008,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,63444,12,1,3,79,3,1,4,1,Yes,11,4,1,4,2,1,1,0,0,Yes,3
+E02258,Christian Harris,Male,50,2/21/1999,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,96099,3,4,1,82,4,1,4,1,No,22,2,8,2,3,8,7,0,7,No,3
+E02259,Penelope Santos,Female,37,3/1/2009,Marketing,Married,Sales,Sales Executive,Travel_Rarely,92849,10,3,3,72,2,2,3,1,No,18,1,10,3,3,10,3,1,4,No,3
+E02260,Nicholas Zhou,Male,58,10/28/2014,Medical,Married,Research & Development,Research Scientist,Travel_Frequently,85094,26,2,3,92,2,2,4,3,Yes,13,4,16,3,1,1,1,0,0,No,3
+E02261,Ayla Garza,Female,39,6/15/2017,Life Sciences,Divorced,Research & Development,Manufacturing Director,Travel_Rarely,156224,2,3,3,44,2,3,2,2,No,18,2,15,2,4,7,7,6,4,No,3
+E02262,Carson Mai,Male,50,4/15/1996,Medical,Single,Research & Development,Healthcare Representative,Travel_Frequently,245920,1,3,4,97,2,2,1,0,No,20,3,14,3,3,13,9,4,9,No,4
+E02263,Luna Lu,Female,51,3/6/2007,Other,Married,Research & Development,Laboratory Technician,Travel_Frequently,50214,4,4,4,47,2,1,4,1,No,13,2,2,2,4,2,2,2,2,No,3
+E02264,Anthony Ho,Male,31,1/11/2015,Marketing,Single,Sales,Sales Executive,Travel_Rarely,79713,9,3,1,85,1,2,3,8,No,13,2,7,2,2,4,3,1,3,Yes,2
+E02265,Clara Lopez,Female,52,8/9/1999,Life Sciences,Divorced,Sales,Sales Representative,Non-Travel,166699,2,1,3,76,3,1,1,1,No,12,3,1,3,3,1,0,0,0,No,3
+E02266,Melody Woods,Female,63,12/20/2010,Technical Degree,Divorced,Research & Development,Manager,Travel_Rarely,78788,4,4,4,92,3,5,1,4,No,13,4,28,2,3,5,2,4,2,No,3
+E02267,Matthew Simmons,Male,28,12/19/2022,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,142797,6,1,2,54,3,1,4,1,No,13,1,10,5,3,10,8,0,8,No,3
+E02268,Gabriella Carrillo,Female,39,7/16/2012,Life Sciences,Single,Research & Development,Research Scientist,Travel_Rarely,187516,9,2,3,54,3,1,1,1,No,25,3,1,4,3,1,1,0,0,No,4
+E02269,Lydia Juarez,Female,36,9/21/2013,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,156029,7,3,1,83,3,1,3,4,Yes,19,3,7,2,2,3,2,0,2,No,3
+E02270,Ava Carrillo,Female,63,1/1/1999,Life Sciences,Married,Research & Development,Manufacturing Director,Travel_Rarely,149582,1,3,4,56,2,2,4,1,No,13,2,14,2,2,14,8,3,11,No,3
+E02271,Elena Sharma,Female,47,10/24/2014,Life Sciences,Single,Research & Development,Manager R&D,Travel_Rarely,163922,10,4,3,96,3,1,3,1,Yes,11,3,6,4,3,6,4,0,2,Yes,3
+E02272,Julia Ahmed,Female,43,11/14/2004,Medical,Divorced,Research & Development,Manager R&D,Travel_Rarely,240860,7,2,4,50,3,5,3,3,No,18,2,26,6,3,7,7,4,7,No,3
+E02273,Iris Vo,Female,39,9/27/2018,Life Sciences,Married,Research & Development,Manager R&D,Travel_Frequently,128497,3,4,3,48,2,1,4,0,Yes,11,2,1,5,3,0,0,0,0,Yes,3
+E02274,Hunter Yi,Male,55,5/10/2015,Marketing,Married,Sales,Manager,Travel_Rarely,121976,2,3,3,69,3,4,1,8,No,23,1,28,2,3,26,15,15,9,No,4
+E02275,Valentina Oh,Female,32,7/12/2022,Life Sciences,Single,Research & Development,Research Scientist,Non-Travel,126464,17,3,4,74,1,1,3,2,No,13,4,6,3,3,0,0,0,0,No,3
+E02276,Kinsley Tran,Female,53,9/5/2005,Human Resources,Married,Human Resources,Human Resources,Travel_Rarely,234064,2,3,2,99,3,1,3,1,No,13,4,5,2,3,5,4,1,4,No,2
+E02277,Christian Hong,Male,59,1/16/2008,Life Sciences,Divorced,Sales,Sales Executive,Travel_Rarely,81829,29,4,3,61,3,2,1,8,No,19,3,8,3,3,4,3,0,3,No,3
+E02278,Amelia Mehta,Female,26,4/21/2022,Medical,Married,Sales,Sales Executive,Travel_Frequently,193971,2,4,2,62,3,2,2,5,No,12,4,5,2,3,0,0,0,0,No,3
+E02279,Axel Leung,Male,55,8/17/2001,Medical,Married,Research & Development,Manager R&D,Travel_Frequently,47696,2,3,4,30,3,4,1,2,No,22,3,32,3,3,2,2,2,2,No,4
+E02280,Lucas Lam,Male,34,7/17/2013,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,116676,15,2,4,52,3,5,2,5,No,11,1,25,2,3,4,2,0,3,No,3
+E02281,Jose Thompson,Male,45,4/5/2012,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,104162,17,4,3,94,3,2,1,3,Yes,15,4,15,2,3,7,7,1,7,No,3
+E02282,Wesley Duong,Male,29,4/14/2022,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Rarely,86226,17,2,4,97,3,1,2,1,No,13,1,1,3,1,1,0,0,0,Yes,3
+E02283,Adeline Maldonado,Female,45,5/30/2011,Medical,Married,Sales,Sales Executive,Travel_Frequently,172206,25,3,2,82,3,2,3,1,No,12,1,10,3,2,10,7,0,1,No,3
+E02284,Elias Diaz,Male,34,4/6/2012,Life Sciences,Divorced,Research & Development,Laboratory Technician,Travel_Rarely,55985,6,4,3,60,1,1,3,1,No,14,3,7,4,3,7,7,1,7,No,3
+E02285,Wyatt Aguilar,Male,26,6/6/2021,Other,Single,Research & Development,Research Scientist,Travel_Rarely,61481,29,4,4,32,3,2,4,1,No,25,2,20,3,3,20,11,13,17,No,4
+E02286,Josephine Espinoza,Female,30,11/26/2017,Medical,Married,Human Resources,Human Resources,Non-Travel,124295,2,5,4,79,4,2,1,7,No,16,1,10,3,4,4,3,0,3,No,4
+E02287,Adeline Lai,Female,55,2/8/1999,Other,Married,Research & Development,Laboratory Technician,Travel_Frequently,132894,13,3,3,77,2,1,2,1,No,20,3,2,2,3,2,2,2,2,No,4
+E02288,Christopher Vu,Male,47,3/16/2002,Life Sciences,Single,Research & Development,Manager R&D,Travel_Frequently,88839,2,2,4,38,3,2,3,4,Yes,14,4,10,2,3,8,7,0,7,No,3
+E02289,Kai Vega,Male,51,6/16/2005,Technical Degree,Divorced,Research & Development,Manufacturing Director,Travel_Rarely,78107,1,3,3,77,1,3,1,2,Yes,21,3,17,2,3,7,7,7,7,No,4
+E02290,Hailey Chin,Female,54,7/10/1993,Medical,Married,Research & Development,Research Scientist,Travel_Rarely,135642,9,3,1,60,3,1,4,0,No,13,2,15,5,3,14,10,4,10,No,2
+E02291,Eleanor Xi,Female,64,1/10/1997,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,147853,10,4,3,57,3,2,4,0,No,14,2,5,4,3,4,3,1,1,No,3
+E02292,Lily Molina,Female,40,9/15/2009,Medical,Married,Research & Development,Research Director,Travel_Frequently,125900,26,5,1,60,3,3,1,3,Yes,17,3,20,6,3,1,0,0,0,No,3
+E02293,Levi Vasquez,Male,27,2/10/2020,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,42969,14,3,1,42,3,1,1,1,Yes,14,4,9,3,2,9,7,6,8,No,2
+E02294,Elijah Washington,Male,47,2/13/2022,Life Sciences,Divorced,Research & Development,Manufacturing Director,Travel_Frequently,214303,1,4,4,53,3,3,3,7,No,17,1,33,2,1,5,4,1,4,No,3
+E02295,Gianna Park,Female,28,12/19/2020,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,199406,2,1,1,72,4,1,4,1,No,13,4,10,5,3,10,5,7,7,No,2
+E02296,Melody Leung,Female,35,3/20/2015,Medical,Single,Research & Development,Research Scientist,Non-Travel,182436,10,3,1,96,2,1,2,1,Yes,25,2,1,2,4,1,1,0,0,Yes,4
+E02297,Liliana Valdez,Female,59,10/1/1996,Life Sciences,Married,Research & Development,Research Director,Travel_Rarely,96507,3,3,4,85,3,4,4,3,No,14,1,36,2,3,10,9,0,9,No,3
+E02298,Ezekiel Kumar,Male,33,11/19/2015,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,82906,11,2,3,80,3,2,1,1,Yes,12,4,6,2,2,6,5,0,1,No,3
+E02299,Ruby Rahman,Female,62,12/5/2005,Life Sciences,Married,Research & Development,Research Director,Travel_Rarely,41616,3,3,3,96,1,5,4,3,No,14,2,25,2,3,8,7,0,7,No,3
+E02300,Natalie Stewart,Female,50,6/30/2003,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,92344,4,2,1,85,2,5,3,2,No,13,3,23,2,4,1,0,0,0,No,3
+E02301,Charlotte Lim,Female,55,6/27/2006,Technical Degree,Married,Research & Development,Research Scientist,Travel_Frequently,196614,3,3,3,46,3,1,2,1,No,12,3,12,2,2,11,10,0,7,No,3
+E02302,Elena Campos,Female,47,2/6/2022,Technical Degree,Single,Research & Development,Laboratory Technician,Travel_Rarely,104253,2,2,4,76,4,1,2,5,No,11,3,7,4,2,1,0,0,0,No,3
+E02303,Vivian Lim,Female,34,1/22/2021,Life Sciences,Divorced,Research & Development,Manager R&D,Travel_Rarely,44677,7,3,3,82,3,2,4,1,Yes,11,2,6,2,3,6,0,1,0,No,3
+E02304,Madison Xu,Female,39,12/13/2017,Life Sciences,Single,Research & Development,Research Director,Travel_Rarely,66463,1,3,4,76,2,5,4,6,No,12,3,25,3,4,1,0,0,0,No,4
+E02305,Ava Aguilar,Female,35,12/17/2015,Life Sciences,Divorced,Research & Development,Research Director,Travel_Rarely,53285,1,3,4,87,2,4,4,3,No,14,2,9,2,2,7,7,1,7,No,3
+E02306,Kayden Patel,Male,54,3/22/1997,Marketing,Married,Sales,Manager,Travel_Rarely,67683,5,3,2,88,3,5,2,7,No,11,3,26,5,3,22,9,3,10,No,2
+E02307,Penelope Desai,Female,41,10/29/2018,Life Sciences,Married,Research & Development,Research Scientist,Travel_Rarely,238155,1,2,4,47,3,1,3,1,No,22,4,1,2,3,1,0,0,1,No,4
+E02308,Henry Vang,Male,37,6/21/2019,Life Sciences,Single,Research & Development,Research Scientist,Travel_Rarely,173630,4,2,3,53,3,1,4,1,Yes,20,2,8,2,2,8,5,2,2,No,4
+E02309,Eliana Turner,Female,29,1/27/2020,Marketing,Single,Sales,Manager,Travel_Rarely,98992,2,3,1,94,1,5,2,2,Yes,16,1,26,2,3,24,10,1,11,Yes,2
+E02310,Charlotte Tran,Female,64,4/11/2017,Medical,Divorced,Research & Development,Healthcare Representative,Non-Travel,253330,8,1,4,37,2,4,2,1,Yes,15,4,34,3,3,33,9,15,0,No,3
+E02311,Everly Coleman,Female,54,8/14/2011,Life Sciences,Single,Research & Development,Laboratory Technician,Travel_Frequently,158403,10,2,1,45,2,1,3,1,No,20,3,2,2,1,2,2,2,2,Yes,2
+E02312,Matthew Harris,Male,36,3/27/2021,Marketing,Married,Sales,Manager,Travel_Rarely,156085,4,2,4,33,2,5,2,2,No,14,3,26,2,3,11,4,0,8,No,3
+E02313,Emilia Barnes,Female,54,4/18/2013,Marketing,Single,Sales,Sales Executive,Travel_Rarely,80129,2,3,3,86,3,2,1,0,Yes,12,4,4,3,3,3,2,0,2,No,3
+E02314,Sophie Griffin,Female,56,1/9/2017,Life Sciences,Divorced,Sales,Manager,Travel_Frequently,60517,9,3,4,83,3,5,2,4,Yes,24,1,31,5,2,29,10,11,10,No,4
+E02315,Kai Phillips,Male,48,12/13/2016,Medical,Single,Research & Development,Manager R&D,Travel_Rarely,72315,18,4,4,67,3,3,4,6,No,12,4,25,6,2,9,7,5,4,No,3
+E02316,Dylan Khan,Male,35,7/11/2015,Medical,Divorced,Research & Development,Laboratory Technician,Travel_Frequently,153815,19,3,3,46,3,2,2,4,No,13,3,15,2,4,11,8,5,10,No,3
+E02317,Nevaeh Clark,Female,32,8/16/2018,Medical,Single,Research & Development,Laboratory Technician,Travel_Frequently,139552,1,4,4,44,3,1,3,0,Yes,11,3,5,2,2,4,2,0,2,No,3
+E02318,Carter Luu,Male,25,10/20/2022,Life Sciences,Divorced,Research & Development,Manager R&D,Travel_Rarely,257296,4,2,3,92,4,5,1,1,No,14,4,26,4,2,25,9,14,13,No,3
+E02319,Jordan Ngo,Male,26,5/4/2020,Life Sciences,Married,Human Resources,Human Resources,Travel_Frequently,91372,11,3,3,56,2,2,2,4,No,11,4,14,5,4,10,9,1,8,No,3
+E02320,Jackson Hu,Male,53,6/5/2017,Life Sciences,Married,Research & Development,Research Scientist,Travel_Rarely,73601,6,1,3,66,3,1,3,0,Yes,14,4,4,3,3,3,2,2,2,No,3
+E02321,Madelyn Kang,Female,37,4/29/2013,Medical,Married,Research & Development,Research Scientist,Travel_Rarely,71871,7,4,2,78,4,2,2,6,Yes,16,4,18,2,3,1,0,0,0,No,3
+E02322,Everleigh Bell,Female,31,2/7/2016,Marketing,Single,Sales,Sales Executive,Travel_Rarely,84925,4,4,4,56,2,3,4,3,No,14,4,23,3,4,21,7,15,17,No,3
+E02323,Eliana Trinh,Female,47,1/7/2010,Life Sciences,Single,Research & Development,Manufacturing Director,Travel_Rarely,155600,2,4,3,53,3,2,2,9,Yes,11,4,18,2,3,16,14,5,12,No,3
+E02324,Oliver Ford,Male,32,12/15/2018,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Frequently,101564,2,3,4,52,2,1,4,1,Yes,12,2,2,2,3,2,2,2,2,No,3
+E02325,Ryan Huang,Male,40,10/12/2009,Medical,Single,Research & Development,Laboratory Technician,Travel_Frequently,80150,6,2,2,40,2,1,3,0,No,14,2,8,6,2,7,0,7,7,No,3
+E02326,Gabriel Ahmed,Male,65,10/9/2021,Medical,Single,Research & Development,Manufacturing Director,Non-Travel,73996,9,2,3,72,3,2,3,7,Yes,18,3,10,3,3,8,4,1,7,No,3
+E02327,Ivy Rios,Female,25,1/18/2022,Technical Degree,Divorced,Research & Development,Laboratory Technician,Travel_Rarely,90109,7,3,2,39,3,1,3,3,Yes,13,1,10,2,3,7,7,7,7,Yes,2
+E02328,Luca Hunter,Male,39,6/27/2022,Technical Degree,Single,Research & Development,Research Scientist,Travel_Rarely,67216,1,3,4,84,3,1,1,2,No,11,2,5,2,2,3,2,1,2,No,3
+E02329,Claire Owens,Female,52,6/7/1998,Medical,Single,Research & Development,Research Scientist,Travel_Rarely,75402,1,3,4,40,3,1,2,1,No,18,4,2,3,2,2,2,2,1,No,3
+E02330,Aubrey Maldonado,Female,38,6/13/2022,Medical,Married,Sales,Sales Executive,Travel_Rarely,120795,8,3,3,56,4,2,4,1,No,15,3,10,4,4,10,7,0,8,No,3
+E02331,Elias Vasquez,Male,33,7/27/2015,Medical,Single,Research & Development,Manager,Travel_Frequently,44012,25,3,2,83,3,5,2,3,No,22,3,22,4,3,0,0,0,0,No,4
+E02332,Melody Luu,Female,28,4/3/2021,Medical,Divorced,Research & Development,Manager,Travel_Rarely,219180,13,4,3,94,2,4,2,6,Yes,13,4,21,4,3,19,9,15,2,No,3
+E02333,Christopher Luu,Male,61,10/27/2005,Life Sciences,Divorced,Research & Development,Research Scientist,Travel_Rarely,258700,23,4,1,88,3,1,3,1,No,12,4,2,3,3,2,2,2,2,No,2
+E02334,James Han,Male,32,1/7/2018,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,97496,7,2,4,79,3,2,3,1,No,18,1,10,3,3,10,4,1,1,Yes,3
+E02335,Jaxson Ayala,Male,28,8/1/2020,Technical Degree,Married,Research & Development,Healthcare Representative,Travel_Rarely,239270,10,4,4,63,3,3,3,3,No,12,1,10,0,3,7,7,1,7,No,3
+E02336,Levi James,Male,39,3/2/2012,Life Sciences,Single,Human Resources,Human Resources,Travel_Rarely,103466,1,2,4,44,3,1,1,6,No,12,3,10,3,4,7,6,5,7,No,3
+E02337,Grayson Carrillo,Male,57,6/27/2001,Life Sciences,Married,Research & Development,Manager R&D,Non-Travel,74662,1,3,3,55,1,2,4,0,No,11,1,10,6,3,9,8,7,5,No,3
+E02338,Maverick Hwang,Male,40,4/20/2015,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,227816,28,3,4,43,3,4,1,4,Yes,11,2,25,2,3,3,2,1,2,No,3
+E02339,Noah Truong,Male,47,12/8/2013,Marketing,Single,Sales,Sales Executive,Travel_Rarely,246680,25,4,4,57,2,3,2,2,Yes,12,3,9,2,3,5,4,1,0,Yes,3
+E02340,Willow Guzman,Female,43,6/26/2010,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,85164,5,3,2,64,3,3,2,9,Yes,19,3,10,2,2,8,7,7,7,Yes,2
+E02341,Rylee Howard,Female,33,8/18/2014,Life Sciences,Divorced,Sales,Sales Executive,Non-Travel,135215,2,4,4,57,3,3,3,1,Yes,19,1,10,5,2,10,8,9,6,No,3
+E02342,Ian Marquez,Male,31,1/14/2019,Medical,Single,Sales,Sales Executive,Non-Travel,72542,10,2,3,40,1,2,2,1,No,13,1,19,4,3,19,2,11,9,No,3
+E02343,Layla Owens,Female,47,2/7/2018,Medical,Married,Research & Development,Manager,Travel_Rarely,246303,2,2,4,58,1,5,3,4,No,14,4,23,5,3,19,9,9,11,No,3
+E02344,Chloe Dixon,Female,60,5/11/2021,Life Sciences,Single,Human Resources,Manager,Travel_Rarely,186400,8,4,4,99,3,5,2,6,No,14,1,36,4,3,7,3,7,7,No,3
+E02345,Emily Zheng,Female,50,12/6/2022,Life Sciences,Divorced,Research & Development,Research Scientist,Non-Travel,91004,16,2,3,74,3,1,3,9,No,16,2,6,0,3,4,2,0,0,No,3
+E02346,Jayden Rogers,Male,41,12/14/2016,Life Sciences,Divorced,Research & Development,Healthcare Representative,Travel_Rarely,101411,9,3,4,86,3,3,4,0,No,11,4,10,0,2,9,7,1,6,No,3
+E02347,Elizabeth Vasquez,Female,28,8/9/2020,Marketing,Divorced,Sales,Sales Executive,Travel_Frequently,111779,1,3,3,66,3,2,1,0,No,17,4,10,2,3,9,3,1,7,No,3
+E02348,Samantha Ford,Female,25,1/19/2022,Life Sciences,Single,Research & Development,Research Scientist,Travel_Frequently,86075,4,4,3,87,3,2,3,1,Yes,11,2,9,3,3,9,6,1,1,No,3
+E02349,Thomas Silva,Male,45,8/13/2015,Life Sciences,Divorced,Human Resources,Manager,Travel_Rarely,52798,5,3,3,84,3,4,2,1,Yes,11,2,33,2,3,33,9,0,10,No,3
+E02350,Charlotte Park,Female,63,12/17/2020,Life Sciences,Divorced,Sales,Sales Executive,Travel_Rarely,96136,2,2,2,31,3,2,1,3,No,15,4,11,3,3,7,7,1,7,No,2
+E02351,Liam Jimenez,Male,52,8/11/2002,Medical,Single,Sales,Sales Executive,Travel_Rarely,95682,15,2,3,66,3,2,1,1,No,12,4,10,6,4,10,8,9,6,No,3
+E02352,Ivy Liu,Female,59,5/29/1993,Medical,Married,Research & Development,Laboratory Technician,Travel_Rarely,55476,19,1,4,67,3,1,4,3,No,11,3,7,6,2,3,2,1,2,No,3
+E02353,Jayden Dixon,Male,30,1/14/2018,Medical,Married,Research & Development,Manufacturing Director,Travel_Rarely,197792,7,4,3,53,2,3,1,7,Yes,14,4,31,0,2,10,9,5,9,Yes,3
+E02354,Nevaeh Butler,Female,55,7/10/2009,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Rarely,82271,1,4,2,88,3,1,2,3,No,22,3,7,3,3,4,2,0,3,No,3
+E02355,Leonardo Li,Male,65,4/23/2009,Marketing,Married,Sales,Sales Executive,Travel_Frequently,155716,7,3,1,83,4,2,1,2,No,16,4,17,2,2,15,7,6,13,No,2
+E02356,Kinsley Woods,Female,34,6/19/2014,Life Sciences,Single,Research & Development,Manufacturing Director,Travel_Rarely,71699,4,3,4,54,3,3,4,1,No,11,3,11,2,3,10,9,0,8,No,3
+E02357,Abigail Chu,Female,51,4/17/2006,Medical,Married,Sales,Sales Representative,Travel_Rarely,147436,11,3,3,98,4,1,4,8,No,14,2,5,4,3,1,0,0,0,No,3
+E02358,Ava Xiong,Female,52,7/21/2019,Technical Degree,Single,Research & Development,Manager R&D,Travel_Rarely,88220,11,2,4,82,2,4,2,3,No,16,2,29,1,2,5,2,0,3,No,3
+E02359,Olivia Marquez,Female,44,4/6/2020,Life Sciences,Single,Research & Development,Manager R&D,Non-Travel,54295,1,3,4,97,3,1,4,1,No,15,3,0,5,4,0,0,0,0,No,4
+E02360,Claire Vazquez,Female,44,6/12/2004,Medical,Married,Research & Development,Laboratory Technician,Travel_Rarely,246538,1,3,4,60,2,2,4,0,No,12,2,10,0,3,9,7,0,0,No,3
+E02361,Christian Castro,Male,40,4/15/2006,Life Sciences,Single,Sales,Sales Executive,Travel_Frequently,43645,2,1,4,43,1,2,4,3,No,20,2,8,3,3,6,2,0,0,No,4
+E02362,Mason Oh,Male,25,4/11/2022,Marketing,Single,Sales,Sales Executive,Travel_Rarely,125644,13,4,1,85,4,4,3,6,Yes,17,3,24,2,2,19,7,3,8,Yes,2
+E02363,Violet Santiago,Female,32,1/14/2018,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,78414,23,3,4,68,3,4,2,4,Yes,12,1,33,0,3,19,16,15,9,No,3
+E02364,Lily Rios,Female,45,1/25/2013,Technical Degree,Divorced,Research & Development,Research Scientist,Non-Travel,88016,26,1,1,92,2,1,3,1,No,20,3,5,2,3,5,4,0,0,No,3
+E02365,Kinsley Stewart,Female,56,9/7/2021,Medical,Divorced,Research & Development,Manager R&D,Travel_Rarely,66561,2,1,2,89,4,2,3,5,No,20,2,15,0,3,12,11,11,8,No,2
+E02366,Aria Molina,Female,52,10/24/2001,Medical,Married,Research & Development,Laboratory Technician,Travel_Rarely,89811,29,3,2,86,3,2,3,4,No,13,1,10,1,3,8,7,7,7,No,2
+E02367,James Cheng,Male,49,5/26/2010,Life Sciences,Single,Sales,Sales Representative,Travel_Frequently,125506,2,3,3,90,2,1,4,7,No,14,3,3,3,4,1,0,0,0,Yes,3
+E02368,Mila Vang,Female,46,8/25/2009,Life Sciences,Divorced,Research & Development,Research Scientist,Travel_Frequently,56409,7,3,4,57,4,1,3,1,No,11,4,4,2,3,4,2,0,3,No,3
+E02369,Alice Liu,Female,39,2/22/2012,Technical Degree,Single,Research & Development,Healthcare Representative,Travel_Rarely,122058,2,4,3,98,3,2,4,1,No,11,4,14,2,4,14,11,4,11,No,3
+E02370,Delilah Gonzalez,Female,55,3/29/1998,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,82550,26,3,3,48,2,2,1,1,No,11,3,5,0,3,5,3,0,4,No,3
+E02371,Samuel Tang,Male,34,9/15/2012,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,93760,21,4,1,44,2,2,4,3,Yes,12,4,8,2,4,5,4,1,4,No,2
+E02372,Serenity Gray,Female,56,6/19/2012,Marketing,Married,Sales,Sales Executive,Travel_Frequently,55008,2,3,2,52,3,3,2,2,No,11,2,14,5,3,4,2,3,2,No,2
+E02373,Benjamin Estrada,Male,56,9/28/2012,Life Sciences,Divorced,Research & Development,Manager R&D,Travel_Frequently,65368,22,3,4,75,3,2,4,3,Yes,14,1,12,4,2,6,2,3,3,No,3
+E02374,Wesley Han,Male,62,4/20/2017,Life Sciences,Married,Sales,Sales Executive,Travel_Frequently,83955,5,1,2,61,3,2,4,6,No,13,1,8,2,4,5,4,1,2,No,2
+E02375,Nora Herrera,Female,60,12/24/1997,Marketing,Married,Sales,Sales Executive,Travel_Rarely,231907,2,1,3,36,3,2,2,0,Yes,13,1,4,3,2,3,2,1,2,No,3
+E02376,Lincoln Harris,Male,42,9/16/2009,Life Sciences,Married,Research & Development,Manager R&D,Non-Travel,97628,25,2,3,71,3,3,3,3,No,21,2,13,2,3,6,4,0,5,No,4
+E02377,Charles Gonzales,Male,27,9/22/2020,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,88142,18,1,1,93,4,2,3,2,No,11,2,6,3,2,3,2,1,2,No,2
+E02378,Athena Cheng,Female,37,3/2/2020,Medical,Married,Research & Development,Manufacturing Director,Travel_Frequently,83465,28,2,4,59,4,4,3,2,Yes,11,2,24,3,2,5,3,0,2,No,3
+E02379,David Garza,Male,29,1/9/2022,Medical,Single,Research & Development,Research Scientist,Travel_Rarely,197731,6,3,1,73,2,2,3,1,Yes,14,1,20,3,1,20,7,1,8,No,2
+E02380,Hunter Doan,Male,32,12/15/2014,Marketing,Married,Sales,Sales Executive,Travel_Rarely,151758,10,3,4,98,2,2,4,1,Yes,11,4,6,3,3,6,2,4,4,No,3
+E02381,Julian Lam,Male,33,9/8/2013,Life Sciences,Single,Research & Development,Research Scientist,Travel_Rarely,164340,17,4,4,51,3,1,3,1,Yes,13,4,8,2,3,8,2,7,7,Yes,3
+E02382,Sofia Estrada,Female,42,3/26/2006,Medical,Single,Research & Development,Research Scientist,Travel_Rarely,104916,2,1,1,36,2,1,4,0,No,12,4,5,2,3,4,3,1,1,No,3
+E02383,Jordan Chen,Male,60,1/22/1997,Human Resources,Married,Human Resources,Manager,Travel_Rarely,42536,10,3,3,31,3,4,1,0,No,14,3,21,5,3,20,7,0,9,No,3
+E02384,Eloise Huang,Female,51,4/5/2009,Medical,Single,Research & Development,Manager R&D,Travel_Rarely,195171,11,3,1,94,3,1,3,4,No,18,1,8,6,3,3,2,0,2,No,3
+E02385,Ivy Mehta,Female,50,5/26/2020,Life Sciences,Single,Research & Development,Manufacturing Director,Travel_Frequently,45290,18,2,3,60,3,3,4,2,No,11,3,10,2,3,2,2,2,2,No,3
+E02386,Eli Castillo,Male,50,12/11/2009,Technical Degree,Married,Research & Development,Laboratory Technician,Travel_Rarely,203306,1,3,1,81,3,1,4,4,No,11,2,7,2,2,3,2,0,2,No,3
+E02387,Nolan Garcia,Male,26,6/16/2022,Other,Single,Human Resources,Human Resources,Travel_Rarely,66865,17,3,2,51,2,3,1,1,No,13,1,10,3,2,10,9,0,9,No,3
+E02388,Alexander Zhu,Male,30,10/17/2022,Life Sciences,Single,Research & Development,Manager R&D,Travel_Frequently,89164,28,2,1,97,2,2,1,3,No,20,1,20,2,3,4,3,1,3,Yes,3
+E02389,Victoria Wu,Female,35,10/28/2021,Medical,Single,Research & Development,Research Director,Travel_Rarely,75602,1,3,4,54,3,4,4,6,No,19,4,29,3,2,20,7,12,7,No,3
+E02390,Mateo Jordan,Male,44,2/13/2021,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,92939,1,3,4,76,3,5,1,3,Yes,21,3,32,3,3,9,8,1,5,No,4
+E02391,Everly Martin,Female,26,5/28/2020,Marketing,Single,Sales,Sales Executive,Travel_Rarely,64278,3,4,1,99,3,2,2,3,Yes,16,4,15,3,3,5,4,0,1,No,3
+E02392,Athena Castro,Female,44,10/4/2013,Life Sciences,Single,Sales,Sales Representative,Travel_Frequently,72176,1,4,2,50,1,1,3,1,No,12,2,1,3,3,1,0,0,0,Yes,3
+E02393,Josephine White,Female,61,2/5/2010,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,87758,7,4,4,73,3,2,1,7,No,14,2,8,3,3,3,2,0,2,No,3
+E02394,Nicholas Vo,Male,50,6/1/2002,Life Sciences,Single,Research & Development,Research Director,Travel_Rarely,54646,8,5,1,93,3,4,2,3,No,11,3,9,3,4,3,2,1,0,No,3
+E02395,Jackson Sandoval,Male,61,1/26/2011,Other,Divorced,Research & Development,Research Scientist,Travel_Frequently,73323,1,4,4,91,3,1,1,5,No,14,3,10,2,3,4,3,1,3,No,3
+E02396,Olivia Turner,Female,29,1/7/2021,Life Sciences,Single,Research & Development,Research Scientist,Travel_Rarely,151492,8,3,1,34,2,1,2,1,No,12,3,1,3,4,1,0,0,0,Yes,3
+E02397,Cooper Rivera,Male,42,12/26/2005,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,138215,11,1,2,91,3,1,1,0,No,14,2,6,3,4,5,0,1,4,No,3
+E02398,Hailey Washington,Female,51,7/3/2013,Life Sciences,Single,Research & Development,Laboratory Technician,Travel_Rarely,135578,4,4,1,37,2,2,4,1,No,16,3,10,2,2,10,4,1,8,No,2
+E02399,Mia Vasquez,Female,27,12/2/2019,Technical Degree,Married,Research & Development,Research Scientist,Travel_Rarely,64297,1,3,1,74,3,1,4,7,No,12,3,17,2,2,6,5,1,2,No,2
+E02400,Jose Grant,Male,52,6/28/2021,Life Sciences,Married,Sales,Sales Representative,Travel_Rarely,94857,9,2,1,68,2,1,1,3,No,12,1,6,2,3,3,2,2,2,Yes,2
+E02401,Nathan Yee,Male,58,10/24/2009,Technical Degree,Single,Research & Development,Manager R&D,Non-Travel,77196,5,2,3,84,4,1,3,0,No,14,1,7,2,1,6,5,1,3,No,3
+E02402,Isabella Munoz,Female,45,12/25/2002,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,193154,1,2,1,90,3,1,1,2,No,22,4,5,3,4,3,2,1,0,No,4
+E02403,Michael Turner,Male,28,12/29/2019,Medical,Married,Sales,Sales Executive,Travel_Rarely,115916,4,1,4,42,3,2,3,1,Yes,12,3,5,3,3,5,4,0,3,No,3
+E02404,Oliver Jones,Male,56,3/20/2016,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Rarely,192374,1,3,4,86,2,1,2,5,No,17,1,7,2,2,5,4,0,2,No,3
+E02405,Charles Taylor,Male,32,7/15/2019,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,186869,5,5,2,90,4,1,3,2,Yes,12,1,7,5,2,4,2,0,3,No,3
+E02406,Gianna Alvarez,Female,58,5/11/1993,Other,Divorced,Research & Development,Laboratory Technician,Non-Travel,49293,9,4,3,81,3,2,3,3,No,11,3,11,2,4,8,7,0,7,No,3
+E02407,Nova Martin,Female,39,4/13/2013,Life Sciences,Divorced,Sales,Sales Executive,Travel_Rarely,129087,8,2,1,31,3,3,4,1,No,18,1,13,5,3,13,7,9,9,No,2
+E02408,Julia Gonzalez,Female,46,2/15/2005,Life Sciences,Single,Research & Development,Laboratory Technician,Non-Travel,54831,2,3,1,54,2,1,1,2,Yes,23,2,11,2,4,1,0,0,0,Yes,4
+E02409,Athena Vu,Female,26,11/28/2020,Life Sciences,Single,Research & Development,Manager R&D,Travel_Frequently,51825,1,5,3,100,4,3,2,1,No,11,1,10,2,3,10,8,4,7,Yes,3
+E02410,Caroline Bui,Female,36,9/15/2019,Medical,Divorced,Research & Development,Manager R&D,Travel_Rarely,67457,20,3,2,95,1,3,1,2,Yes,18,2,24,2,3,7,7,0,7,No,3
+E02411,Daniel Ali,Male,43,9/28/2019,Medical,Single,Human Resources,Human Resources,Travel_Rarely,94555,8,2,4,96,4,1,2,9,No,18,4,8,3,3,3,2,0,2,No,3
+E02412,Iris Huang,Female,45,3/28/2008,Technical Degree,Married,Research & Development,Manager R&D,Travel_Rarely,163686,29,3,2,55,3,3,4,4,Yes,18,4,10,4,4,3,1,1,2,No,3
+E02413,Natalia Cheng,Female,65,7/29/2002,Technical Degree,Married,Human Resources,Human Resources,Travel_Rarely,47919,9,4,1,52,3,1,3,1,No,15,4,2,0,3,2,2,2,2,Yes,2
+E02414,Owen Evans,Male,34,5/28/2021,Medical,Divorced,Research & Development,Research Director,Non-Travel,68972,8,1,4,55,2,3,2,2,No,11,3,16,5,3,9,8,4,8,No,3
+E02415,Angel Dixon,Male,52,4/1/2002,Life Sciences,Single,Research & Development,Laboratory Technician,Non-Travel,50775,5,3,3,90,2,1,3,3,No,14,4,7,5,3,5,2,0,3,No,3
+E02416,Aubrey Guerrero,Female,39,2/12/2013,Technical Degree,Married,Research & Development,Manager R&D,Travel_Rarely,122713,5,4,1,96,3,2,3,2,No,14,2,20,0,2,3,2,1,2,No,2
+E02417,Ivy Do,Female,57,5/13/1993,Medical,Divorced,Research & Development,Research Scientist,Travel_Rarely,57230,2,3,3,68,3,1,3,2,No,14,3,8,3,4,3,1,1,2,No,4
+E02418,Kai Gutierrez,Male,63,12/17/1997,Life Sciences,Single,Research & Development,Manager R&D,Travel_Rarely,148794,20,3,4,49,3,1,2,1,No,13,3,6,3,2,5,2,1,3,No,3
+E02419,Caroline Ahmed,Female,32,12/23/2016,Medical,Married,Sales,Sales Executive,Travel_Frequently,155884,7,3,4,54,3,2,1,0,No,14,1,5,2,3,4,3,0,3,No,3
+E02420,Alice Sharma,Female,51,10/5/2018,Other,Single,Sales,Sales Executive,Travel_Rarely,50975,3,3,4,81,1,2,1,3,No,18,4,15,2,3,13,9,3,12,No,3
+E02421,Leo Simmons,Male,38,12/13/2017,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,52200,16,1,4,96,3,2,3,8,No,15,3,4,2,2,2,1,2,2,No,3
+E02422,Asher Hong,Male,53,4/17/2018,Medical,Single,Research & Development,Laboratory Technician,Travel_Frequently,154141,9,2,1,74,3,1,4,1,No,13,3,12,3,3,12,9,5,8,No,2
+E02423,Gianna Ramirez,Female,59,7/25/1993,Marketing,Married,Sales,Sales Executive,Travel_Frequently,69245,1,5,1,79,3,2,3,7,No,12,3,11,4,2,1,0,0,0,No,3
+E02424,Thomas Smith,Male,57,4/2/1999,Technical Degree,Divorced,Research & Development,Research Scientist,Non-Travel,78212,7,3,3,64,3,1,3,1,No,13,2,1,2,2,1,0,0,0,No,3
+E02425,Carter Hunter,Male,41,10/7/2019,Life Sciences,Married,Research & Development,Research Scientist,Travel_Rarely,72650,1,2,2,93,4,2,3,0,No,24,1,13,2,2,12,9,2,8,No,2
+E02426,Charlotte Green,Female,33,11/10/2020,Life Sciences,Divorced,Research & Development,Manager R&D,Travel_Rarely,124681,7,4,3,35,3,3,2,3,No,14,2,29,3,3,8,7,0,7,No,3
+E02427,Lincoln Holmes,Male,35,8/21/2013,Medical,Divorced,Research & Development,Research Director,Travel_Frequently,89051,15,3,2,71,3,4,1,7,No,14,4,16,3,2,14,8,6,9,No,2
+E02428,Hudson Hu,Male,36,12/2/2019,Technical Degree,Married,Sales,Sales Representative,Travel_Frequently,121049,1,3,1,92,3,1,3,3,No,15,4,5,3,4,3,2,1,2,Yes,2
+E02429,Noah Mitchell,Male,54,6/15/2007,Medical,Single,Sales,Sales Executive,Travel_Rarely,70519,24,4,1,40,2,2,2,0,Yes,23,3,16,2,4,15,9,10,10,Yes,2
+E02430,Liliana Choi,Female,55,1/25/2007,Life Sciences,Married,Sales,Sales Representative,Travel_Rarely,106302,7,1,4,76,3,1,3,1,No,13,1,1,3,3,1,0,0,0,No,3
+E02431,Leonardo Cho,Male,38,8/25/2008,Life Sciences,Married,Sales,Sales Representative,Non-Travel,119960,13,2,4,78,3,1,2,1,No,13,3,1,2,3,1,0,0,0,No,3
+E02432,Oliver Delgado,Male,45,2/22/2017,Medical,Single,Research & Development,Manager R&D,Travel_Frequently,84309,2,1,2,86,3,3,3,5,Yes,18,2,16,2,2,2,2,2,2,No,2
+E02433,Isabella Roberts,Female,53,8/20/2007,Life Sciences,Divorced,Sales,Sales Executive,Travel_Rarely,228494,19,3,3,77,2,2,3,1,No,14,3,10,3,3,10,7,0,4,No,3
+E02434,Luca Desai,Male,45,5/23/2017,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,112076,4,4,4,30,3,2,3,0,Yes,16,2,4,2,3,3,2,1,2,No,3
+E02435,William Juarez,Male,65,7/29/2016,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,88533,4,4,1,82,2,1,2,8,No,11,4,8,5,3,5,4,0,2,No,3
+E02436,Ryan Alvarez,Male,62,11/29/2018,Medical,Married,Sales,Sales Executive,Travel_Rarely,72025,14,3,3,78,3,2,3,3,Yes,17,3,11,4,2,5,4,1,2,No,3
+E02437,Hudson Ha,Male,59,2/6/2004,Medical,Single,Research & Development,Laboratory Technician,Travel_Frequently,67947,2,2,3,38,2,1,1,7,No,11,3,8,2,2,0,0,0,0,Yes,3
+E02438,Hannah Brown,Female,42,7/12/2020,Life Sciences,Divorced,Research & Development,Manager R&D,Travel_Rarely,79764,1,3,1,72,2,1,3,1,No,14,4,1,2,1,1,0,0,0,No,3
+E02439,Hadley Le,Female,33,3/18/2015,Life Sciences,Single,Sales,Sales Executive,Travel_Frequently,60690,7,3,3,55,3,2,1,0,No,14,4,5,5,3,4,2,1,3,No,3
+E02440,Jaxson Shah,Male,29,8/25/2018,Medical,Married,Research & Development,Laboratory Technician,Travel_Rarely,44520,3,2,3,43,2,2,1,4,No,25,1,10,3,3,3,2,1,2,No,4
+E02441,Christopher Delgado,Male,33,6/24/2022,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Frequently,84317,2,1,4,97,3,1,2,0,No,13,3,4,3,3,3,2,0,2,No,3
+E02442,Hannah Ng,Female,36,5/14/2015,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,151055,29,1,3,96,1,2,2,1,No,14,2,8,2,2,8,6,1,7,No,3
+E02443,Austin Ngo,Male,43,3/27/2020,Life Sciences,Single,Research & Development,Healthcare Representative,Travel_Rarely,62492,8,5,4,69,3,2,3,2,Yes,17,1,14,6,3,0,0,0,0,No,3
+E02444,Gianna Han,Female,51,2/27/2011,Medical,Single,Research & Development,Manager,Travel_Rarely,72589,10,3,3,64,3,3,4,2,No,25,2,10,5,4,5,2,0,0,No,3
+E02445,Isaac Choi,Male,27,1/21/2021,Medical,Divorced,Research & Development,Manager R&D,Travel_Frequently,82286,11,4,2,87,3,4,4,3,No,20,1,26,2,3,14,9,1,12,No,2
+E02446,Madeline Smith,Female,55,11/23/2011,Technical Degree,Single,Research & Development,Research Scientist,Travel_Rarely,66660,1,4,1,100,2,1,1,6,No,13,3,11,2,1,9,7,0,7,Yes,3
+E02447,Ellie Fernandez,Female,62,8/18/2009,Life Sciences,Married,Sales,Manager,Travel_Rarely,86805,3,3,3,51,3,4,2,8,No,12,4,23,2,4,13,12,5,1,No,3
+E02448,Lyla Lai,Female,46,8/11/2004,Life Sciences,Single,Research & Development,Manager R&D,Travel_Rarely,125878,16,3,4,91,2,3,2,1,No,19,4,11,3,1,11,8,3,3,No,3
+E02449,Emily Moore,Female,47,11/8/2009,Life Sciences,Single,Research & Development,Laboratory Technician,Travel_Rarely,50290,20,1,1,97,3,2,3,0,No,14,2,5,2,3,4,3,1,2,No,2
+E02450,Aubrey Moreno,Female,57,6/30/2000,Life Sciences,Single,Research & Development,Laboratory Technician,Travel_Rarely,97083,9,4,4,86,3,1,1,3,No,14,2,15,3,1,5,4,1,0,Yes,3
+E02451,Nova Xiong,Female,49,4/10/2019,Technical Degree,Married,Sales,Sales Executive,Travel_Rarely,93306,1,3,4,64,2,3,3,1,Yes,14,4,10,3,3,10,9,8,6,No,3
+E02452,Eva Lam,Female,42,3/8/2022,Medical,Single,Research & Development,Research Director,Travel_Frequently,73404,22,5,3,88,1,4,4,1,Yes,13,4,32,2,3,32,6,13,9,No,3
+E02453,Caroline Chau,Female,55,12/7/2022,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,91179,2,3,3,68,2,1,2,4,No,14,2,4,3,3,1,0,0,0,No,3
+E02454,Sofia Chen,Female,46,8/27/2006,Medical,Married,Research & Development,Research Scientist,Travel_Rarely,108003,13,3,1,47,3,2,4,1,No,17,1,10,2,3,10,8,3,7,No,2
+E02455,Christopher Sharma,Male,45,4/16/2004,Other,Married,Research & Development,Healthcare Representative,Travel_Rarely,81384,8,1,3,39,1,2,1,3,No,13,3,9,3,3,7,7,0,7,No,3
+E02456,Lucas Grant,Male,53,3/28/2012,Life Sciences,Single,Research & Development,Manufacturing Director,Travel_Rarely,97218,25,3,4,44,2,2,2,1,No,13,4,5,2,3,5,3,0,2,No,3
+E02457,Delilah Washington,Female,46,9/17/2006,Technical Degree,Married,Research & Development,Research Scientist,Travel_Rarely,42944,28,3,4,97,3,1,4,4,No,20,4,8,3,3,5,4,0,3,No,4
+E02458,Eloise Molina,Female,48,1/18/2015,Life Sciences,Married,Research & Development,Healthcare Representative,Travel_Frequently,43980,2,3,4,40,3,3,4,2,Yes,14,3,24,3,1,20,8,13,9,No,3
+E02459,Clara Desai,Female,33,11/20/2014,Medical,Married,Sales,Sales Executive,Travel_Rarely,109533,9,2,1,47,3,2,1,0,No,12,4,9,5,4,8,4,7,1,No,2
+E02460,Audrey Campbell,Female,56,7/30/2008,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Rarely,226952,28,4,2,79,3,2,3,1,Yes,12,2,15,3,3,15,14,5,7,No,2
+E02461,Delilah Alvarez,Female,59,11/27/2007,Medical,Single,Human Resources,Manager,Travel_Rarely,71580,6,2,3,38,3,4,4,1,Yes,21,4,21,2,3,21,7,7,7,No,4
+E02462,Luke Luna,Male,55,11/16/2012,Technical Degree,Divorced,Research & Development,Laboratory Technician,Travel_Rarely,66172,21,2,3,57,2,1,1,0,No,14,2,2,3,3,1,1,0,0,No,3
+E02463,Elizabeth Tan,Female,46,7/27/2018,Life Sciences,Divorced,Research & Development,Manager R&D,Non-Travel,237489,8,2,4,72,3,2,4,3,Yes,18,3,8,2,3,2,2,2,2,No,3
+E02464,Sophia Wang,Female,50,5/20/2000,Technical Degree,Divorced,Research & Development,Healthcare Representative,Travel_Rarely,48733,1,4,1,66,3,3,2,1,No,12,1,10,4,3,10,8,7,7,No,2
+E02465,Nova Park,Female,29,7/23/2017,Life Sciences,Married,Sales,Sales Representative,Travel_Rarely,48563,28,4,2,98,2,1,3,0,No,23,1,6,5,3,5,3,4,2,No,2
+E02466,Josiah Khan,Male,57,10/26/2004,Life Sciences,Single,Sales,Sales Representative,Travel_Rarely,86592,2,4,3,70,3,1,4,3,Yes,21,4,7,3,2,3,2,1,2,No,4
+E02467,Madison Gray,Female,39,8/29/2011,Life Sciences,Divorced,Sales,Sales Executive,Travel_Rarely,189823,16,4,3,96,3,2,3,8,No,14,3,18,2,3,8,7,7,7,No,3
+E02468,Luca Washington,Male,40,6/27/2022,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,65075,8,4,1,46,3,2,1,2,No,13,4,8,6,1,2,2,2,2,No,2
+E02469,Isaac Cruz,Male,33,5/9/2018,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,187917,1,3,2,64,2,2,1,1,No,11,4,10,4,3,10,8,6,7,Yes,2
+E02470,Ellie Ortega,Female,49,10/20/2020,Human Resources,Married,Human Resources,Human Resources,Travel_Frequently,42242,10,4,3,71,3,2,3,3,No,11,3,10,2,3,6,3,1,2,No,3
+E02471,Ian Huang,Male,54,2/7/1998,Technical Degree,Married,Sales,Sales Executive,Travel_Rarely,53931,29,4,3,33,3,3,2,3,No,12,2,9,3,3,4,2,1,3,No,3
+E02472,Jayden Ahmed,Male,51,3/28/2006,Life Sciences,Divorced,Research & Development,Laboratory Technician,Travel_Rarely,140668,2,3,1,69,3,1,1,1,Yes,12,4,1,2,3,1,0,0,0,Yes,3
+E02473,Violet Simmons,Female,33,10/23/2017,Technical Degree,Married,Research & Development,Manufacturing Director,Travel_Rarely,53948,2,5,3,78,2,3,4,0,No,16,2,34,4,3,33,7,1,9,Yes,3
+E02474,William Roberts,Male,34,4/12/2017,Medical,Married,Research & Development,Manufacturing Director,Travel_Rarely,174257,2,3,3,81,3,2,2,4,No,11,1,7,2,3,5,2,1,4,Yes,3
+E02475,Penelope Sandoval,Female,28,12/18/2019,Other,Married,Research & Development,Manager R&D,Travel_Rarely,132209,15,4,3,65,3,1,1,8,No,12,4,10,3,2,8,2,7,6,No,3
+E02476,Emilia Ortiz,Female,34,7/16/2017,Medical,Single,Research & Development,Research Scientist,Travel_Rarely,208883,7,4,1,35,3,1,4,1,No,13,3,1,4,1,1,0,0,0,No,3
+E02477,Layla Gutierrez,Female,39,5/5/2022,Marketing,Married,Sales,Manager,Travel_Rarely,65957,26,5,3,60,2,5,4,1,No,21,3,36,3,3,36,6,2,13,No,4
+E02478,Dylan Vu,Male,63,7/22/2004,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,106481,1,4,2,45,3,2,4,9,No,17,2,9,3,2,2,2,2,1,No,2
+E02479,Peyton Wong,Female,35,8/5/2020,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,218127,14,3,3,80,3,2,2,0,No,11,4,10,3,3,9,8,7,7,No,3
+E02480,Santiago f Banks,Male,44,8/16/2019,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,151481,1,4,2,73,3,2,3,6,No,13,1,15,5,3,1,0,0,0,No,3
+E02481,Caroline Wong,Female,37,3/8/2017,Medical,Single,Research & Development,Manager R&D,Travel_Rarely,40508,3,1,2,87,3,1,1,1,Yes,18,4,10,3,3,10,9,1,5,No,2
+E02482,Quinn Ho,Female,45,7/20/2002,Medical,Single,Research & Development,Healthcare Representative,Travel_Rarely,200481,10,4,1,51,3,2,3,3,Yes,16,3,10,4,3,5,2,0,4,No,3
+E02483,Caroline Nunez,Female,65,12/20/2002,Medical,Married,Sales,Sales Executive,Travel_Rarely,224872,6,3,4,38,4,3,3,2,No,11,1,11,3,3,7,6,7,6,No,3
+E02484,Carson Brown,Male,65,11/5/2007,Life Sciences,Divorced,Finance,Finance Manager,Travel_Frequently,149474,2,1,1,87,3,2,4,1,No,19,4,6,0,4,6,4,1,3,No,2
+E02485,Olivia Maldonado,Female,63,2/18/2002,Marketing,Married,Sales,Manager,Travel_Rarely,86820,9,3,3,59,3,5,3,4,Yes,16,3,27,2,3,1,0,0,0,No,3
+E02486,Emilia Chung,Female,55,11/8/1994,Technical Degree,Married,Finance,Finance Manager,Travel_Rarely,184078,10,3,4,45,4,1,3,2,No,16,4,4,2,3,2,2,2,2,No,3
+E02487,Leilani Shin,Female,58,12/18/2013,Life Sciences,Married,Finance,Finance Manager,Travel_Rarely,55174,28,3,2,46,4,2,3,1,No,17,4,10,3,2,10,9,6,8,No,2
+E02488,Abigail Zhu,Female,31,1/17/2022,Technical Degree,Married,Finance,Finance Manager,Travel_Frequently,152474,10,4,4,92,2,2,3,1,No,14,2,8,3,2,8,2,7,7,No,3
+E02489,Autumn Xiong,Female,28,2/13/2020,Technical Degree,Divorced,Finance,Finance Manager,Travel_Rarely,75172,27,3,4,87,4,1,2,5,No,12,3,8,0,3,6,4,0,2,No,3
+E02490,Hailey Cruz,Female,50,8/10/2008,Medical,Married,Finance,Finance Manager,Travel_Rarely,56002,24,3,3,51,3,1,2,1,Yes,17,3,1,3,3,1,1,0,0,Yes,3
+E02491,Piper Cruz,Female,61,4/13/2013,Other,Married,Finance,Finance Manager,Non-Travel,195636,26,2,2,85,2,1,3,1,Yes,14,2,4,2,2,4,2,1,3,No,2
+E02492,Jaxson Jackson,Male,53,3/1/1997,Medical,Married,Finance,Finance Manager,Travel_Frequently,63165,20,5,2,41,3,4,3,2,Yes,15,3,32,3,3,30,8,12,13,No,2
+E02493,Serenity Mehta,Female,51,7/21/1998,Other,Married,Finance,Finance Manager,Travel_Rarely,57277,5,4,2,35,4,1,4,3,No,17,4,6,3,3,3,2,0,2,No,3
+E02494,Peyton Gomez,Female,56,1/14/2020,Medical,Divorced,Finance,Finance Manager,Travel_Rarely,42950,7,3,2,31,3,5,4,0,Yes,14,4,23,4,2,22,7,1,10,No,2
+E02495,Ethan Vargas,Male,38,10/9/2018,Medical,Married,Finance,Finance Manager,Travel_Rarely,168410,7,3,2,48,2,1,2,1,No,12,2,6,3,2,6,4,1,1,No,2
+E02496,Serenity Morris,Female,41,4/12/2008,Medical,Single,Finance,Finance Manager,Travel_Rarely,114588,5,5,3,50,1,2,1,1,Yes,14,1,10,3,3,10,7,1,4,No,3
+E02497,Vivian Chan,Female,61,5/12/1997,Marketing,Married,Sales,Sales Executive,Non-Travel,72546,26,3,1,52,2,2,1,1,No,15,1,10,2,3,10,7,4,5,No,2
+E02498,Lincoln Singh,Male,33,1/9/2021,Other,Single,Sales,Sales Executive,Travel_Frequently,55397,2,4,4,54,3,2,1,7,No,13,4,10,3,3,5,2,0,3,No,3
+E02499,Ayla Lim,Female,41,9/5/2021,Life Sciences,Married,Finance,Finance Manager,Travel_Rarely,192266,12,4,3,76,3,2,3,9,Yes,12,2,7,2,3,3,2,1,1,No,3
+E02500,Leilani Hong,Female,36,12/20/2013,Life Sciences,Divorced,Finance,Finance Manager,Travel_Frequently,79876,10,4,3,42,4,2,4,1,No,13,1,9,3,3,9,7,7,2,No,3
+E02501,Victoria Doan,Female,42,3/6/2018,Life Sciences,Married,Finance,Finance Manager,Travel_Rarely,112593,25,4,3,84,3,1,1,1,No,14,4,10,3,2,9,6,1,4,No,3
+E02502,Naomi Wright,Female,36,11/3/2016,Other,Divorced,Finance,Finance Manager,Travel_Rarely,99249,19,3,4,67,2,1,1,1,No,11,1,7,3,3,7,7,0,7,No,3
+E02503,Scarlett Howard,Female,55,8/12/2012,Life Sciences,Married,Finance,Finance Manager,Travel_Rarely,117421,18,5,2,48,4,2,1,1,No,11,4,16,2,3,16,15,1,10,No,2
+E02504,Victoria Vo,Female,44,12/18/2017,Medical,Divorced,Finance,Finance Manager,Travel_Rarely,82241,27,3,2,39,1,2,1,0,No,21,2,6,5,2,5,3,0,0,No,3
+E02505,Oliver Fernandez,Male,31,5/15/2022,Medical,Single,Finance,Finance Manager,Travel_Rarely,125664,5,1,3,97,3,1,4,1,No,18,3,3,2,3,2,2,2,2,No,3
+E02506,Luca Jiang,Male,47,9/8/2013,Medical,Single,Sales,Sales Representative,Travel_Frequently,57386,3,2,2,70,3,1,4,1,Yes,12,3,0,2,4,0,0,0,0,Yes,3
+E02507,Charlotte Owens,Female,59,5/11/2001,Life Sciences,Married,Human Resources,Manager,Travel_Rarely,196740,26,4,4,98,3,5,3,3,No,11,3,27,2,3,5,2,1,0,No,3
+E02508,Stella Tan,Female,48,8/22/2009,Medical,Divorced,Finance,Finance Manager,Travel_Rarely,168202,3,2,3,76,2,2,3,0,No,15,4,11,3,3,10,8,0,7,No,3
+E02509,Ellie Yoon,Female,44,7/11/2006,Life Sciences,Married,Finance,Finance Manager,Non-Travel,242004,8,4,3,52,3,2,3,1,No,12,4,15,5,3,14,11,2,9,No,3
+E02510,Ella Do,Female,52,2/28/1998,Life Sciences,Married,Finance,Finance Manager,Travel_Rarely,57433,19,3,3,85,3,2,3,3,No,17,1,9,2,2,4,3,0,2,No,3
+E02511,Lucas Cruz,Male,54,7/11/2009,Medical,Single,Finance,Finance Manager,Travel_Frequently,74656,4,3,1,81,3,2,3,0,No,13,4,10,2,1,9,2,3,8,No,2
+E02512,Sarah Mehta,Female,31,8/23/2016,Medical,Married,Finance,Finance Manager,Travel_Rarely,62848,2,2,4,54,2,3,3,3,Yes,19,4,10,6,4,5,4,0,2,No,3
+E02513,Anthony Phan,Male,39,4/11/2011,Medical,Married,Finance,Finance Manager,Travel_Rarely,92523,10,3,2,71,3,1,2,1,No,11,1,8,2,1,8,4,7,7,No,2
+E02514,David Chu,Male,40,12/16/2012,Life Sciences,Single,Finance,Finance Manager,Travel_Rarely,142844,16,3,3,84,3,3,4,6,Yes,15,4,18,2,2,4,2,3,3,No,3
+E02515,Sebastian Sanders,Male,39,1/23/2009,Human Resources,Married,Human Resources,Human Resources,Travel_Frequently,100718,1,5,1,37,3,2,4,4,Yes,11,3,14,3,3,10,7,0,2,No,3
+E02516,Jayden Phillips,Male,25,10/13/2022,Medical,Divorced,Sales,Sales Executive,Travel_Rarely,154186,15,2,1,59,1,2,4,6,Yes,14,4,7,2,2,2,2,2,2,Yes,2
+E02517,Caleb Chan,Male,48,6/24/2003,Technical Degree,Single,Finance,Finance Manager,Travel_Frequently,107586,2,1,1,32,3,1,4,1,Yes,13,3,6,2,3,6,3,1,3,No,2
+E02518,Ariana Santiago,Female,54,10/28/2003,Medical,Married,Finance,Finance Manager,Travel_Rarely,88906,8,3,2,86,4,1,3,7,No,17,1,5,0,3,3,2,0,2,No,3
+E02519,Quinn Owens,Female,40,5/9/2018,Medical,Single,Finance,Finance Manager,Travel_Frequently,74329,2,3,4,87,3,1,4,2,No,13,3,6,0,2,4,2,1,2,No,3
+E02520,Eli James,Male,32,4/15/2021,Life Sciences,Divorced,Finance,Finance Manager,Travel_Frequently,86523,2,1,4,77,4,2,3,1,No,17,3,7,6,3,7,7,0,7,No,3
+E02521,Ezra Aguilar,Male,60,11/5/2014,Medical,Married,Finance,Finance Manager,Travel_Rarely,239868,12,3,4,66,3,2,2,4,No,21,3,7,3,3,5,4,1,0,No,4
+E02522,Anna Castro,Female,29,5/21/2018,Other,Married,Finance,Finance Manager,Travel_Rarely,65010,22,4,1,72,3,4,2,3,No,16,2,27,2,3,4,2,1,2,No,2
+E02523,Liliana Lewis,Female,25,2/23/2021,Life Sciences,Divorced,Finance,Finance Manager,Travel_Rarely,82140,17,5,4,50,2,3,1,5,No,15,3,19,3,3,14,11,1,11,No,3
+E02524,Maverick Alvarado,Male,34,6/11/2016,Medical,Single,Sales,Sales Representative,Travel_Rarely,75511,2,3,3,31,3,1,3,1,No,19,1,2,3,3,2,2,2,2,No,3
+E02525,Nora Butler,Female,26,5/6/2022,Life Sciences,Divorced,Finance,Finance Manager,Travel_Rarely,188880,3,3,4,66,3,2,2,1,No,12,3,11,2,3,11,8,7,9,No,3
+E02526,Landon Rodriguez,Male,39,11/19/2017,Life Sciences,Single,Finance,Finance Manager,Travel_Rarely,87155,7,3,1,77,3,1,2,2,No,11,3,15,4,3,4,3,1,3,No,2
+E02527,Grace Harris,Female,34,10/28/2018,Life Sciences,Married,Finance,Finance Manager,Travel_Rarely,75518,6,1,3,41,2,4,3,2,Yes,19,2,30,3,3,15,11,2,12,No,3
+E02528,Jeremiah Medina,Male,54,9/28/1997,Medical,Married,Finance,Finance Manager,Non-Travel,129311,1,4,4,33,2,2,3,0,No,15,3,4,6,3,3,2,1,2,No,3
+E02529,Charles Bryant,Male,27,7/12/2022,Life Sciences,Divorced,Finance,Finance Manager,Travel_Rarely,56919,3,2,4,79,4,2,1,6,No,20,1,13,3,3,5,4,0,4,No,4
+E02530,Elizabeth Dixon,Female,26,11/15/2020,Medical,Married,Finance,Finance Manager,Travel_Rarely,153832,22,5,2,91,3,4,3,3,No,25,3,36,6,3,10,8,4,7,No,2
+E02531,Riley Phillips,Female,26,8/5/2022,Life Sciences,Married,Finance,Finance Manager,Travel_Rarely,211121,15,2,3,65,2,4,3,1,No,24,1,14,3,3,14,10,6,11,No,4
+E02532,Gianna Cruz,Female,29,7/2/2019,Other,Single,Sales,Sales Executive,Travel_Frequently,106456,12,4,4,36,3,2,4,3,Yes,24,1,13,2,4,11,9,6,7,Yes,4
+E02533,Lincoln Cruz,Male,64,7/15/1997,Medical,Divorced,Sales,Sales Executive,Travel_Rarely,72772,5,3,1,43,2,2,2,1,Yes,13,2,10,3,2,10,0,0,9,No,3
+E02534,Ezekiel Contreras,Male,45,8/10/2001,Medical,Divorced,Sales,Sales Executive,Travel_Rarely,143146,2,4,4,93,3,2,4,1,No,14,3,6,5,3,6,2,0,4,No,3
+E02535,Amelia Do,Female,45,12/24/2018,Medical,Divorced,Finance,Finance Manager,Travel_Rarely,74776,2,3,4,45,3,2,2,0,No,13,3,10,4,2,9,5,1,6,No,3
+E02536,Anthony Perez,Male,51,9/13/2021,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,92305,5,4,1,67,3,2,4,1,No,11,1,10,2,3,10,0,0,2,No,3
+E02537,Elias Maldonado,Male,56,4/1/2005,Medical,Divorced,Finance,Finance Manager,Travel_Rarely,94724,16,3,4,74,3,1,1,4,Yes,16,2,17,2,2,2,2,2,2,No,3
+E02538,Liam Luong,Male,58,11/13/1995,Life Sciences,Single,Sales,Sales Representative,Travel_Rarely,88019,9,1,4,54,3,1,1,1,No,11,1,2,3,3,2,2,0,2,No,3
+E02539,Jordan Ford,Male,43,9/19/2016,Life Sciences,Divorced,Sales,Sales Executive,Non-Travel,108000,16,3,3,36,3,2,4,1,Yes,25,3,7,2,3,6,5,1,2,No,4
+E02540,Mateo Chung,Male,52,7/27/2018,Life Sciences,Married,Finance,Finance Manager,Travel_Rarely,81438,26,4,1,80,3,2,3,6,No,14,2,10,2,2,3,2,0,2,No,3
+E02541,Jameson Vang,Male,41,5/23/2018,Life Sciences,Divorced,Human Resources,Human Resources,Travel_Rarely,95669,1,3,3,44,3,1,4,4,Yes,18,1,8,2,3,2,2,2,2,No,3
+E02542,Samuel Thomas,Male,43,2/15/2016,Medical,Single,Finance,Finance Manager,Travel_Rarely,180385,8,1,4,93,2,1,3,1,Yes,11,1,5,2,3,5,4,1,2,Yes,3
+E02543,Gabriel Rodriguez,Male,36,1/30/2016,Medical,Married,Finance,Finance Manager,Travel_Rarely,45184,4,2,4,87,3,1,3,7,No,19,4,7,5,2,0,0,0,0,No,3
+E02544,Wyatt Robinson,Male,55,8/8/2007,Medical,Married,Finance,Finance Manager,Travel_Rarely,70451,24,4,2,48,4,3,4,3,No,15,3,11,2,3,4,3,1,2,No,2
+E02545,Anna Huynh,Female,39,4/5/2009,Medical,Married,Sales,Sales Representative,Travel_Frequently,63259,7,2,4,95,3,1,3,2,Yes,11,3,19,3,3,9,7,7,7,Yes,3
+E02546,Lucy Simmons,Female,56,3/1/2001,Life Sciences,Single,Finance,Finance Manager,Travel_Rarely,73778,2,4,4,95,3,1,2,1,No,12,1,1,2,3,1,0,0,0,Yes,3
+E02547,Austin Ng,Male,45,3/3/2009,Medical,Single,Finance,Finance Manager,Non-Travel,126697,7,3,4,76,3,1,4,1,No,20,3,7,5,3,7,7,5,7,No,4
+E02548,Madeline Cruz,Female,63,5/19/2008,Technical Degree,Divorced,Finance,Finance Manager,Travel_Rarely,75396,22,3,1,94,2,1,2,5,No,12,4,8,1,3,4,2,1,2,No,2
+E02549,Layla Munoz,Female,39,9/24/2014,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,182595,5,2,2,57,2,2,4,1,No,14,3,15,3,4,15,10,4,13,No,2
+E02550,Alexander Tang,Male,32,1/29/2015,Medical,Divorced,Research & Development,Healthcare Representative,Travel_Rarely,45424,1,4,3,92,1,3,4,3,No,20,3,19,2,4,1,0,0,0,No,4
+E02551,Carson Chen,Male,45,12/3/2012,Medical,Divorced,Sales,Sales Executive,Travel_Frequently,70661,1,4,3,31,1,2,4,1,No,14,3,6,2,2,6,3,1,3,No,3
+E02552,Kai Duong,Male,41,11/16/2018,Life Sciences,Married,Research & Development,Research Scientist,Travel_Rarely,57166,19,3,2,35,2,1,4,1,No,12,2,10,3,3,10,9,8,7,No,2
+E02553,Ayla Cooper,Female,56,2/15/2017,Life Sciences,Married,Research & Development,Healthcare Representative,Travel_Rarely,101637,2,3,3,96,4,3,4,1,Yes,19,2,9,2,3,8,7,6,7,No,3
+E02554,Eliza Espinoza,Female,30,12/28/2017,Medical,Married,Sales,Sales Executive,Travel_Rarely,103646,2,3,4,73,3,2,4,1,Yes,17,1,10,3,3,10,9,8,8,No,3
+E02555,Axel King,Male,46,2/21/2010,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,100757,9,4,4,43,3,1,3,9,No,17,3,9,2,3,5,3,1,2,No,3
+E02556,Alexander Carter,Male,47,10/4/2008,Life Sciences,Single,Sales,Sales Representative,Travel_Rarely,60963,2,4,3,51,3,2,4,3,No,15,3,17,2,2,13,7,6,7,No,3
+E02557,Robert Rogers,Male,53,8/26/2011,Life Sciences,Married,Research & Development,Manager R&D,Non-Travel,258734,1,1,3,74,2,3,3,3,No,23,4,25,3,2,23,15,14,4,No,4
+E02558,Anthony Gupta,Male,38,9/23/2021,Medical,Married,Research & Development,Laboratory Technician,Travel_Rarely,70612,17,4,4,62,1,1,3,1,No,15,3,3,3,4,3,2,0,2,No,3
+E02559,Jackson Gupta,Male,65,6/27/1993,Technical Degree,Single,Research & Development,Manager R&D,Travel_Rarely,77065,28,2,4,48,2,4,2,1,No,11,3,21,2,3,21,6,8,6,No,3
+E02560,Sophia Rodriguez,Female,58,10/31/2007,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Rarely,96256,2,4,2,69,3,1,3,1,No,14,4,6,2,4,5,2,0,3,No,3
+E02561,Cora Patel,Female,36,5/13/2011,Human Resources,Married,Human Resources,Human Resources,Non-Travel,65794,4,3,3,60,1,2,2,6,No,19,2,10,4,3,3,2,1,2,No,3
+E02562,Piper Hsu,Female,45,8/23/2015,Life Sciences,Married,Research & Development,Manufacturing Director,Travel_Rarely,48491,8,2,2,92,3,2,1,2,Yes,16,2,18,3,3,1,0,0,0,No,3
+E02563,Hunter Marquez,Male,34,8/7/2019,Medical,Divorced,Research & Development,Laboratory Technician,Travel_Rarely,83220,29,1,2,91,3,1,1,1,No,13,2,6,2,4,6,2,1,2,No,2
+E02564,Addison Li,Female,37,3/4/2010,Life Sciences,Single,Research & Development,Healthcare Representative,Travel_Rarely,61680,13,4,3,34,3,2,2,6,No,14,4,19,3,3,10,7,0,9,No,3
+E02565,Carson Hoang,Male,43,10/9/2021,Life Sciences,Married,Research & Development,Research Scientist,Travel_Rarely,72482,16,1,2,33,3,1,4,1,No,12,2,10,2,2,10,0,0,8,No,3
+E02566,Julian Fernandez,Male,27,2/7/2022,Marketing,Married,Sales,Sales Executive,Non-Travel,81713,2,4,3,87,3,2,2,7,No,11,4,4,3,1,1,0,0,0,No,3
+E02567,Caleb Rojas,Male,38,12/4/2021,Life Sciences,Divorced,Sales,Sales Executive,Travel_Rarely,68281,2,3,3,74,3,3,4,4,Yes,12,2,13,5,2,10,6,0,3,No,3
+E02568,Elizabeth Griffin,Female,60,9/10/1993,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,63979,13,5,2,96,2,2,1,5,Yes,13,2,16,3,3,2,2,2,2,Yes,2
+E02569,Nolan Han,Male,29,11/19/2017,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,53090,1,2,1,34,1,2,2,6,No,15,2,10,2,3,0,0,0,0,Yes,3
+E02570,Cameron Romero,Male,49,9/15/1997,Technical Degree,Single,Research & Development,Manufacturing Director,Travel_Frequently,108325,24,1,4,30,3,2,4,2,No,20,4,9,3,2,5,4,1,4,No,4
+E02571,Angel Patterson,Male,45,1/7/2018,Life Sciences,Married,Research & Development,Laboratory Technician,Non-Travel,98289,1,3,4,77,3,2,4,1,Yes,15,4,9,2,3,9,8,5,8,No,3
+E02572,Ryan Foster,Male,44,2/22/2004,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,41275,19,3,4,80,1,3,3,3,No,13,3,10,2,1,4,3,0,2,No,3
+E02573,Leonardo Patterson,Male,46,2/6/2012,Medical,Single,Sales,Manager,Travel_Rarely,93642,7,4,2,88,3,5,2,1,No,14,2,21,3,2,21,8,12,8,No,2
+E02574,William Song,Male,36,10/25/2010,Life Sciences,Married,Human Resources,Human Resources,Travel_Rarely,162957,4,3,3,56,1,3,3,4,No,21,3,9,2,4,5,0,0,3,No,4
+E02575,Axel Aguilar,Male,45,4/10/2022,Technical Degree,Single,Research & Development,Manager R&D,Travel_Frequently,96029,2,4,4,78,2,1,1,0,No,16,4,10,2,3,9,7,0,7,No,3
+E02576,Liam Valdez,Male,55,3/1/1999,Medical,Married,Human Resources,Human Resources,Travel_Frequently,227148,10,3,1,59,3,1,4,0,No,14,4,3,2,3,2,2,2,1,No,2
+E02577,Hudson Washington,Male,43,9/17/2008,Human Resources,Divorced,Human Resources,Human Resources,Travel_Frequently,76819,8,3,3,66,2,1,4,6,No,11,3,6,0,2,4,2,1,2,Yes,3
+E02578,Owen Han,Male,30,9/1/2022,Technical Degree,Married,Sales,Sales Executive,Travel_Rarely,66892,5,3,1,51,3,2,3,1,No,19,3,6,3,3,5,2,0,2,No,4
+E02579,Harper Washington,Female,48,6/24/1999,Medical,Single,Research & Development,Manager R&D,Travel_Rarely,256084,8,3,3,67,3,1,4,1,No,11,3,6,5,2,6,2,1,4,No,3
+E02580,Brooklyn Parker,Female,60,3/19/2005,Marketing,Single,Sales,Sales Representative,Travel_Rarely,85669,9,3,2,52,1,1,2,1,No,13,3,2,3,3,2,2,2,2,Yes,2
+E02581,Hudson Oh,Male,30,9/9/2021,Life Sciences,Single,Research & Development,Healthcare Representative,Travel_Frequently,44454,1,3,4,70,4,2,3,8,Yes,12,4,10,5,4,3,2,0,2,No,3
+E02582,Maverick Howard,Male,25,4/13/2021,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,54353,15,2,3,94,2,3,1,2,No,11,1,12,2,3,7,7,1,7,No,3
+E02583,Alexander Dominguez,Male,58,11/27/2014,Medical,Married,Research & Development,Research Scientist,Travel_Rarely,58867,2,4,4,97,4,1,4,0,Yes,14,1,6,3,3,5,0,1,2,No,3
+E02584,Jack Garcia,Male,37,3/21/2022,Marketing,Single,Sales,Sales Executive,Non-Travel,123918,2,3,4,62,3,2,2,8,No,15,4,13,2,2,11,7,1,7,No,3
+E02585,Aiden Hu,Male,44,5/7/2010,Marketing,Single,Sales,Sales Executive,Travel_Rarely,56680,11,4,4,80,3,2,4,3,No,12,3,8,1,4,5,1,0,4,No,3
+E02586,Cora Espinoza,Female,53,10/9/2019,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,55206,16,3,1,74,3,3,1,2,Yes,20,3,11,2,2,0,0,0,0,Yes,4
+E02587,Naomi Moua,Female,58,1/13/2010,Medical,Married,Research & Development,Laboratory Technician,Travel_Frequently,150633,2,2,3,75,2,1,2,4,No,14,2,9,4,2,6,1,0,5,No,3
+E02588,Liam Baker,Male,65,1/26/2020,Technical Degree,Single,Research & Development,Research Scientist,Non-Travel,97379,5,4,2,65,3,1,2,2,No,14,2,12,3,3,7,7,0,7,No,3
+E02589,Christian Liu,Male,57,3/29/2000,Medical,Married,Research & Development,Healthcare Representative,Travel_Rarely,178447,18,3,2,60,1,2,4,3,Yes,16,3,15,2,3,1,0,1,0,No,3
+E02590,Aaron Munoz,Male,31,6/13/2021,Technical Degree,Married,Research & Development,Research Scientist,Travel_Frequently,60827,17,3,3,38,2,1,3,9,Yes,16,4,6,4,3,1,0,0,0,Yes,3
+E02591,Levi Kang,Male,32,4/28/2019,Medical,Married,Research & Development,Research Director,Travel_Rarely,96951,2,3,3,60,2,5,1,8,No,12,2,34,2,3,1,0,0,0,No,3
+E02592,Isaac Foster,Male,48,1/6/2001,Technical Degree,Divorced,Research & Development,Research Scientist,Non-Travel,103051,4,3,4,90,3,2,2,5,No,15,4,11,2,2,9,8,1,7,No,3
+E02593,Samantha Zhu,Female,55,10/27/2001,Life Sciences,Divorced,Research & Development,Laboratory Technician,Travel_Rarely,256592,9,4,3,94,3,1,1,1,No,20,2,5,2,3,5,3,0,4,No,4
+E02594,Vivian Watson,Female,52,7/7/2017,Life Sciences,Divorced,Sales,Sales Executive,Non-Travel,79323,10,3,4,87,3,2,3,1,Yes,14,3,15,3,3,15,14,0,7,No,3
+E02595,Emery Hernandez,Female,27,7/12/2021,Medical,Married,Research & Development,Manufacturing Director,Non-Travel,75583,1,4,1,60,2,4,3,4,Yes,20,4,27,2,2,3,2,0,2,No,3
+E02596,Camila Baker,Female,36,9/8/2012,Life Sciences,Single,Human Resources,Human Resources,Travel_Rarely,73646,2,3,2,97,3,1,4,0,No,13,2,10,5,3,9,7,1,8,No,2
+E02597,David Bryant,Male,36,8/7/2022,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,64937,3,2,4,32,1,2,4,5,No,12,1,6,3,3,2,2,2,2,No,3
+E02598,Miles Perez,Male,42,6/11/2019,Marketing,Single,Sales,Sales Representative,Travel_Rarely,112146,7,1,2,31,3,1,2,1,No,13,2,1,3,3,1,0,1,0,Yes,3
+E02599,Elijah Hill,Male,48,12/16/2018,Other,Married,Research & Development,Manager R&D,Travel_Rarely,83332,6,2,4,40,2,1,3,1,No,11,2,5,3,3,5,4,0,4,No,3
+E02600,Sofia Shin,Female,42,4/11/2008,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,66248,8,1,3,79,3,1,1,1,Yes,17,3,1,6,3,1,0,0,0,Yes,3
+E02601,Ezekiel Lee,Male,37,8/22/2019,Marketing,Married,Sales,Sales Executive,Travel_Rarely,127238,29,4,1,91,2,2,4,1,No,14,1,13,3,3,12,7,5,7,No,2
+E02602,Nevaeh Truong,Female,55,5/23/2012,Medical,Divorced,Research & Development,Research Director,Travel_Rarely,87857,2,4,3,46,3,5,4,7,Yes,17,3,24,3,3,2,1,2,2,No,3
+E02603,Leah Ali,Female,62,8/20/1999,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,51454,10,3,4,90,3,3,1,7,Yes,13,4,15,1,3,12,8,5,7,No,3
+E02604,Emma Soto,Female,29,9/13/2020,Medical,Divorced,Research & Development,Research Scientist,Travel_Frequently,128066,1,2,3,99,3,1,2,1,Yes,12,3,6,2,2,5,3,2,3,Yes,3
+E02605,Lydia Marquez,Female,29,9/28/2018,Other,Divorced,Human Resources,Human Resources,Travel_Rarely,130790,8,2,3,89,3,2,2,2,No,13,3,19,4,2,10,0,4,7,No,3
+E02606,Cora Munoz,Female,45,5/17/2004,Life Sciences,Married,Research & Development,Research Scientist,Travel_Rarely,233342,8,4,4,90,4,1,1,6,No,19,2,14,1,3,10,8,7,6,No,3
+E02607,Hudson Ross,Male,57,10/4/2009,Life Sciences,Single,Sales,Sales Executive,Non-Travel,54155,26,2,2,98,2,2,2,8,No,15,3,6,3,3,2,2,2,2,No,2
+E02608,Aiden Cheng,Male,31,9/6/2019,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Rarely,189403,2,2,3,99,3,1,1,4,No,17,4,7,5,2,4,3,0,2,No,3
+E02609,Willow Vang,Female,31,5/18/2018,Medical,Divorced,Research & Development,Manager R&D,Non-Travel,78732,2,2,2,90,3,2,4,2,No,14,3,15,6,3,7,7,1,7,No,2
+E02610,Jonathan Young,Male,47,4/28/2015,Human Resources,Divorced,Human Resources,Human Resources,Non-Travel,55401,2,3,1,100,3,1,2,5,No,13,4,13,3,3,11,10,3,8,No,2
+E02611,Isaac Rojas,Male,60,7/12/2006,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Frequently,82343,9,4,4,93,3,2,1,4,No,17,3,11,3,2,7,1,0,7,Yes,3
+E02612,Dylan Guzman,Male,42,3/16/2017,Life Sciences,Divorced,Sales,Sales Executive,Travel_Frequently,66226,20,3,3,83,3,2,4,2,No,18,4,7,6,3,2,1,2,2,No,3
+E02613,Sarah Shin,Female,26,12/3/2021,Life Sciences,Single,Research & Development,Research Scientist,Non-Travel,193435,9,3,1,52,3,1,3,4,No,13,3,7,2,2,3,2,1,2,No,2
+E02614,Michael Johnson,Male,57,4/18/2011,Life Sciences,Single,Research & Development,Healthcare Representative,Travel_Rarely,114241,5,3,2,85,4,2,2,3,No,12,1,11,3,1,3,2,1,2,No,2
+E02615,Riley Vega,Female,25,11/11/2022,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,177264,4,1,3,81,3,3,3,0,Yes,13,4,23,3,4,22,14,13,5,No,3
+E02616,Benjamin Ali,Male,53,4/12/2016,Technical Degree,Married,Sales,Sales Executive,Travel_Rarely,58010,8,2,2,92,4,2,3,1,No,21,3,10,5,3,10,8,4,8,No,2
+E02617,Ezekiel Cooper,Male,43,3/15/2003,Medical,Divorced,Sales,Manager,Non-Travel,154284,2,3,2,52,3,4,2,4,No,22,4,37,0,2,16,9,14,14,No,2
+E02618,Lyla Walker,Female,49,2/18/2002,Medical,Married,Research & Development,Laboratory Technician,Travel_Rarely,54633,23,4,2,91,1,1,3,0,No,16,2,6,2,4,5,4,0,3,No,3
+E02619,Aria Cheng,Female,61,8/26/1996,Life Sciences,Divorced,Research & Development,Manager R&D,Travel_Rarely,42829,4,3,3,92,2,3,2,8,Yes,12,3,28,4,3,22,11,14,10,No,3
+E02620,Christopher Ramirez,Male,41,3/15/2010,Life Sciences,Divorced,Research & Development,Healthcare Representative,Travel_Rarely,118973,12,3,2,47,3,2,1,2,No,12,2,15,3,3,7,4,7,7,No,2
+E02621,Emily Roberts,Female,56,12/29/2018,Medical,Married,Research & Development,Research Scientist,Travel_Rarely,61251,7,4,4,68,3,2,4,4,No,15,2,14,2,2,7,1,1,7,No,3
+E02622,Nathan Parker,Male,49,4/24/2002,Marketing,Married,Sales,Sales Executive,Travel_Frequently,108636,7,4,1,68,3,3,1,2,No,14,4,9,3,3,3,2,2,2,No,2
+E02623,Nora Her,Female,32,4/24/2014,Marketing,Married,Sales,Sales Representative,Travel_Rarely,68780,2,4,2,77,1,2,4,2,Yes,20,1,20,4,2,4,2,0,3,No,3
+E02624,Mia Brown,Female,30,8/10/2016,Medical,Single,Sales,Sales Executive,Travel_Rarely,60261,10,3,3,46,3,2,4,1,No,13,1,5,4,3,5,3,1,2,No,3
+E02625,Hunter Hu,Male,64,7/13/2003,Life Sciences,Married,Research & Development,Manager R&D,Travel_Frequently,100951,15,4,1,87,3,4,3,2,Yes,14,2,23,3,3,2,2,2,2,No,2
+E02626,Luke Acosta,Male,57,7/20/2022,Medical,Single,Research & Development,Manager R&D,Non-Travel,93872,14,3,2,33,3,1,3,1,No,16,3,0,4,1,0,0,0,0,No,3
+E02627,Sophia Griffin,Female,50,6/29/2018,Human Resources,Married,Human Resources,Human Resources,Travel_Rarely,181570,18,5,4,89,4,1,1,0,No,17,3,2,4,3,1,0,0,0,Yes,3
+E02628,Anthony Chu,Male,61,9/30/2003,Life Sciences,Married,Sales,Sales Executive,Non-Travel,101517,2,4,3,67,3,2,3,4,No,22,2,10,3,4,8,7,5,7,No,4
+E02629,Landon Ha,Male,43,1/30/2006,Other,Married,Research & Development,Research Scientist,Travel_Rarely,100822,2,4,4,73,3,2,2,4,Yes,22,4,15,2,3,1,0,0,0,No,4
+E02630,Layla Kang,Female,26,3/2/2022,Life Sciences,Married,Sales,Sales Executive,Travel_Frequently,128965,2,4,1,92,3,2,4,1,No,20,3,7,5,3,7,7,7,7,No,2
+E02631,Cora Xu,Female,54,11/17/2011,Life Sciences,Single,Research & Development,Manager R&D,Travel_Frequently,60513,5,2,4,53,3,1,4,0,Yes,14,3,6,3,2,5,4,0,2,No,3
+E02632,Rylee Campos,Female,49,2/9/2005,Medical,Married,Research & Development,Laboratory Technician,Travel_Frequently,107461,20,1,4,40,3,1,4,1,No,13,2,11,3,4,11,8,3,10,No,3
+E02633,Amelia Foster,Female,32,2/24/2018,Marketing,Single,Sales,Sales Executive,Travel_Frequently,66294,10,4,4,79,3,2,4,8,No,13,3,4,2,4,0,0,0,0,No,3
+E02634,Hadley Rios,Female,62,1/11/2009,Technical Degree,Married,Research & Development,Research Scientist,Non-Travel,157500,10,4,3,38,3,1,3,3,No,22,2,10,1,2,6,3,3,3,No,4
+E02635,Luna Chang,Female,64,10/20/2022,Life Sciences,Single,Research & Development,Laboratory Technician,Travel_Rarely,43271,9,4,2,64,3,1,3,4,No,12,3,7,2,3,2,2,2,0,No,2
+E02636,Mia Navarro,Female,52,6/19/2011,Life Sciences,Divorced,Research & Development,Manufacturing Director,Travel_Rarely,91518,2,2,4,82,3,3,4,3,No,14,3,12,4,2,9,8,4,7,No,3
+E02637,Nova Rios,Female,42,4/15/2019,Life Sciences,Divorced,Human Resources,Human Resources,Non-Travel,130874,1,2,3,43,3,1,4,1,No,15,2,3,2,3,3,2,2,2,No,3
+E02638,Theodore Truong,Male,45,5/23/2017,Life Sciences,Divorced,Research & Development,Healthcare Representative,Travel_Rarely,66324,29,1,4,93,1,2,3,8,No,17,4,11,3,3,7,0,1,6,No,3
+E02639,Asher Ly,Male,65,1/29/1998,Life Sciences,Single,Research & Development,Manager R&D,Travel_Rarely,63853,8,3,4,81,3,1,3,4,No,13,4,8,3,3,0,0,0,0,No,3
+E02640,Madeline Doan,Female,46,1/10/2021,Marketing,Single,Sales,Sales Executive,Travel_Rarely,104692,2,4,3,82,2,2,2,7,Yes,12,3,7,3,2,2,2,2,2,Yes,3
+E02641,Scarlett Rodriguez,Female,64,11/3/2022,Technical Degree,Divorced,Sales,Sales Executive,Travel_Rarely,71864,3,3,1,45,4,4,1,2,No,12,4,25,5,3,19,17,2,8,No,2
+E02642,Zoey Lu,Female,45,10/31/2007,Medical,Married,Sales,Sales Representative,Travel_Rarely,216269,23,1,2,36,2,2,3,1,No,21,4,9,5,3,9,8,5,8,No,2
+E02643,Mila Cheung,Female,32,12/17/2021,Medical,Married,Human Resources,Human Resources,Travel_Rarely,73135,6,1,4,87,2,1,2,1,No,11,4,1,3,3,1,0,0,0,No,3
+E02644,Lucy Mai,Female,56,6/27/2022,Life Sciences,Married,Research & Development,Manager R&D,Travel_Rarely,197579,10,3,4,91,2,5,2,4,No,12,4,29,3,3,22,10,12,9,No,3
+E02645,Benjamin Luu,Male,46,12/15/2011,Life Sciences,Single,Research & Development,Research Scientist,Travel_Frequently,59733,24,2,4,73,2,1,4,1,Yes,24,2,1,3,2,1,0,1,0,Yes,4
+E02646,Mia Navarro,Female,26,5/22/2020,Technical Degree,Married,Research & Development,Research Scientist,Travel_Rarely,187792,2,4,2,98,2,1,4,8,No,20,2,19,2,4,5,2,0,4,No,3
+E02647,Maya Watson,Female,59,1/7/2017,Medical,Married,Sales,Sales Representative,Travel_Rarely,108612,3,3,2,78,3,1,2,1,No,19,4,1,3,3,1,0,0,0,No,3
+E02648,Jack Adams,Male,50,7/18/2018,Medical,Single,Sales,Sales Representative,Travel_Rarely,80350,9,3,2,89,3,1,4,1,No,13,3,1,3,2,1,0,0,0,Yes,3
+E02649,Gabriella Jordan,Female,32,9/21/2019,Life Sciences,Single,Research & Development,Research Scientist,Travel_Rarely,61243,7,1,4,75,3,1,2,1,Yes,23,1,1,2,3,1,0,0,0,Yes,4
+E02650,Jonathan Torres,Male,56,4/12/2002,Technical Degree,Married,Sales,Sales Executive,Travel_Rarely,48896,10,4,2,63,2,2,3,1,Yes,13,1,10,4,3,10,9,1,7,No,2
+E02651,Samuel Xu,Male,32,9/20/2019,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,82887,4,3,3,64,3,3,4,2,Yes,13,4,9,3,3,5,3,1,0,No,3
+E02652,Ezekiel Lai,Male,45,11/26/2005,Life Sciences,Single,Research & Development,Laboratory Technician,Travel_Rarely,54742,7,3,4,59,3,1,1,3,No,14,2,11,2,3,3,2,1,2,No,3
+E02653,Levi Rahman,Male,43,7/19/2007,Medical,Married,Research & Development,Research Scientist,Travel_Rarely,134544,7,4,4,78,3,2,1,5,Yes,22,3,16,2,3,5,3,0,4,No,4
+E02654,Madison Phan,Female,45,5/10/2003,Other,Married,Research & Development,Manufacturing Director,Travel_Rarely,128115,16,2,4,44,2,2,2,0,Yes,11,4,4,2,3,3,2,0,2,No,3
+E02655,Andrew Pham,Male,38,6/29/2013,Life Sciences,Married,Research & Development,Manufacturing Director,Travel_Rarely,54713,25,2,2,93,2,2,4,0,No,13,4,10,2,2,9,8,3,8,No,2
+E02656,Clara Ford,Female,46,8/9/2014,Human Resources,Single,Human Resources,Human Resources,Travel_Frequently,63987,2,1,2,94,2,2,4,1,No,21,4,10,2,2,10,1,0,8,No,4
+E02657,Christopher Chau,Male,26,12/28/2021,Life Sciences,Divorced,Research & Development,Manager R&D,Travel_Rarely,86288,1,4,1,98,3,4,1,2,No,11,1,22,3,3,19,7,11,16,No,2
+E02658,Madeline Guerrero,Female,27,8/16/2020,Life Sciences,Married,Research & Development,Research Scientist,Travel_Rarely,61693,1,2,2,90,2,1,3,1,Yes,13,3,1,3,2,1,0,1,0,No,3
+E02659,Harper Yee,Female,48,11/1/2021,Medical,Single,Sales,Sales Executive,Travel_Rarely,75624,2,2,1,89,4,2,3,0,No,14,2,9,5,2,8,7,0,7,No,3
+E02660,Mia Thomas,Female,57,5/17/2013,Medical,Divorced,Research & Development,Manager,Travel_Frequently,122979,22,3,4,58,3,4,4,3,No,11,2,24,3,3,22,17,4,7,No,3
+E02661,Owen Nelson,Male,58,1/6/2003,Life Sciences,Married,Research & Development,Healthcare Representative,Travel_Rarely,91729,1,4,2,78,4,2,1,2,No,15,4,10,5,3,2,0,2,2,No,3
+E02662,Aiden Evans,Male,48,5/16/2010,Technical Degree,Married,Research & Development,Research Scientist,Non-Travel,117736,16,4,4,85,1,1,1,1,Yes,23,2,5,2,3,5,2,3,0,Yes,4
+E02663,Josiah Lai,Male,54,3/21/1995,Life Sciences,Single,Research & Development,Manager R&D,Travel_Rarely,154658,24,2,1,97,3,1,4,1,No,16,4,5,3,3,4,2,1,0,Yes,2
+E02664,Jameson Yee,Male,29,8/3/2020,Marketing,Married,Sales,Sales Executive,Travel_Rarely,84397,17,2,3,33,2,2,2,2,No,16,3,12,1,1,4,2,1,3,No,2
+E02665,Serenity Her,Female,50,8/22/1997,Marketing,Married,Sales,Sales Executive,Travel_Rarely,159285,8,3,3,54,3,2,2,5,No,21,3,14,3,3,5,4,1,4,No,4
+E02666,Ariana Turner,Female,49,6/6/2004,Medical,Married,Research & Development,Manager R&D,Travel_Rarely,59854,6,3,3,83,3,3,1,9,No,13,2,18,3,4,13,7,5,7,No,3
+E02667,Jacob Cooper,Male,64,5/18/2018,Medical,Divorced,Sales,Sales Executive,Travel_Rarely,87521,10,2,3,86,3,2,4,2,Yes,11,4,8,2,3,5,2,1,4,No,3
+E02668,Christopher Dominguez,Male,36,9/17/2015,Medical,Married,Sales,Sales Executive,Travel_Rarely,179166,3,1,4,75,2,2,4,3,Yes,12,3,9,3,2,4,2,0,1,No,3
+E02669,Nevaeh Lim,Female,55,3/29/1999,Medical,Divorced,Research & Development,Laboratory Technician,Travel_Rarely,120092,4,3,1,62,4,1,3,8,No,12,2,4,0,2,2,2,2,2,No,2
+E02670,Dominic Cheng,Male,53,6/19/2015,Other,Married,Research & Development,Manager R&D,Travel_Frequently,168142,6,3,3,61,4,1,4,0,No,18,1,8,3,3,7,7,7,7,No,3
+E02671,Serenity Rodriguez,Female,54,4/10/1995,Medical,Single,Research & Development,Manager R&D,Travel_Frequently,195662,1,4,2,44,3,2,3,4,No,12,3,12,3,3,4,2,0,3,No,3
+E02672,Caleb Thompson,Male,41,12/17/2012,Marketing,Single,Sales,Sales Executive,Travel_Rarely,49986,10,4,2,43,3,2,3,1,No,14,2,10,2,2,10,4,0,9,No,3
+E02673,Luke Avila,Male,27,8/21/2020,Life Sciences,Married,Sales,Sales Executive,Travel_Frequently,181587,1,2,3,42,2,2,4,1,Yes,12,3,7,2,3,7,7,0,7,No,3
+E02674,Sadie Chin,Female,51,7/26/2000,Life Sciences,Married,Sales,Sales Executive,Non-Travel,199736,21,4,1,32,1,2,3,6,No,19,3,10,1,3,3,2,1,2,No,2
+E02675,Everett Le,Male,45,1/7/2014,Technical Degree,Married,Research & Development,Manager R&D,Travel_Rarely,250639,2,4,2,41,3,1,2,1,No,11,3,6,3,2,5,3,1,2,No,2
+E02676,Carson Santos,Male,34,2/15/2022,Other,Married,Research & Development,Research Scientist,Travel_Frequently,80655,22,4,3,86,2,2,4,1,Yes,15,2,16,3,3,15,10,6,11,No,3
+E02677,Natalie Ho,Female,33,11/22/2020,Technical Degree,Married,Research & Development,Manager R&D,Non-Travel,64327,14,4,3,64,3,2,2,8,No,18,3,16,4,4,8,7,1,7,No,3
+E02678,Natalia Hall,Female,37,11/8/2018,Marketing,Married,Sales,Sales Executive,Travel_Rarely,72005,11,5,4,89,2,2,1,4,No,16,3,6,3,3,0,0,0,0,No,3
+E02679,Zoey Ahmed,Female,56,4/25/2012,Medical,Divorced,Research & Development,Manager R&D,Travel_Frequently,62497,8,3,4,58,2,2,2,1,Yes,16,3,20,3,3,20,11,0,7,No,3
+E02680,Santiago f Turner,Male,46,2/24/2003,Life Sciences,Married,Sales,Manager,Travel_Rarely,74912,21,3,4,72,3,4,4,4,Yes,13,3,29,2,2,1,0,0,0,No,3
+E02681,Jacob Alexander,Male,45,3/19/2001,Life Sciences,Single,Research & Development,Research Scientist,Travel_Frequently,50393,5,2,1,47,4,1,3,3,Yes,14,1,8,2,3,4,1,0,3,Yes,3
+E02682,Christopher Aguilar,Male,32,5/14/2021,Life Sciences,Divorced,Research & Development,Manager R&D,Travel_Rarely,79670,9,2,2,71,3,1,4,2,No,19,4,10,0,4,5,2,0,3,No,4
+E02683,Vivian Jackson,Female,51,2/23/1999,Life Sciences,Married,Research & Development,Manager R&D,Travel_Frequently,148942,2,1,2,42,3,5,4,3,No,15,4,28,3,3,5,4,4,3,No,2
+E02684,Leonardo Jenkins,Male,29,4/9/2018,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,98504,12,4,2,77,3,2,4,3,Yes,12,3,14,4,3,0,0,0,0,No,3
+E02685,Oliver Hunter,Male,38,12/20/2015,Human Resources,Married,Human Resources,Human Resources,Travel_Frequently,70588,22,3,1,58,2,1,2,1,No,12,1,1,2,3,1,0,0,0,Yes,3
+E02686,Ayla Brooks,Female,58,11/21/2001,Medical,Married,Sales,Sales Executive,Travel_Rarely,58336,18,4,2,71,3,2,1,0,No,16,4,6,2,1,5,3,0,4,No,2
+E02687,Willow Chau,Female,45,9/9/2011,Medical,Single,Research & Development,Manager R&D,Non-Travel,86001,16,3,3,49,3,1,3,1,No,14,3,5,3,2,5,3,1,4,No,3
+E02688,Kai Shin,Male,49,9/13/2015,Medical,Divorced,Research & Development,Research Scientist,Non-Travel,91121,3,2,3,48,3,1,1,1,Yes,13,4,4,3,4,4,2,2,3,No,3
+E02689,Liliana Zhao,Female,50,8/30/2011,Life Sciences,Married,Research & Development,Manager R&D,Non-Travel,183308,9,4,1,66,4,1,2,1,No,22,2,5,3,3,5,4,0,2,No,3
+E02690,Aiden Carter,Male,32,3/5/2021,Marketing,Single,Sales,Sales Executive,Travel_Rarely,71674,1,3,1,32,3,3,4,1,No,21,1,14,3,2,14,8,2,1,No,2
+E02691,Christopher Song,Male,29,1/3/2017,Medical,Divorced,Sales,Sales Executive,Travel_Rarely,118639,13,4,4,39,3,3,3,1,No,18,3,9,2,2,8,7,1,1,No,3
+E02692,Charles Luu,Male,34,11/10/2018,Medical,Single,Research & Development,Laboratory Technician,Travel_Rarely,71808,1,3,3,95,3,1,1,0,No,13,4,8,6,2,7,7,7,6,No,3
+E02693,Kayden Dinh,Male,50,5/26/2019,Medical,Divorced,Research & Development,Manager R&D,Non-Travel,156374,15,4,3,34,3,2,4,5,No,18,2,9,6,3,5,1,1,2,No,3
+E02694,Valentina Zhang,Female,27,3/10/2021,Technical Degree,Divorced,Research & Development,Manager R&D,Travel_Rarely,51133,17,3,3,32,2,1,4,5,No,12,1,6,2,2,4,1,0,3,Yes,3
+E02695,Alexander Perez,Male,60,6/25/2008,Life Sciences,Single,Sales,Sales Representative,Travel_Rarely,86761,1,3,1,59,2,1,1,4,No,14,1,20,3,2,1,0,0,0,No,3
+E02696,Everleigh Kumar,Female,65,7/5/1994,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,125213,7,4,3,55,3,2,4,1,Yes,11,4,10,2,3,10,8,0,9,No,3
+E02697,Santiago f Xiong,Male,43,9/26/2008,Marketing,Single,Sales,Sales Executive,Travel_Rarely,120305,9,3,4,44,3,2,4,1,No,14,1,7,5,3,7,7,0,7,No,3
+E02698,Elizabeth Powell,Female,45,9/17/2013,Life Sciences,Single,Research & Development,Manager R&D,Travel_Rarely,138355,5,4,4,56,2,2,4,8,No,24,2,8,1,3,1,0,0,0,No,4
+E02699,Lucas Yang,Male,28,7/4/2021,Marketing,Married,Sales,Sales Executive,Travel_Frequently,70996,26,4,1,63,3,2,4,1,Yes,11,3,10,4,3,10,7,0,8,Yes,3
+E02700,John Richardson,Male,34,12/29/2014,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,77024,24,4,1,66,3,3,1,6,Yes,13,2,15,2,2,2,2,2,2,Yes,2
+E02701,Miles Ross,Male,31,4/18/2017,Life Sciences,Married,Research & Development,Research Scientist,Travel_Rarely,50022,9,2,1,67,3,2,3,3,No,11,3,9,6,2,4,3,2,3,No,2
+E02702,Jonathan Santos,Male,29,1/6/2017,Life Sciences,Divorced,Research & Development,Manager R&D,Travel_Frequently,204534,7,2,4,36,3,2,3,1,No,20,3,9,2,3,9,7,2,8,No,4
+E02703,Joshua Maldonado,Male,49,12/22/2005,Life Sciences,Married,Research & Development,Healthcare Representative,Travel_Rarely,75814,11,3,1,30,3,3,3,1,No,17,2,10,1,3,10,9,0,9,No,3
+E02704,Santiago f Vo,Male,47,7/15/2019,Other,Married,Human Resources,Human Resources,Travel_Frequently,169487,1,4,4,88,3,1,2,0,Yes,11,2,7,2,3,6,2,1,2,No,3
+E02705,Leilani Martin,Female,56,5/6/2002,Human Resources,Married,Human Resources,Manager,Travel_Rarely,156435,26,4,3,71,4,5,2,4,Yes,18,1,35,0,3,10,9,1,4,No,3
+E02706,Luca Xiong,Male,52,12/20/2006,Medical,Divorced,Research & Development,Manager R&D,Travel_Rarely,59845,2,1,4,59,1,1,4,1,Yes,11,3,1,4,3,1,0,0,0,No,3
+E02707,Valentina Campos,Female,37,3/6/2020,Marketing,Single,Sales,Sales Executive,Travel_Rarely,93656,15,4,2,77,3,4,1,0,No,12,1,21,3,3,20,8,11,10,No,2
+E02708,Grayson Jenkins,Male,55,3/6/1998,Life Sciences,Single,Research & Development,Research Scientist,Non-Travel,99035,23,2,4,37,2,2,3,1,No,12,4,20,2,3,20,9,3,7,No,3
+E02709,Jeremiah Ross,Male,27,6/17/2021,Medical,Married,Research & Development,Research Director,Non-Travel,137997,10,3,3,40,3,3,3,4,No,20,3,13,2,4,11,7,4,8,No,4
+E02710,Natalie Zheng,Female,28,6/21/2019,Medical,Single,Research & Development,Manufacturing Director,Travel_Rarely,61573,10,3,3,77,3,2,1,6,Yes,19,4,9,3,3,5,2,1,4,No,3
+E02711,Jace Mehta,Male,55,5/6/2015,Life Sciences,Single,Research & Development,Healthcare Representative,Travel_Rarely,41102,1,2,2,45,2,2,3,1,No,12,2,4,2,2,4,3,1,2,No,2
+E02712,Hannah Doan,Female,44,9/16/2011,Other,Single,Research & Development,Laboratory Technician,Travel_Rarely,129866,12,2,4,78,3,1,4,1,No,13,3,5,6,4,5,2,1,4,No,3
+E02713,Caroline Robinson,Female,28,1/22/2020,Technical Degree,Married,Research & Development,Laboratory Technician,Travel_Frequently,161868,11,3,4,73,3,2,3,1,No,11,1,10,2,4,10,9,9,4,No,3
+E02714,Naomi Ma,Female,55,5/16/1995,Marketing,Married,Sales,Sales Executive,Travel_Rarely,67131,2,2,2,92,3,2,2,3,No,14,3,15,4,3,11,8,5,10,No,2
+E02715,Adam Davis,Male,44,10/15/2019,Human Resources,Married,Human Resources,Human Resources,Travel_Rarely,71345,2,3,3,82,3,1,2,4,No,14,3,6,3,3,2,0,1,2,No,3
+E02716,Ellie Ho,Female,30,10/9/2019,Medical,Married,Research & Development,Laboratory Technician,Travel_Rarely,246757,1,2,4,76,3,1,2,1,No,13,3,12,6,2,12,8,1,7,No,3
+E02717,Mila Liang,Female,63,3/28/2005,Other,Divorced,Research & Development,Laboratory Technician,Travel_Rarely,106880,2,1,4,57,3,1,3,6,Yes,19,3,7,2,2,2,2,0,2,No,3
+E02718,Nova Doan,Female,36,8/28/2018,Medical,Single,Research & Development,Manager R&D,Travel_Rarely,98733,25,3,1,84,3,3,3,2,No,23,2,25,3,3,17,14,12,11,No,2
+E02719,Colton Mejia,Male,28,4/26/2019,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,141675,1,4,4,86,3,2,2,0,No,15,1,16,3,3,15,13,5,8,No,3
+E02720,Joseph Kim,Male,28,6/23/2018,Life Sciences,Married,Sales,Sales Representative,Travel_Rarely,53210,2,2,1,54,3,1,3,0,No,19,3,3,1,3,2,2,1,2,No,2
+E02721,Audrey Campos,Female,27,9/2/2021,Life Sciences,Divorced,Research & Development,Research Scientist,Travel_Rarely,107114,18,4,4,35,3,2,1,6,Yes,17,3,9,3,2,4,3,1,2,No,3
+E02722,Vivian Brooks,Female,34,9/12/2022,Life Sciences,Married,Research & Development,Research Scientist,Travel_Rarely,57483,1,3,4,76,3,1,4,3,No,22,1,12,3,3,5,3,1,0,No,4
+E02723,Mateo Vargas,Male,53,4/20/1994,Medical,Married,Research & Development,Research Scientist,Non-Travel,75226,1,1,3,98,3,3,2,0,No,18,1,14,3,1,13,8,5,12,No,2
+E02724,David Foster,Male,50,1/15/2012,Medical,Married,Research & Development,Research Director,Travel_Rarely,87727,11,4,4,43,3,1,3,7,Yes,11,3,5,3,3,2,2,2,2,No,3
+E02725,Isaiah Ramos,Male,51,6/21/2018,Life Sciences,Single,Research & Development,Research Scientist,Travel_Rarely,87897,1,2,4,63,3,1,3,0,No,12,4,4,2,4,3,2,1,2,No,3
+E02726,Samantha Do,Female,27,11/19/2021,Medical,Single,Research & Development,Research Scientist,Travel_Rarely,99612,9,4,2,48,3,2,3,1,No,19,2,10,5,3,10,7,0,8,No,3
+E02727,Emery Fernandez,Female,33,3/27/2019,Medical,Married,Research & Development,Healthcare Representative,Travel_Rarely,56938,15,2,2,95,3,2,4,0,Yes,13,1,10,6,3,9,7,8,1,No,2
+E02728,Santiago f Brooks,Male,46,1/20/2012,Life Sciences,Single,Research & Development,Laboratory Technician,Travel_Rarely,92247,29,4,3,49,2,1,2,1,No,13,3,6,3,3,6,2,4,1,No,3
+E02729,Aubrey Lin,Female,51,10/17/2005,Life Sciences,Married,Research & Development,Laboratory Technician,Travel_Rarely,193672,1,4,1,83,3,1,4,8,No,19,3,8,3,2,1,0,0,0,No,3
+E02730,Jace Hsu,Male,31,10/6/2018,Medical,Married,Sales,Sales Representative,Travel_Rarely,46098,1,4,2,68,2,1,2,0,No,14,2,3,2,3,2,2,2,2,No,2
+E02731,Nicholas Sanders,Male,45,11/23/2014,Life Sciences,Single,Research & Development,Research Scientist,Travel_Rarely,239980,24,1,1,52,3,2,4,7,No,13,1,18,2,3,7,7,1,7,No,2
+E02732,Joshua Sun,Male,38,7/13/2011,Medical,Married,Research & Development,Research Director,Travel_Rarely,121546,10,3,2,99,1,3,3,3,No,12,1,20,3,3,18,16,1,11,No,2
+E02733,Riley Ayala,Female,42,2/20/2010,Life Sciences,Married,Research & Development,Research Director,Travel_Rarely,128714,10,3,3,42,4,3,4,1,Yes,25,1,16,2,3,16,11,6,8,No,4
+E02734,Isaac Santos,Male,43,9/13/2018,Other,Divorced,Sales,Sales Executive,Travel_Rarely,91537,8,2,1,85,3,2,3,0,Yes,22,2,6,3,2,5,3,0,4,No,3
+E02735,Logan Brooks,Male,28,5/7/2020,Life Sciences,Divorced,Sales,Sales Representative,Non-Travel,178300,29,4,1,40,3,1,4,2,No,15,2,16,3,2,9,8,0,0,No,3
+E02736,Leilani Hu,Female,57,5/21/2018,Medical,Single,Research & Development,Research Scientist,Travel_Rarely,50260,1,3,2,42,3,1,4,6,Yes,12,3,6,2,3,4,3,1,2,No,2
+E02737,Jace Cho,Male,33,8/6/2016,Medical,Single,Sales,Sales Representative,Travel_Rarely,161800,5,1,3,58,3,1,1,1,Yes,11,4,2,6,3,2,2,1,2,No,3
+E02738,Jaxson Fong,Male,32,10/9/2020,Marketing,Married,Sales,Sales Representative,Travel_Frequently,157616,9,3,4,33,3,1,1,1,No,19,1,1,3,2,1,0,1,0,Yes,3
+E02739,Wyatt Ly,Male,45,12/19/2008,Medical,Married,Sales,Sales Executive,Travel_Rarely,82697,3,3,1,94,2,3,4,0,No,19,3,10,2,3,9,7,3,4,No,2
+E02740,Mia Huang,Female,33,9/21/2018,Life Sciences,Divorced,Research & Development,Manufacturing Director,Travel_Frequently,124404,4,2,4,97,3,2,2,7,No,13,2,18,3,3,4,2,0,2,No,3
+E02741,Levi Her,Male,43,3/30/2012,Life Sciences,Divorced,Research & Development,Healthcare Representative,Non-Travel,158750,1,4,3,57,3,2,3,1,No,21,1,13,2,2,13,12,1,9,No,4
+E02742,Everleigh Phillips,Female,62,11/8/2015,Medical,Married,Research & Development,Research Scientist,Travel_Rarely,69057,1,4,1,36,3,1,4,9,Yes,14,2,4,3,4,2,2,2,2,Yes,2
+E02743,Natalie Acosta,Female,36,1/8/2019,Technical Degree,Married,Research & Development,Laboratory Technician,Travel_Rarely,157976,7,2,4,72,3,1,3,8,No,11,4,14,4,1,10,9,9,8,Yes,2
+E02744,Hadley Chavez,Female,36,6/28/2020,Life Sciences,Married,Research & Development,Manufacturing Director,Travel_Rarely,54355,28,4,1,60,2,4,2,0,No,23,3,21,3,3,20,7,0,10,No,3
+E02745,Hailey Liu,Female,31,7/9/2022,Marketing,Married,Sales,Sales Executive,Travel_Rarely,72475,28,3,4,95,2,2,3,1,No,21,4,8,2,3,8,7,1,7,No,4
+E02746,Nicholas Jiang,Male,62,12/13/2003,Marketing,Divorced,Sales,Sales Executive,Non-Travel,80132,15,4,4,88,1,2,4,1,No,24,1,15,4,2,15,12,11,11,No,4
+E02747,Gabriel Xu,Male,30,10/13/2018,Life Sciences,Divorced,Sales,Sales Executive,Travel_Rarely,52292,3,3,3,57,2,2,2,2,No,11,3,14,5,3,5,4,0,4,No,3
+E02748,Sophia Collins,Female,46,1/8/2022,Technical Degree,Single,Research & Development,Research Scientist,Travel_Rarely,69110,2,3,4,78,3,1,1,1,No,14,4,4,4,3,4,2,1,2,No,3
+E02749,Evelyn Vasquez,Female,38,2/24/2013,Life Sciences,Single,Human Resources,Human Resources,Travel_Rarely,68676,26,4,3,31,3,3,4,1,Yes,16,3,9,2,3,9,0,1,7,No,3
+E02750,Paisley Baker,Female,58,12/23/2002,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,86094,10,2,1,100,3,2,4,1,No,11,3,10,1,3,10,7,1,9,No,2
+E02751,Eloise Griffin,Female,27,5/6/2022,Life Sciences,Divorced,Sales,Sales Executive,Travel_Frequently,77607,1,4,2,94,3,2,3,7,No,12,4,12,3,3,6,3,0,1,Yes,4
+E02752,Samuel Cruz,Male,61,4/30/1993,Marketing,Married,Sales,Sales Executive,Travel_Rarely,157672,11,4,2,100,2,2,4,4,No,13,1,8,2,2,6,3,0,0,No,3
+E02753,Gabriel Cheung,Male,64,11/29/2016,Life Sciences,Single,Research & Development,Research Scientist,Travel_Rarely,43785,2,4,3,52,2,1,3,2,No,14,4,8,2,3,2,2,2,2,No,3
+E02754,Kai Green,Male,65,6/15/2015,Life Sciences,Married,Research & Development,Research Scientist,Travel_Frequently,75439,18,4,3,80,3,2,3,1,Yes,14,4,10,2,4,10,2,0,2,No,3
+E02755,Julia Moore,Female,37,11/18/2021,Medical,Married,Research & Development,Research Scientist,Travel_Rarely,139987,2,4,3,98,3,1,3,2,No,14,2,20,2,3,5,3,0,2,No,3
+E02756,Roman Mendoza,Male,54,9/4/1994,Life Sciences,Married,Research & Development,Research Scientist,Travel_Rarely,257489,1,4,3,62,1,1,4,1,No,12,4,4,5,3,4,3,1,1,No,3
+E02757,Levi Rahman,Male,54,1/30/2009,Other,Married,Research & Development,Research Scientist,Travel_Rarely,91639,13,2,4,46,2,2,2,4,Yes,13,1,10,2,3,4,3,0,3,No,3
+E02758,Sadie Pham,Female,26,12/25/2022,Medical,Single,Research & Development,Research Scientist,Travel_Rarely,66563,28,4,4,73,2,1,1,1,No,14,2,5,3,1,5,4,0,4,No,2
+E02759,Chloe Contreras,Female,29,2/10/2021,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,235047,28,3,4,39,2,3,1,4,Yes,13,2,20,3,3,3,2,2,0,Yes,3
+E02760,Owen Ford,Male,37,2/10/2015,Marketing,Married,Sales,Sales Executive,Travel_Rarely,214782,24,1,2,60,2,4,4,0,No,11,1,21,2,2,20,9,9,6,No,2
+E02761,Audrey Powell,Female,37,5/1/2011,Medical,Single,Research & Development,Manufacturing Director,Non-Travel,180544,5,3,2,74,3,2,1,0,No,19,2,10,2,3,9,4,1,7,No,2
+E02762,Greyson Munoz,Male,62,6/23/2000,Other,Single,Sales,Sales Representative,Travel_Rarely,158614,5,3,4,30,2,1,3,0,No,18,4,5,2,3,4,2,0,0,No,3
+E02763,Isaiah Vang,Male,53,11/30/1998,Medical,Married,Research & Development,Healthcare Representative,Travel_Rarely,63187,6,1,4,42,2,3,1,4,No,15,1,9,5,3,7,7,1,7,No,3
+E02764,Lincoln Alvarado,Male,65,12/8/2004,Life Sciences,Married,Research & Development,Manufacturing Director,Travel_Rarely,93857,4,3,2,87,4,2,2,1,Yes,20,2,6,0,3,6,2,0,3,No,3
+E02765,Carter Sandoval,Male,36,3/11/2021,Medical,Married,Sales,Sales Executive,Travel_Frequently,253741,2,3,4,63,2,2,2,2,No,14,4,17,3,2,9,6,0,8,No,3
+E02766,Julia Jimenez,Female,46,11/17/2010,Medical,Married,Research & Development,Laboratory Technician,Travel_Rarely,92833,8,3,2,82,4,2,3,2,No,12,1,6,3,4,4,3,1,2,No,3
+E02767,Savannah Cortez,Female,55,12/15/2018,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,95400,1,2,2,94,3,2,4,8,Yes,11,1,8,0,1,6,4,0,5,Yes,2
+E02768,Everly Brown,Female,63,10/4/2013,Medical,Married,Development,Developer,Travel_Rarely,88230,2,1,1,40,3,1,2,9,No,12,4,6,3,3,2,2,2,2,No,2
+E02769,Charlotte Pham,Female,54,2/25/2003,Life Sciences,Single,Development,Senior Developer,Travel_Frequently,62179,2,2,4,79,3,1,4,0,No,13,3,8,2,2,7,7,3,6,No,3
+E02770,Iris Bailey,Female,26,2/18/2020,Medical,Married,Development,Senior Developer,Travel_Rarely,42343,3,3,3,81,4,1,1,4,Yes,20,1,12,3,2,1,0,0,0,No,4
+E02771,Logan Daniels,Male,26,5/7/2022,Life Sciences,Divorced,Development,Senior Developer,Travel_Rarely,70275,24,1,4,67,3,1,3,1,No,22,2,1,2,3,1,0,0,0,No,4
+E02772,Autumn Molina,Female,34,4/8/2012,Medical,Married,Development,Senior Developer,Travel_Rarely,51448,27,3,3,94,3,2,3,6,No,13,2,17,3,2,7,7,7,7,No,3
+E02773,Emma Mehta,Female,48,4/9/2009,Medical,Married,Development,Developer,Travel_Rarely,185363,16,3,1,84,4,1,2,0,No,13,3,6,5,3,5,4,0,3,No,3
+E02774,Julian Joseph,Male,52,9/20/2018,Life Sciences,Divorced,Development,Developer,Travel_Rarely,60784,26,1,1,31,3,1,3,1,No,17,4,5,1,2,5,2,4,3,No,2
+E02775,Eleanor Munoz,Female,45,4/7/2004,Medical,Divorced,Development,Senior Developer,Travel_Rarely,45323,19,2,2,93,3,1,4,0,No,11,3,3,2,3,2,2,1,2,No,2
+E02776,Caroline Sandoval,Female,51,9/10/2012,Life Sciences,Single,Development,Developer,Travel_Rarely,129727,24,3,3,50,2,1,3,5,Yes,14,2,6,4,3,4,2,0,3,Yes,3
+E02777,Eliza Zhu,Female,43,9/30/2006,Life Sciences,Divorced,Development,Senior Developer,Travel_Rarely,63229,21,4,2,51,4,3,1,1,No,11,3,10,1,3,10,9,8,8,No,2
+E02778,Greyson Moore,Male,54,2/12/2004,Medical,Divorced,Development,Senior Developer,Non-Travel,194221,16,2,4,96,4,1,4,1,Yes,13,2,1,2,2,1,0,0,0,No,3
+E02779,Lyla Clark,Female,54,12/12/2018,Life Sciences,Married,Sales,Manager,Travel_Rarely,78020,2,4,1,78,2,4,4,2,No,16,3,31,3,3,25,8,3,7,No,2
+E02780,Samuel Patterson,Male,25,10/7/2022,Life Sciences,Single,Development,Developer,Travel_Rarely,197331,2,3,4,45,3,1,4,5,Yes,11,3,6,3,3,3,2,1,2,No,3
+E02781,Robert Padilla,Male,65,2/16/1998,Other,Divorced,Development,Developer,Non-Travel,63346,11,2,1,96,4,2,3,0,No,18,4,5,5,2,4,2,1,3,No,3
+E02782,Landon Munoz,Male,40,7/11/2014,Life Sciences,Single,Development,Developer,Travel_Rarely,105574,7,4,1,53,3,3,2,0,No,11,3,13,4,3,12,6,2,11,No,3
+E02783,Josiah Yi,Male,31,4/12/2015,Medical,Single,Development,Developer,Travel_Rarely,101941,6,1,2,83,3,1,1,2,No,11,3,8,2,3,4,2,1,3,Yes,3
+E02784,Owen Scott,Male,45,7/17/2005,Other,Divorced,Development,Senior Developer,Travel_Rarely,74777,5,3,3,58,3,5,3,4,No,11,4,26,3,2,14,13,4,8,No,3
+E02785,Matthew Parker,Male,40,9/15/2021,Life Sciences,Single,Development,Senior Developer,Travel_Frequently,59447,16,1,2,72,1,1,1,1,Yes,22,2,10,5,3,10,2,6,7,Yes,3
+E02786,Daniel Huynh,Male,25,12/8/2021,Marketing,Married,Sales,Sales Executive,Travel_Rarely,105072,8,4,3,48,3,2,2,0,No,11,4,10,2,3,9,7,4,2,No,3
+E02787,Matthew Vargas,Male,53,5/24/1999,Medical,Married,Development,Developer,Travel_Rarely,150893,7,4,1,42,2,3,4,3,No,14,4,24,4,3,22,6,5,17,No,3
+E02788,Ella Herrera,Female,49,2/8/2013,Marketing,Single,Sales,Manager,Travel_Rarely,156276,2,4,2,83,3,5,1,3,No,12,4,22,2,2,2,2,2,1,No,2
+E02789,Everly Hwang,Female,31,10/27/2022,Medical,Single,Development,Developer,Travel_Rarely,191755,2,3,3,78,3,1,4,4,No,11,4,7,3,3,1,1,0,0,No,3
+E02790,Hazel Mitchell,Female,33,11/4/2020,Other,Married,Development,Technical Architect,Travel_Rarely,81070,10,4,4,41,3,2,4,2,Yes,13,4,9,5,4,4,2,1,3,No,3
+E02791,Ian Hernandez,Male,40,12/1/2021,Medical,Married,Development,Developer,Travel_Rarely,176533,1,3,2,61,3,1,4,2,Yes,16,1,6,2,2,2,0,2,0,Yes,3
+E02792,Charlotte Lam,Female,29,8/26/2020,Medical,Divorced,Development,Technical Architect,Travel_Rarely,60919,2,2,4,72,4,1,3,1,No,12,4,6,3,2,5,3,1,4,No,3
+E02793,Jonathan Ali,Male,51,7/20/2004,Marketing,Married,Sales,Sales Representative,Travel_Rarely,88288,3,2,1,86,2,1,3,1,Yes,14,3,3,2,3,3,2,0,2,Yes,3
+E02794,Violet He,Female,31,11/19/2021,Marketing,Married,Sales,Sales Representative,Travel_Rarely,53638,2,3,4,97,3,1,4,1,No,13,1,2,3,3,2,2,2,2,No,3
+E02795,Hannah Truong,Female,44,3/25/2009,Life Sciences,Married,Development,Developer,Travel_Rarely,75362,5,4,2,82,2,1,1,9,Yes,14,4,6,3,4,1,1,0,0,No,3
+E02796,Hannah Nelson,Female,38,5/24/2022,Life Sciences,Married,Sales,Sales Executive,Travel_Frequently,60799,1,3,3,42,4,2,1,2,No,19,1,10,3,3,5,3,1,3,No,3
+E02797,Autumn Kaur,Female,29,2/1/2022,Other,Divorced,Development,Developer,Travel_Rarely,129172,4,2,3,75,3,1,4,1,No,12,3,1,3,3,1,0,0,0,No,3
+E02798,Serenity Ngo,Female,49,2/11/2021,Life Sciences,Divorced,Development,Technical Architect,Travel_Rarely,50012,2,4,4,33,3,1,1,1,No,13,4,1,6,3,1,0,0,0,No,3
+E02799,Raelynn Her,Female,44,5/9/2018,Life Sciences,Single,Development,Technical Architect,Travel_Rarely,122441,25,3,1,48,1,1,3,1,No,12,3,1,2,2,1,0,0,1,Yes,3
+E02800,Jameson Salazar,Male,45,3/12/2003,Life Sciences,Single,Sales,Sales Executive,Travel_Frequently,85822,8,3,4,37,3,3,3,1,No,15,4,9,0,3,9,8,1,7,No,3
+E02801,Luke Luna,Male,58,5/21/2007,Medical,Single,Development,Developer,Travel_Frequently,43803,1,2,3,58,3,2,4,1,No,23,4,12,2,3,12,8,3,7,No,4
+E02802,Hunter Moua,Male,29,11/29/2019,Marketing,Single,Sales,Sales Executive,Non-Travel,72620,23,4,2,72,3,2,3,0,No,20,3,10,2,3,9,5,8,7,No,2
+E02803,Athena Aguilar,Female,25,8/24/2021,Life Sciences,Married,Development,Developer,Travel_Rarely,71222,19,2,2,73,3,1,2,4,No,21,1,8,1,3,1,0,0,0,No,4
+E02804,Ariana Sanders,Female,62,12/26/1994,Marketing,Single,Sales,Sales Executive,Travel_Frequently,155332,5,4,1,98,3,2,4,4,Yes,21,3,14,4,3,9,6,0,8,No,3
+E02805,Easton Cruz,Male,33,11/21/2016,Life Sciences,Married,Development,Technical Architect,Travel_Rarely,107202,8,1,4,36,4,1,4,1,No,19,4,1,2,3,1,0,0,1,No,3
+E02806,Josiah Vega,Male,56,12/26/2015,Life Sciences,Single,Development,Developer,Travel_Rarely,121751,1,2,1,98,2,3,3,9,Yes,13,4,23,2,3,1,0,0,0,Yes,3
+E02807,Isla Chavez,Female,45,9/29/2010,Technical Degree,Single,Development,Technical Architect,Travel_Rarely,115591,5,4,3,50,3,1,3,1,Yes,13,3,2,3,2,2,2,2,2,Yes,3
+E02808,Willow Estrada,Female,28,3/11/2021,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,108601,1,5,2,75,3,2,1,5,Yes,21,3,9,2,2,4,3,1,3,No,2
+E02809,Nevaeh Ng,Female,30,3/18/2019,Medical,Married,Development,Technical Architect,Non-Travel,159823,11,2,3,79,2,3,1,2,Yes,13,3,10,3,3,4,0,2,3,No,3
+E02810,Jade Hu,Female,45,12/15/2001,Marketing,Married,Sales,Sales Executive,Travel_Rarely,53526,23,3,3,47,2,2,4,7,Yes,19,3,5,2,2,2,2,0,0,No,3
+E02811,Henry Vazquez,Male,33,12/3/2016,Life Sciences,Single,Development,Developer,Travel_Frequently,90084,1,2,1,98,3,3,4,1,Yes,12,3,15,1,3,15,14,8,12,No,2
+E02812,Nathan Jackson,Male,41,3/25/2011,Life Sciences,Married,Sales,Sales Executive,Travel_Frequently,210085,18,5,2,71,3,3,1,1,No,22,4,9,3,2,9,8,1,8,No,2
+E02813,Anthony Lam,Male,33,2/7/2015,Medical,Married,Development,Business Analyst,Travel_Rarely,133908,23,4,3,30,3,1,1,3,Yes,15,3,4,3,3,2,2,2,2,No,3
+E02814,Nevaeh Ali,Female,48,3/22/2013,Life Sciences,Divorced,Development,Developer,Travel_Rarely,100652,7,4,4,48,3,2,4,3,No,22,4,10,3,2,7,7,1,7,No,4
+E02815,Mila Vasquez,Female,48,7/26/2013,Life Sciences,Divorced,Development,Business Analyst,Travel_Rarely,225725,1,4,1,51,2,2,3,1,No,18,3,7,2,4,7,5,0,7,No,3
+E02816,Madelyn Henry,Female,41,5/10/2007,Medical,Married,Development,Developer,Travel_Rarely,224989,1,3,1,33,3,2,4,1,Yes,22,2,9,3,3,9,8,7,8,No,3
+E02817,Emilia Alexander,Female,37,9/11/2022,Life Sciences,Single,Development,Developer,Travel_Frequently,109680,29,5,4,50,3,2,4,1,No,11,4,10,2,3,10,3,9,9,No,3
+E02818,Christian Ayala,Male,55,9/28/2003,Medical,Divorced,Development,Developer,Travel_Rarely,74216,7,2,2,43,2,5,3,5,Yes,12,4,29,2,2,27,3,13,8,No,3
+E02819,Willow Xiong,Female,37,5/4/2021,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,151363,25,3,1,99,3,3,1,7,No,11,4,28,3,2,21,16,7,9,No,2
+E02820,Avery Valdez,Female,58,1/29/2000,Technical Degree,Divorced,Development,Business Analyst,Travel_Rarely,62686,8,3,3,59,3,3,3,1,No,13,2,17,2,3,17,14,12,8,No,3
+E02821,Abigail Carter,Female,51,1/12/2015,Life Sciences,Single,Development,Business Analyst,Travel_Frequently,178218,11,3,2,95,2,2,2,1,No,13,3,6,3,3,6,5,0,3,No,4
+E02822,Madison Patel,Female,37,10/26/2013,Life Sciences,Divorced,Development,Business Analyst,Travel_Rarely,69125,7,3,2,59,3,3,1,2,No,17,3,25,2,3,1,0,0,0,No,3
+E02823,Paisley Hsu,Female,43,1/7/2006,Medical,Married,Development,Developer,Travel_Frequently,161376,1,3,2,79,3,1,1,4,No,13,4,5,2,2,3,2,1,2,No,3
+E02824,Kinsley Hill,Female,26,6/16/2022,Medical,Married,Development,Developer,Travel_Rarely,59436,9,3,4,79,2,1,3,0,Yes,17,1,2,0,2,1,0,0,0,Yes,3
+E02825,Kai Barnes,Male,35,8/24/2016,Life Sciences,Married,Development,Business Analyst,Travel_Rarely,58733,2,3,3,76,3,1,2,0,No,23,4,6,3,3,5,4,0,4,No,4
+E02826,Lincoln Cheng,Male,61,10/14/1997,Medical,Single,Development,Business Analyst,Travel_Rarely,88681,1,4,3,87,3,1,2,1,No,17,2,1,4,3,1,1,1,0,No,3
+E02827,Noah Sharma,Male,59,2/9/2008,Life Sciences,Married,Development,Developer,Travel_Rarely,186854,1,3,2,66,3,2,2,1,No,17,2,10,3,3,10,4,0,9,No,3
+E02828,Nevaeh Jiang,Female,65,7/10/1997,Life Sciences,Married,Development,Developer,Travel_Rarely,96897,6,3,2,55,4,1,4,3,No,12,2,5,3,3,1,0,0,0,No,3
+E02829,Ariana Hall,Female,55,1/17/2005,Life Sciences,Single,Development,Developer,Travel_Rarely,128954,8,4,3,61,3,2,4,1,No,23,4,11,2,3,11,7,1,8,No,4
+E02830,Samuel Cao,Male,51,5/22/1999,Marketing,Single,Sales,Sales Executive,Travel_Rarely,67418,1,4,3,32,2,2,1,0,No,14,2,16,2,3,15,13,2,8,No,3
+E02831,Brooks Mitchell,Male,53,8/10/2014,Medical,Divorced,Human Resources,Human Resources,Travel_Rarely,125545,5,2,2,80,3,2,2,8,Yes,22,4,16,2,3,4,2,0,2,No,3
+E02832,Kinsley Gonzalez,Female,47,1/27/2000,Life Sciences,Married,Development,Developer,Travel_Rarely,125641,1,1,4,55,2,2,4,1,Yes,12,3,10,1,2,10,8,3,0,No,3
+E02833,Dominic Tang,Male,53,12/8/1993,Medical,Single,Development,Business Analyst,Travel_Rarely,100666,1,3,2,30,2,1,3,1,No,18,1,6,3,3,6,4,0,4,No,3
+E02834,Colton Le,Male,38,1/12/2010,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,71235,1,2,1,70,3,3,4,3,No,14,4,24,4,3,1,0,1,0,No,3
+E02835,Kai Huang,Male,28,1/15/2021,Medical,Divorced,Development,Developer,Non-Travel,83235,6,3,2,79,1,2,4,7,Yes,12,4,17,3,3,13,11,1,9,No,3
+E02836,Addison Cruz,Female,32,9/8/2014,Medical,Married,Development,Business Analyst,Travel_Rarely,42075,1,2,1,94,3,2,2,1,No,15,3,5,2,3,5,2,1,3,No,3
+E02837,Natalie Thao,Female,52,10/23/2022,Technical Degree,Divorced,Sales,Sales Representative,Travel_Rarely,55020,2,1,3,62,3,1,1,3,No,13,3,3,3,3,0,0,0,0,No,3
+E02838,Maria Barnes,Female,64,5/13/2003,Life Sciences,Married,Development,Developer,Travel_Rarely,76506,2,3,3,99,2,2,4,1,No,19,1,11,3,3,11,10,10,8,No,3
+E02839,Everett Le,Male,55,3/3/2007,Medical,Single,Sales,Sales Executive,Travel_Rarely,100051,9,2,3,64,2,3,4,1,No,16,4,9,3,3,9,8,4,7,Yes,3
+E02840,Mia Vang,Female,38,4/19/2014,Life Sciences,Married,Development,Developer,Travel_Frequently,256509,1,4,3,78,2,4,2,1,No,22,4,22,3,2,22,3,11,11,No,4
+E02841,Zoey Mendoza,Female,30,2/16/2020,Marketing,Single,Sales,Sales Executive,Travel_Rarely,76904,21,4,3,71,3,2,4,0,Yes,22,4,11,2,1,10,7,1,0,No,3
+E02842,Parker Desai,Male,43,11/8/2018,Medical,Divorced,Sales,Sales Executive,Travel_Rarely,87914,4,2,3,63,2,2,2,1,Yes,12,2,11,4,2,11,8,2,7,No,3
+E02843,Alexander Liang,Male,40,3/5/2010,Medical,Married,Development,Developer,Travel_Frequently,235994,1,3,3,40,2,3,1,2,Yes,13,3,21,5,2,10,9,9,5,No,3
+E02844,Adam Jordan,Male,55,3/12/2015,Medical,Single,Sales,Sales Executive,Travel_Rarely,79620,6,4,2,87,3,2,3,1,No,16,1,12,0,3,11,8,5,7,No,2
+E02845,Leah Stewart,Female,36,6/4/2010,Other,Married,Sales,Sales Executive,Travel_Rarely,62450,3,2,1,33,3,2,3,0,No,21,1,4,2,2,3,2,0,2,No,3
+E02846,Robert Santos,Male,47,12/29/2000,Medical,Married,Sales,Sales Executive,Non-Travel,134612,4,3,2,43,3,2,3,1,No,15,2,5,3,4,5,4,0,4,No,4
+E02847,Addison Ma,Female,59,5/21/2008,Medical,Single,Sales,Sales Executive,Travel_Rarely,46151,10,4,4,37,3,4,3,0,No,13,3,38,1,2,37,10,1,8,No,3
+E02848,Clara Collins,Female,40,3/3/2008,Medical,Married,Development,Developer,Non-Travel,63889,23,3,2,67,3,2,2,4,No,12,3,17,3,4,3,2,1,2,No,3
+E02849,Stella Castro,Female,53,4/17/2009,Human Resources,Divorced,Human Resources,Human Resources,Travel_Rarely,75060,6,4,3,63,3,1,1,4,Yes,22,4,7,3,3,3,2,0,2,Yes,4
+E02850,Lucy Chin,Female,50,4/22/2011,Life Sciences,Single,Development,Developer,Travel_Rarely,175033,1,1,4,71,3,1,1,1,No,13,4,1,2,3,1,0,0,0,No,3
+E02851,Piper Evans,Female,52,1/28/2014,Other,Single,Development,Developer,Travel_Rarely,89379,6,4,1,41,3,2,3,1,No,14,3,16,3,3,16,13,2,10,No,3
+E02852,Cora Coleman,Female,40,4/9/2011,Life Sciences,Divorced,Development,Business Analyst,Non-Travel,98594,2,2,3,100,2,2,4,5,No,14,4,17,2,4,1,0,0,0,No,3
+E02853,Cora Holmes,Female,39,10/5/2021,Life Sciences,Married,Development,Business Analyst,Travel_Frequently,224435,1,3,1,73,3,5,2,3,Yes,19,1,28,1,2,8,3,0,7,No,3
+E02854,Leo Figueroa,Male,31,1/21/2015,Marketing,Single,Sales,Sales Executive,Travel_Rarely,63644,5,3,3,46,2,2,3,1,Yes,11,4,6,1,3,6,4,0,3,Yes,3
+E02855,Allison Wang,Female,30,12/16/2018,Medical,Married,Development,Business Analyst,Travel_Rarely,121234,7,1,4,64,2,1,4,1,No,11,3,2,2,3,2,2,2,1,No,3
+E02856,Levi Cruz,Male,47,9/22/2007,Medical,Single,Development,Developer,Travel_Rarely,83793,15,3,2,59,3,1,4,1,No,15,3,1,5,3,0,0,0,0,No,3
+E02857,Iris Phillips,Female,46,11/28/2019,Life Sciences,Single,Development,Developer,Travel_Frequently,99586,7,3,1,66,1,2,3,1,Yes,24,4,9,3,3,9,7,0,6,Yes,4
+E02858,Madelyn Chavez,Female,43,9/11/2006,Human Resources,Single,Human Resources,Manager,Non-Travel,59514,26,3,4,30,4,4,4,2,Yes,12,3,23,3,3,5,3,4,4,No,3
+E02859,Caroline Smith,Female,28,4/27/2020,Life Sciences,Married,Development,Business Analyst,Travel_Rarely,106043,18,1,2,52,3,1,3,0,No,12,3,6,2,3,5,3,1,2,No,3
+E02860,Grayson Lai,Male,47,9/12/2005,Life Sciences,Divorced,Development,Business Analyst,Travel_Rarely,78985,6,4,3,45,2,2,2,6,No,15,3,12,3,3,1,0,0,0,No,3
+E02861,Anna Guerrero,Female,43,11/24/2012,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,226122,3,3,3,87,3,3,4,2,No,12,1,12,3,3,5,3,1,3,No,3
+E02862,Paisley Bell,Female,42,1/10/2012,Medical,Single,Development,Business Analyst,Travel_Rarely,110720,5,3,3,45,2,3,1,2,No,12,4,14,6,3,11,10,5,8,No,3
+E02863,Jose Park,Male,45,10/11/2009,Life Sciences,Divorced,Development,Developer,Travel_Rarely,152519,3,2,1,39,3,1,4,5,No,22,1,7,2,3,1,0,0,0,No,4
+E02864,Eliza Parker,Female,37,3/24/2010,Life Sciences,Married,Sales,Manager,Travel_Frequently,80015,26,2,3,92,3,4,4,1,Yes,12,4,25,3,4,25,12,4,12,No,3
+E02865,Harper Castillo,Female,46,9/2/2020,Marketing,Married,Sales,Sales Executive,Non-Travel,192286,22,2,3,95,3,2,2,0,No,13,1,8,2,4,7,7,0,7,No,3
+E02866,Melody Yoon,Female,49,10/15/2014,Life Sciences,Single,Development,Developer,Travel_Rarely,40352,6,3,1,51,3,5,3,7,No,13,3,23,5,3,20,18,15,15,No,3
+E02867,Avery Smith,Female,53,6/27/2008,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,147813,6,4,2,76,1,2,3,4,Yes,18,2,12,3,2,7,7,7,7,Yes,2
+E02868,Madeline Vu,Female,61,6/5/2010,Other,Married,Development,Developer,Travel_Rarely,96404,6,3,3,46,2,1,2,1,No,19,3,5,3,2,5,4,4,3,No,3
+E02869,Aubrey Cheng,Female,46,6/17/2001,Medical,Married,Development,Developer,Travel_Rarely,64882,23,4,4,94,3,3,4,1,No,12,4,40,3,2,40,10,15,6,Yes,3
+E02870,Clara Henderson,Female,58,10/23/2016,Marketing,Single,Sales,Sales Representative,Travel_Rarely,203739,22,1,4,50,3,1,3,1,Yes,19,4,0,2,2,0,0,0,0,Yes,3
+E02871,Jace Henderson,Male,34,3/16/2022,Technical Degree,Married,Development,Developer,Travel_Rarely,197849,2,1,3,100,3,1,4,0,No,14,3,3,2,3,2,1,2,1,No,3
+E02872,Caroline Martin,Female,54,10/15/2000,Medical,Married,Development,Developer,Travel_Rarely,60116,20,4,3,96,3,2,1,1,No,14,3,16,2,2,15,11,5,11,No,3
+E02873,Asher Bui,Male,41,1/27/2009,Medical,Single,Development,Developer,Travel_Frequently,90881,28,3,2,72,4,1,3,4,No,12,4,18,2,3,3,2,1,2,No,3
+E02874,Samantha Chau,Female,28,11/10/2021,Marketing,Single,Sales,Sales Executive,Travel_Frequently,83965,12,3,3,77,3,3,4,4,No,11,4,16,3,3,2,2,2,1,No,3
+E02875,Charles Robinson,Male,62,6/30/2006,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,73500,20,3,2,71,1,2,3,3,Yes,11,3,4,2,3,2,2,2,2,Yes,2
+E02876,Jonathan Nelson,Male,59,7/2/2022,Life Sciences,Divorced,Sales,Sales Executive,Travel_Rarely,175137,9,1,3,96,3,3,3,3,Yes,13,3,12,2,3,9,7,0,7,No,3
+E02877,Liliana Simmons,Female,35,6/7/2012,Life Sciences,Married,Human Resources,Human Resources,Travel_Rarely,161453,25,1,3,61,3,1,3,1,No,23,4,8,3,3,8,7,5,7,No,4
+E02878,Logan Ortega,Male,31,5/19/2020,Medical,Divorced,Development,Developer,Travel_Rarely,64234,6,2,2,84,3,2,2,6,No,20,4,7,0,3,3,2,0,1,No,3
+E02879,Isaac Jung,Male,55,7/12/1994,Life Sciences,Single,Development,Business Analyst,Travel_Frequently,103726,8,4,1,53,1,3,4,2,No,15,4,18,2,3,4,2,0,3,Yes,4
+E02880,Christopher Desai,Male,46,12/29/2000,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,114260,28,3,1,41,2,2,3,2,No,18,4,6,3,3,2,2,2,2,No,2
+E02881,Levi Gonzalez,Male,36,4/27/2012,Human Resources,Married,Human Resources,Human Resources,Travel_Rarely,116168,9,3,3,48,3,2,4,0,Yes,19,4,12,2,1,11,9,4,7,No,3
+E02882,Santiago f Wang,Male,27,8/9/2021,Medical,Single,Development,Technical Lead,Travel_Rarely,133267,29,3,3,83,3,1,4,5,No,13,2,9,2,2,6,5,0,3,No,3
+E02883,Julia Kim,Female,50,12/4/2016,Technical Degree,Single,Development,Developer,Travel_Rarely,50038,3,5,4,32,3,2,3,3,Yes,20,2,19,2,3,3,2,2,2,No,4
+E02884,Noah Allen,Male,27,1/6/2022,Life Sciences,Single,Development,Developer,Travel_Rarely,52058,18,3,1,75,3,1,3,1,No,14,3,5,4,2,5,4,0,4,No,3
+E02885,Colton Adams,Male,25,11/19/2022,Technical Degree,Divorced,Development,Developer,Travel_Rarely,112646,5,3,4,84,3,1,1,5,No,14,4,8,3,3,3,2,2,2,No,3
+E02886,Colton Mehta,Male,42,12/7/2014,Life Sciences,Married,Development,Developer,Travel_Rarely,53829,9,4,3,94,3,1,1,2,No,21,4,7,2,3,5,0,1,4,No,4
+E02887,Caroline Gomez,Female,65,11/19/1997,Medical,Single,Development,Technical Lead,Travel_Rarely,90737,3,1,2,79,3,1,2,1,No,14,4,1,3,3,1,0,0,0,No,3
+E02888,Kayden Tang,Male,57,3/11/2012,Marketing,Married,Sales,Sales Executive,Travel_Rarely,136723,1,5,3,94,3,3,2,1,No,13,1,10,3,3,10,8,0,6,No,3
+E02889,Hadley Parker,Female,44,1/9/2010,Marketing,Married,Sales,Sales Representative,Travel_Rarely,129099,6,2,2,34,3,2,3,2,Yes,20,4,13,3,1,7,7,4,5,No,2
+E02890,Elizabeth Estrada,Female,37,12/20/2016,Life Sciences,Divorced,Development,Developer,Travel_Rarely,59376,9,3,2,60,3,2,2,8,No,18,3,20,2,1,17,9,0,15,No,3
+E02891,Sofia Yee,Female,52,12/25/2018,Marketing,Single,Sales,Sales Executive,Travel_Frequently,98060,8,3,2,43,3,3,4,1,No,14,4,9,2,3,9,8,3,7,No,2
+E02892,Asher Mendoza,Male,49,2/21/2014,Technical Degree,Married,Development,Technical Lead,Non-Travel,152911,1,1,4,41,3,2,3,1,No,13,1,10,1,3,10,7,0,9,No,3
+E02893,Jordan Hernandez,Male,47,12/15/2003,Medical,Married,Development,Technical Lead,Travel_Rarely,42994,9,3,2,75,2,1,2,4,Yes,20,2,9,3,2,1,0,0,0,No,4
+E02894,Everleigh Tan,Female,42,3/28/2019,Marketing,Married,Sales,Sales Executive,Travel_Rarely,59853,4,4,3,67,2,3,4,7,No,11,1,15,2,2,12,11,2,11,No,3
+E02895,Joshua Hall,Male,61,12/7/2011,Marketing,Married,Sales,Sales Representative,Travel_Frequently,41220,2,4,3,75,3,1,3,6,No,18,4,6,3,3,4,3,1,2,No,3
+E02896,Stella Gupta,Female,33,2/18/2020,Medical,Divorced,Development,Developer,Non-Travel,97261,9,3,4,57,3,1,2,6,No,18,4,6,1,1,2,2,2,2,No,3
+E02897,Levi White,Male,45,7/19/2018,Medical,Married,Development,Developer,Travel_Rarely,127363,21,3,3,42,3,1,4,1,No,11,3,5,2,1,5,2,0,2,No,3
+E02898,Matthew Jackson,Male,30,10/13/2019,Life Sciences,Divorced,Development,Developer,Travel_Rarely,111274,24,2,3,83,4,3,4,3,Yes,16,2,12,2,1,5,3,1,4,No,3
+E02899,Dominic Martinez,Male,53,4/17/2018,Medical,Divorced,Development,Technical Lead,Non-Travel,90554,3,3,3,79,2,1,3,1,Yes,15,4,1,2,2,1,1,0,1,No,3
+E02900,Aiden Aguilar,Male,62,12/12/1997,Life Sciences,Single,Development,Technical Lead,Travel_Rarely,100226,11,3,3,53,3,5,2,3,No,15,2,21,5,3,5,4,4,4,No,3
+E02901,Victoria Hu,Female,37,4/21/2017,Life Sciences,Divorced,Development,Developer,Travel_Rarely,93348,14,3,1,56,3,1,3,4,No,12,1,13,2,3,9,8,1,8,No,3
+E02902,Eloise Campos,Female,62,6/25/1993,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,78059,5,3,2,41,3,3,4,2,No,12,3,12,2,3,10,9,7,4,No,2
+E02903,Emilia Alvarado,Female,63,6/29/2001,Life Sciences,Single,Sales,Sales Executive,Travel_Rarely,58480,1,4,1,59,2,2,4,4,No,22,3,12,2,4,8,3,0,7,No,4
+E02904,Lydia Ahmed,Female,39,4/24/2017,Life Sciences,Single,Development,Developer,Travel_Rarely,218052,6,5,3,43,3,1,3,3,No,20,1,8,2,3,5,4,1,4,No,4
+E02905,Dylan Simmons,Male,52,5/23/2002,Technical Degree,Married,Development,Technical Lead,Travel_Rarely,129231,17,3,3,51,3,1,2,0,Yes,16,4,6,3,2,5,2,1,1,No,3
+E02906,Jaxson Chu,Male,54,10/10/2010,Technical Degree,Single,Sales,Sales Representative,Travel_Frequently,161878,1,1,3,100,1,1,1,0,No,21,1,1,5,4,0,0,0,0,Yes,4
+E02907,Ariana Griffin,Female,32,3/4/2015,Medical,Single,Development,Technical Lead,Travel_Frequently,241722,3,2,4,30,3,1,2,4,No,12,3,13,3,2,8,7,7,2,No,3
+E02908,Hudson Bailey,Male,56,3/12/2018,Medical,Divorced,Development,Developer,Non-Travel,91835,9,3,3,66,3,2,1,1,No,11,3,12,4,3,12,9,6,10,No,3
+E02909,Colton Grant,Male,47,1/7/2011,Life Sciences,Divorced,Sales,Sales Executive,Travel_Rarely,93910,4,2,3,30,3,2,1,4,Yes,11,1,9,3,4,5,4,0,3,No,3
+E02910,Emery Flores,Female,45,11/18/2005,Life Sciences,Divorced,Development,Developer,Travel_Rarely,86303,8,3,3,67,3,1,1,4,Yes,18,3,19,3,3,2,2,2,2,No,3
+E02911,Gabriella Wong,Female,56,5/1/1995,Life Sciences,Single,Development,Developer,Travel_Rarely,122731,2,3,3,90,3,1,4,0,No,14,1,4,2,4,3,1,0,2,No,3
+E02912,Ian Gonzales,Male,38,12/29/2018,Life Sciences,Single,Development,Developer,Travel_Rarely,147867,2,3,2,47,2,1,4,1,No,22,3,1,3,2,1,0,1,0,Yes,4
+E02913,Jaxon Wright,Male,47,8/30/2004,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,123790,1,2,2,92,3,3,1,1,No,25,3,24,2,3,24,13,15,7,No,2
+E02914,Ethan Cruz,Male,51,4/28/2000,Life Sciences,Single,Development,Technical Lead,Travel_Rarely,77153,9,2,3,75,3,1,4,1,No,12,3,2,3,3,2,2,2,1,No,3
+E02915,Adrian James,Male,52,8/15/1994,Medical,Single,Development,Developer,Travel_Rarely,73779,27,2,4,95,3,1,2,2,No,15,4,9,3,3,3,2,1,2,No,3
+E02916,Isabella Mejia,Female,56,10/7/2018,Marketing,Single,Sales,Sales Representative,Travel_Rarely,231699,20,2,2,70,3,1,2,1,Yes,22,4,4,5,2,4,3,0,2,Yes,3
+E02917,Christopher Miller,Male,37,5/16/2009,Medical,Married,Development,Developer,Travel_Rarely,199512,1,3,3,86,2,1,3,2,No,15,4,5,2,2,3,2,0,2,No,3
+E02918,Samuel Watson,Male,29,4/9/2022,Medical,Divorced,Development,Technical Lead,Travel_Rarely,77557,13,2,4,57,4,2,1,1,No,11,3,5,3,3,4,2,1,3,No,3
+E02919,Lucy Phan,Female,59,2/18/2021,Medical,Married,Development,Developer,Travel_Rarely,99760,14,3,4,72,3,1,2,1,No,13,4,8,5,3,8,7,1,6,No,3
+E02920,Dominic Thao,Male,50,9/8/1996,Medical,Married,Development,Developer,Travel_Rarely,96297,4,1,4,46,3,5,3,1,No,14,2,21,2,3,20,8,9,9,No,3
+E02921,Jaxon Shin,Male,48,12/27/2010,Life Sciences,Married,Development,Technical Lead,Travel_Frequently,53593,2,1,4,45,2,2,3,1,No,17,3,10,2,2,10,9,1,9,No,3
+E02922,Nevaeh Diaz,Female,44,3/3/2018,Medical,Single,Development,Developer,Travel_Rarely,167660,3,3,4,98,3,4,2,3,No,18,3,21,6,3,7,7,1,0,No,3
+E02923,Isaac Jenkins,Male,29,7/18/2021,Life Sciences,Married,Development,Developer,Travel_Rarely,43084,1,4,3,65,2,5,3,0,No,14,1,34,5,3,33,18,11,9,No,3
+E02924,Jace Barnes,Male,60,7/9/1996,Medical,Single,Development,Developer,Travel_Rarely,154707,9,3,4,99,3,1,2,1,No,16,4,7,2,2,7,7,0,3,No,3
+E02925,Carson Liu,Male,56,3/11/2011,Life Sciences,Married,Development,Developer,Travel_Rarely,184780,23,2,2,50,2,2,3,3,Yes,13,1,8,1,3,1,0,0,1,Yes,3
+E02926,Sofia Gutierrez,Female,31,10/19/2015,Medical,Divorced,Development,Technical Lead,Non-Travel,109925,7,3,4,37,4,1,4,4,No,14,4,7,3,4,5,4,2,2,No,3
+E02927,Jeremiah Chang,Male,53,3/9/2015,Medical,Married,Development,Technical Lead,Non-Travel,151706,2,2,1,65,2,4,4,9,No,23,4,22,1,3,20,8,11,8,No,3
+E02928,Connor Ruiz,Male,26,12/19/2022,Life Sciences,Married,Development,Developer,Travel_Rarely,102066,21,3,2,65,4,1,1,1,Yes,12,1,8,3,2,8,7,1,7,No,3
+E02929,Easton Truong,Male,31,5/13/2021,Medical,Single,Development,Developer,Travel_Frequently,234203,2,3,2,37,3,2,2,5,No,11,4,10,5,3,6,2,1,2,No,3
+E02930,Sebastian Vargas,Male,48,7/12/2019,Medical,Divorced,Development,Developer,Non-Travel,121884,21,2,3,36,3,2,3,2,No,16,2,11,5,3,5,3,0,2,No,3
+E02931,Joseph Dang,Male,61,4/20/2014,Life Sciences,Married,Development,Technical Lead,Travel_Rarely,209680,2,4,4,88,3,2,3,9,No,14,2,14,3,3,1,0,0,0,No,3
+E02932,Madison White,Female,42,7/9/2011,Technical Degree,Married,Development,Technical Lead,Travel_Rarely,240940,29,3,4,54,3,2,4,3,No,18,1,9,3,1,7,7,1,7,No,3
+E02933,Valentina Nelson,Female,50,12/16/2013,Technical Degree,Married,Development,Developer,Travel_Frequently,63884,1,1,3,60,2,2,1,5,No,19,3,6,1,3,2,2,2,0,No,3
+E02934,Everleigh Coleman,Female,46,3/20/2012,Life Sciences,Divorced,Development,Technical Lead,Non-Travel,74026,18,4,4,92,3,2,4,1,Yes,15,1,7,0,3,7,7,1,7,No,3
+E02935,Everleigh Castillo,Female,50,11/12/2007,Medical,Divorced,Development,Developer,Travel_Frequently,67756,10,4,4,43,3,1,3,1,Yes,17,4,5,4,4,5,3,2,0,No,3
+E02936,Valentina Fernandez,Female,62,1/23/2012,Medical,Married,Development,Developer,Travel_Rarely,180256,19,2,3,99,3,2,4,8,Yes,15,3,15,2,4,7,2,3,7,No,3
+E02937,Serenity Richardson,Female,45,3/14/2019,Medical,Married,Development,Technical Lead,Travel_Rarely,183165,29,1,2,70,3,2,1,7,Yes,19,2,17,2,3,1,0,0,0,Yes,3
+E02938,Cooper Ramirez,Male,34,2/7/2012,Marketing,Married,Sales,Sales Executive,Travel_Rarely,195194,27,3,2,35,3,3,4,1,No,22,4,10,3,2,10,4,1,9,Yes,2
+E02939,Penelope Avila,Female,35,5/22/2012,Life Sciences,Divorced,Development,Technical Lead,Travel_Rarely,46569,5,3,4,60,4,1,2,1,Yes,16,1,4,2,2,4,2,2,2,No,3
+E02940,David Barnes,Male,41,8/19/2006,Medical,Single,Development,Developer,Travel_Frequently,70566,18,1,2,73,3,1,4,1,No,13,1,8,2,3,8,1,1,7,No,3
+E02941,Ivy Luong,Female,56,7/5/1993,Life Sciences,Married,Development,Technical Lead,Non-Travel,75435,9,5,4,63,2,2,4,9,No,14,4,5,5,1,3,2,0,2,No,3
+E02942,Aurora Bailey,Female,31,5/23/2020,Medical,Married,Sales,Sales Executive,Travel_Rarely,69108,4,4,4,32,1,3,4,1,No,11,3,14,2,2,14,8,9,8,Yes,3
+E02943,Valentina Valdez,Female,40,5/1/2008,Life Sciences,Single,Sales,Sales Executive,Travel_Frequently,140589,20,3,4,90,3,2,3,1,No,14,4,7,2,3,7,7,0,7,No,3
+E02944,Parker Dinh,Male,51,6/28/2006,Life Sciences,Married,Data Science,Data Scientist,Travel_Rarely,206423,8,4,2,81,2,3,2,5,No,16,4,16,5,1,10,9,4,7,No,3
+E02945,Eliana Hsu,Female,49,6/9/2021,Life Sciences,Single,Sales,Manager,Travel_Rarely,123738,6,3,4,75,3,3,4,3,Yes,18,3,16,3,3,1,0,0,0,No,3
+E02946,Logan Parker,Male,34,1/13/2019,Marketing,Single,Sales,Sales Executive,Travel_Frequently,58120,26,4,3,52,2,2,1,5,No,15,3,9,5,2,6,3,0,1,Yes,3
+E02947,Liliana Green,Female,48,5/19/2000,Technical Degree,Single,Development,Developer,Travel_Rarely,62672,1,3,3,85,3,1,3,0,No,14,4,7,1,2,6,2,1,5,Yes,3
+E02948,Victoria Vazquez,Female,45,5/8/2007,Medical,Single,Sales,Sales Executive,Non-Travel,92037,6,3,4,57,2,3,4,6,No,12,4,23,2,3,19,7,12,8,No,3
+E02949,Kinsley Huynh,Female,53,4/22/2009,Marketing,Married,Sales,Sales Executive,Travel_Rarely,258722,3,3,4,52,3,2,1,2,No,14,4,16,4,3,6,2,0,5,No,3
+E02950,Anna Carrillo,Female,55,2/21/2003,Life Sciences,Single,Development,Technical Lead,Travel_Rarely,64809,5,2,4,62,3,2,2,8,No,16,4,16,3,4,13,11,3,7,No,3
+E02951,Isla Singh,Female,56,1/1/2022,Other,Divorced,Development,Developer,Travel_Frequently,95577,11,3,2,47,3,3,4,1,Yes,14,3,10,1,3,10,8,0,7,No,3
+E02952,Emma Yu,Female,41,8/13/2005,Medical,Married,Development,Developer,Non-Travel,73059,1,4,3,90,1,2,3,0,No,12,4,6,2,3,5,4,1,4,No,3
+E02953,Jonathan Dominguez,Male,55,7/14/2002,Marketing,Divorced,Sales,Sales Representative,Travel_Frequently,54641,4,4,1,41,3,1,4,4,No,17,3,13,2,3,9,8,5,8,No,2
+E02954,Caleb Mehta,Male,42,5/14/2015,Medical,Married,Sales,Sales Executive,Travel_Frequently,93851,1,1,2,42,3,3,4,1,No,14,4,11,5,3,11,10,4,1,No,2
+E02955,Connor Simmons,Male,30,1/17/2022,Marketing,Single,Sales,Sales Executive,Travel_Frequently,96010,1,3,3,92,3,3,3,1,No,14,1,10,3,4,10,7,0,8,No,4
+E02956,Jaxon Lai,Male,44,3/8/2004,Medical,Single,Development,Developer,Travel_Rarely,73386,18,1,3,86,2,1,4,1,Yes,13,3,4,3,2,4,3,0,1,Yes,3
+E02957,Madelyn Yee,Female,49,10/15/1999,Life Sciences,Single,Development,Technical Lead,Travel_Rarely,95033,2,3,3,89,2,1,4,7,No,15,2,6,3,2,2,2,2,2,No,3
+E02958,Elena Jimenez,Female,43,11/11/2011,Technical Degree,Married,Development,Developer,Travel_Rarely,185211,4,2,3,58,3,5,4,1,No,11,4,22,3,3,22,17,11,15,No,3
+E02959,Sadie Ali,Female,53,4/5/2014,Medical,Married,Human Resources,Human Resources,Travel_Rarely,125099,6,2,2,52,3,1,3,8,No,17,4,7,2,2,2,2,2,2,No,2
+E02960,Lucas Sandoval,Male,41,5/19/2011,Medical,Divorced,Sales,Manager,Travel_Rarely,84627,1,4,4,68,3,5,4,3,No,11,3,32,3,2,7,0,0,6,No,3
+E02961,Brooks Ngo,Male,26,3/2/2020,Medical,Married,Development,Developer,Travel_Rarely,211114,14,3,3,58,3,1,4,5,Yes,13,3,8,2,1,5,4,0,4,Yes,3
+E02962,Piper Oh,Female,57,1/23/1996,Marketing,Married,Sales,Manager,Travel_Rarely,73117,16,3,4,80,3,4,4,5,Yes,22,3,22,3,3,17,13,1,9,No,4
+E02963,Hunter Molina,Male,41,2/20/2018,Life Sciences,Married,Development,Developer,Travel_Rarely,55330,2,2,1,39,3,1,1,7,No,20,1,13,3,4,9,7,1,7,Yes,3
+E02964,Michael Hoang,Male,59,5/4/2017,Life Sciences,Single,Sales,Manager,Non-Travel,190570,2,4,1,79,2,5,3,1,Yes,18,4,33,2,4,33,7,15,12,No,2
+E02965,Eloise Sun,Female,59,6/1/2005,Life Sciences,Single,Development,Developer,Travel_Rarely,198745,1,3,4,62,2,1,3,0,Yes,14,4,4,2,1,3,2,1,2,Yes,3
+E02966,Gianna Jimenez,Female,54,11/26/2015,Medical,Divorced,Data Science,Data Scientist,Travel_Rarely,52901,1,4,3,96,3,1,3,7,No,14,3,7,1,3,3,2,1,2,No,3
+E02967,Ava Chan,Female,44,10/12/2022,Marketing,Married,Sales,Sales Executive,Non-Travel,137426,26,4,3,100,3,2,4,0,No,18,1,4,2,3,3,2,2,2,No,3
+E02968,Leilani Navarro,Female,55,7/8/2022,Life Sciences,Divorced,Data Science,Data Scientist,Travel_Rarely,117912,19,2,3,36,3,2,1,2,No,16,1,17,2,2,1,0,0,0,No,3
+E02969,Lydia Chu,Female,30,10/3/2021,Medical,Divorced,Development,Technical Lead,Travel_Frequently,154475,3,4,2,73,3,3,3,9,No,12,1,9,3,3,2,2,2,2,No,2
+E02970,Liam Salazar,Male,44,10/25/2020,Life Sciences,Married,Development,Developer,Travel_Rarely,62184,5,4,3,63,2,1,4,1,No,13,3,2,2,2,2,2,0,2,No,3
+E02971,Hailey Henderson,Female,57,8/13/2008,Life Sciences,Married,Development,Developer,Travel_Rarely,51415,2,4,4,84,2,2,1,6,No,13,2,13,3,3,11,9,5,9,No,3
+E02972,Austin Espinoza,Male,58,3/17/2006,Medical,Married,Development,Technical Lead,Travel_Rarely,77441,1,2,3,83,2,1,1,2,No,14,1,17,2,2,3,1,0,2,No,3
+E02973,Delilah Ng,Female,59,8/20/2008,Life Sciences,Married,Development,Technical Lead,Travel_Frequently,98794,7,4,1,77,4,2,3,4,No,17,4,9,1,3,3,2,0,2,No,4
+E02974,Gabriella Han,Female,60,1/22/2000,Medical,Divorced,Development,Developer,Travel_Frequently,77843,10,3,1,61,3,3,3,6,No,11,2,17,5,3,1,0,0,0,Yes,3
+E02975,Aria Miller,Female,32,6/7/2019,Technical Degree,Single,Development,Developer,Travel_Frequently,65666,2,4,3,64,3,3,3,0,No,25,4,20,1,3,19,6,11,8,No,4
+E02976,Sofia Dixon,Female,41,9/13/2011,Life Sciences,Single,Development,Developer,Travel_Rarely,95598,17,2,4,82,4,2,1,3,Yes,13,3,10,1,3,3,2,0,2,No,3
+E02977,Ethan Xiong,Male,39,5/5/2012,Marketing,Divorced,Sales,Sales Executive,Travel_Rarely,91144,20,2,4,45,3,2,4,2,No,14,4,10,2,3,3,2,0,2,No,3
+E02978,Gabriella Cruz,Female,39,8/13/2020,Life Sciences,Married,Development,Developer,Travel_Rarely,76759,1,3,1,62,3,2,3,0,No,12,4,5,3,3,4,2,1,2,No,3
+E02979,Christopher Kang,Male,31,9/7/2016,Medical,Divorced,Development,Developer,Travel_Rarely,118644,2,3,4,56,2,1,1,0,Yes,11,3,10,4,3,9,6,7,8,No,3
+E02980,Ariana Pham,Female,32,10/17/2015,Medical,Divorced,Data Science,Data Scientist,Travel_Rarely,79773,2,2,1,49,3,5,3,0,No,19,4,22,5,3,21,7,3,9,No,2
+E02981,Colton Bui,Male,46,12/20/2018,Life Sciences,Married,Development,Developer,Travel_Rarely,128845,1,3,3,96,3,1,4,1,No,11,2,1,0,2,1,0,0,0,No,3
+E02982,Caroline Cortez,Female,64,10/4/2014,Life Sciences,Married,Development,Technical Lead,Travel_Frequently,120704,7,3,2,100,4,1,2,1,No,20,3,5,3,1,5,1,0,3,No,3
+E02983,Nora Richardson,Female,53,1/8/1999,Life Sciences,Married,Sales,Sales Executive,Non-Travel,173624,2,2,4,39,2,2,4,3,No,18,4,13,0,3,8,7,7,5,No,3
+E02984,Alexander Sanchez,Male,34,11/6/2018,Technical Degree,Single,Development,Developer,Travel_Rarely,80772,2,1,4,84,2,2,1,4,No,13,4,9,5,3,6,2,0,4,No,3
+E02985,Logan Rahman,Male,39,7/27/2008,Technical Degree,Married,Sales,Manager,Travel_Rarely,126350,2,3,3,75,1,4,2,3,Yes,12,2,28,2,2,7,7,7,7,No,3
+E02986,Henry Rogers,Male,25,5/5/2021,Life Sciences,Single,Development,Developer,Travel_Rarely,72693,2,4,1,79,3,1,3,2,No,11,3,5,5,1,0,0,0,0,Yes,3
+E02987,Delilah Cheng,Female,45,3/15/2015,Medical,Married,Sales,Sales Executive,Travel_Rarely,92820,2,3,1,78,2,2,2,2,No,19,2,10,2,3,0,0,0,0,No,3
+E02988,Caroline Rodriguez,Female,61,4/17/1997,Medical,Married,Data Science,Data Scientist,Travel_Rarely,135561,23,3,2,64,2,2,4,0,No,21,2,10,2,3,9,0,7,8,No,4
+E02989,Jack Chin,Male,44,8/24/2007,Life Sciences,Divorced,Development,Developer,Non-Travel,121788,5,2,2,85,4,2,1,1,No,12,4,6,2,3,6,3,1,5,No,3
+E02990,Luna Collins,Female,59,11/19/1993,Medical,Married,Development,Technical Lead,Travel_Rarely,92216,20,2,3,79,3,4,4,0,Yes,14,2,21,2,3,20,7,4,10,No,3
+E02991,John Campos,Male,34,2/25/2021,Medical,Single,Development,Developer,Travel_Rarely,104586,1,3,4,81,3,5,1,0,Yes,14,3,37,2,3,36,10,4,13,No,3
+E02992,Charlotte Banks,Female,45,12/23/2002,Medical,Married,Development,Technical Lead,Travel_Rarely,70439,9,3,4,94,3,1,4,1,No,23,4,5,3,2,5,2,0,4,No,4
+E02993,Miles Liu,Male,35,5/25/2021,Medical,Married,Sales,Sales Executive,Travel_Rarely,52232,6,4,3,98,3,2,4,4,No,14,2,7,5,4,5,4,0,1,No,4
+E02994,Violet Duong,Female,42,9/22/2014,Medical,Single,Development,Developer,Travel_Rarely,226646,3,2,4,100,2,1,3,1,No,17,1,3,4,4,3,2,1,0,No,4
+E02995,Isaac Xiong,Male,38,10/28/2012,Medical,Divorced,Development,Developer,Non-Travel,152253,1,4,1,80,3,3,4,2,Yes,18,1,15,2,3,5,2,0,2,No,3
+E02996,Ian Le,Male,46,8/28/2007,Life Sciences,Divorced,Development,Technical Lead,Travel_Rarely,195471,22,3,2,71,4,3,2,7,No,18,2,10,6,2,7,7,6,2,No,3
+E02997,Melody Delgado,Female,48,11/28/2012,Medical,Divorced,Sales,Sales Executive,Travel_Rarely,71632,7,2,1,44,4,2,1,1,Yes,24,3,8,3,3,8,0,7,7,No,4
+E02998,Eliza Bui,Female,63,6/13/2010,Life Sciences,Divorced,Data Science,Data Scientist,Travel_Frequently,45337,1,3,3,84,3,2,2,1,No,20,1,6,6,1,6,5,1,4,No,3
+E02999,Layla Wu,Female,31,8/27/2018,Life Sciences,Divorced,Development,Developer,Travel_Rarely,89573,4,1,1,96,3,5,2,3,No,14,1,28,4,2,10,4,1,6,No,2
+E03000,Thomas Lam,Male,52,11/18/2022,Medical,Married,Development,Technical Lead,Travel_Rarely,75775,3,4,3,45,3,4,3,3,Yes,16,4,21,5,2,5,3,1,3,No,3
+E03001,Willow Taylor,Female,27,2/8/2021,Life Sciences,Married,Sales,Sales Executive,Travel_Rarely,51321,1,1,2,99,3,2,3,1,No,25,3,20,3,3,20,16,11,6,No,2
