@@ -11,15 +11,20 @@ import mysql.connector as mq
 
 con= mq.connect(host='localhost', database = 'emp_db', user = 'root', password = '9868')
 
-def dfetch(x,y):
+def dfetch(r, t):
     cursor = con.cursor()
-    a = x
-    b = y
-    q = "Select FullName from emp_db.emp_table WHERE %s= %s"
-    cursor.execute(q, (a,b))
+    if r == 'Gender':
+        q = "Select * from emp_db.emp_table WHERE Gender = %s ;"
+    elif r == 'EmpDepartment':
+        q = "Select * from emp_db.emp_table WHERE EmpDepartment = %s ;"
+    elif r == 'EducationBackground':
+        q = "Select * from emp_db.emp_table WHERE EducationBackground = %s ;"
+    elif r == 'EmpJobRole':
+        q = "Select * from emp_db.emp_table WHERE EmpJobRole = %s ;"
+
+    cursor.execute(q, (t,))
     res = cursor.fetchall()
-    for i in res:
-        print(i)
+    print(pd.DataFrame(res))
 
 def prate(x,y):
     cursor = con.cursor()
